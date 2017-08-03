@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Saved",
+    "database": "core",
+    "itemId": "{91F4E02D-E8DD-46BB-A9B7-A7A2A8BE915B}",
+    "version": 1,
+    "language": "da",
+    "timestamp": "2017-08-03T02:59:40.5317921Z",
+    "label": "Saved",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Anonymous",
+    "itemName": "PageAnalyzer",
+    "itemPath": "/sitecore/client/Applications/PathAnalyzer/Help/PageAnalyzer",
+    "template": "Help",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]
