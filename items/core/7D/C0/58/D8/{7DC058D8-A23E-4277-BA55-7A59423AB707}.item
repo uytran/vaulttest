@@ -13,8 +13,789 @@ created: 20160729T132117:636053952770000000
 ----version----
 language: da
 version: 1
-revision: 9ac00027-24a6-4e7b-8cba-f521c9592179
+revision: 14c04057-0744-43ac-a9ee-209c8c63573e
 
+----field----
+field: {6F11AD22-C527-47D9-A22B-86395B09D695}
+name: Content
+key: content
+content-length: 38905
+
+<h1 id="intro">Kom i gang med Path Analyzer</h1>
+
+<p>Med Path Analyzer kan du analysere de stier, som kunder følger, når de
+interagerer med dit brand, med fokus på identifikation af de mest
+effektive og mindst effektive stier og stier med potentiale til
+optimering. Du kan analysere de stier, som kunderne især følger
+<a href="https://doc.sitecore.net/sitecore_experience_platform/developing/marketing_operations/channels/channels">kanaler</a>
+(e-mail-marketing, social osv.), mens der interageres med
+<a href="https://doc.sitecore.net/sitecore_experience_platform/digital_marketing/campaigns/campaigns/create_and_edit_a_campaign_activity">kampagner</a>,
+og deres måde at konvertere forretningskritiske aktiviteter, som f.eks.
+<a href="https://doc.sitecore.net/sitecore_experience_platform/digital_marketing/campaigns/goals__events/goals">mål</a>,
+<a href="https://doc.sitecore.net/sitecore_experience_platform/digital_marketing/engagement_plans/events">events</a>
+og
+<a href="https://doc.sitecore.net/sitecore_experience_platform/developing/marketing_operations/outcomes/outcomes">resultater</a>.</p>
+
+<h2 id="scenarios">Nøglescenarier</h2>
+
+<p><h3 id="”scenario1"">1. Undersøgelse af kortet</h3></p>
+
+<p><a href="#map-key">Sådan forstås de visuelle referencer</a>, og dataene bag dem er
+vigtige for at kunne aflæse et kort effektivt og spotte mønstre. De
+funktioner, der oplistet nedenfor, er nyttige, når du begynder din
+analyse af stier, især, hvis det er første gang, du anvender programmet,
+og du ikke er sikker på, hvor du skal starte.</p>
+
+<p><a href="#reports">Rapportfunktion</a>, der er tilgængelig fra kontekstruden,
+hjælper med hurtigt at fremhæve mønstre på en given rapportkategori.
+Hvis du f.eks. ønsker at se alle stier, som ikke generer en
+<a href="#value">engagement-værdi</a>, vælger du ganske enkelt kategorien "Stier
+uden værdi" og klikker gennem top 10-stierne. Der er i alt <a href="#reports">8
+rapportkategorier</a>, der kan undersøges.</p>
+
+<p><a href="#dashboard">Dashboard-visning</a> er nyttig, hvis du lige er startet med
+sti-analyse og ikke er helt fortrolig med <a href="#map-views">andre kortvisninger</a>
+endnu. I dashboard-visning kan du
+se: <a href="#map-kpis">Kort-KPI’er</a>; <a href="#top-path-entries">Førende
+sti-indgange</a>; og <a href="#featured-path">Udvalgt sti</a>; og
+du kan få adgang til <a href="#reports">rapporter</a> og <a href="#funnels">kanaler</a>
+-funktioner.</p>
+
+<p><a href="#table-view">Tabel-visning</a> er en anden fremragende måde at starte
+sti-analyse på. Det anvender en visualisering, der minder meget om
+Excel, med alle stier og nøgle-metrikker, og gør det muligt at udføre
+filtrering.</p>
+
+<p><a href="#metrics-filter">Der er adgang til metrik-filter</a> fra alle visninger,
+bortset fra dashboardet, hvor du kan fokusere på stier, der er baseret
+på et bestemt sæt metrikker. Du kan anvende filteret til at vise et kort
+over stier med høj <a href="#value">værdi</a>, men med lavt <a href="#visits">besøgstal</a>,
+stier med høj <a href="#value-per-visit">værdi pr. besøg</a>, eller stier med høj
+<a href="#exit-value-potential">udgangsværdipotentiale</a>. På denne måde kan du
+filtrere kortet, så det viser gode stier, ringe stier og stier til
+optimering.</p>
+
+<h3 id="scenario2">2. Du kan undersøge sider fra eller til en bestemt side</h3>
+
+<p>Hvis du kender navnet på en bestemt side, kan Path Analyzer let vise
+alle stier, der fører til og fra denne side vha.
+<a href="#path-filter">sti-filter</a> , så du kan oprette en sti, baseret på sidens
+navn. Hvis du har en destinationsside i tankerne, kan du inkludere den i
+sti-filteret, så du kan få alle stier fra side A til side B. Med
+<a href="#experience-maps">oplevelseskort</a> kan du anvende denne teknik til at
+filtrere stier, der fører til et mål.</p>
+
+<p>Svarende til <a href="#scenario1">Scenarie 1</a>, kan du anvende
+<a href="#metrics-filter">metrik-filteret</a> til yderligere at forfine et
+filtreret kort, der er baseret på en kombination af nøgle-metrikker.</p>
+
+<p>Når du anvender filteret, kan du enten undersøge forskellige visninger
+efter <a href="#map-key">læsning</a> af det filtrerede kort eller benytte dig af
+<a href="#reports">rapport-funktionen</a> for hurtigt at navigere til top
+10-stierne i en given <a href="#reports">rapport-kategori</a>. Rapporterne viser
+kun stier, der matcher med det anvendte <a href="#path-filter">sti-filter</a> og
+<a href="#metrics-filter">metrik-filteret</a>.</p>
+
+<h3 id="scenario3">3. Sti-analyse på makroniveau (mål, events, resultater)</h3>
+
+<p>Når kort på sideniveau giver for mange detaljer,
+<a href="#experience-maps">Oplevelseskort</a> er ofte nyttige for at forstå
+sti-analyse på makroniveau med fokus på
+<a href="https://doc.sitecore.net/sitecore_experience_platform/developing/marketing_operations/channels/channels">kanaler</a>,
+<a href="https://doc.sitecore.net/sitecore_experience_platform/digital_marketing/campaigns/campaigns/create_and_edit_a_campaign_activity">kampagner</a>,
+<a href="https://doc.sitecore.net/sitecore_experience_platform/digital_marketing/campaigns/goals__events/goals">mål</a>,
+<a href="https://doc.sitecore.net/sitecore_experience_platform/digital_marketing/engagement_plans/events">events</a>
+og
+<a href="https://doc.sitecore.net/sitecore_experience_platform/developing/marketing_operations/outcomes/outcomes">resultater</a>.</p>
+
+<h3 id="scenario4">4. Undersøgelse af en kampagne- eller kanaltrafik</h3>
+
+<p>Hvis du ønsker at forstå, hvordan dine kunder interagerer med dit brand
+gennem en bestemt
+<a href="https://doc.sitecore.net/sitecore_experience_platform/developing/marketing_operations/channels/channels">kanal</a>
+eller
+<a href="https://doc.sitecore.net/sitecore_experience_platform/digital_marketing/campaigns/campaigns/create_and_edit_a_campaign_activity">kampagne</a>,
+kan du plukke en af standard <a href="#channel-maps">kanalkortene</a> med
+<a href="#map-selector">kortvælgeren</a> eller <a href="#how-to-create-a-new-map">oprette og
+installere</a> et nyt
+<a href="#campaign-maps">kampagnekort</a> med fokus på den omhandlede kampagne. Du
+kan også anvende <a href="#experience-maps">oplevelseskort</a>, som i <a href="#scenario3">Scenarie
+3</a> og anvende <a href="#path-filter">sti-filteret</a> til at vise stier
+fra en bestemt kanal eller kampagne.</p>
+
+<h3 id="scenario5">5. Oplev et kort med fokus på et bestemt segment</h3>
+
+<p>Hvis du vil undersøge stier fra et bestemt kundesegment, <a href="#how-to-create-a-new-map">kan du oprette
+et nyt kort</a> og derefter angive
+segmentreglerne i filterfeltet vha. den kendte <a href="https://doc.sitecore.net/sitecore_experience_platform/digital_marketing/personalization/the_rule_set_editor">grænseflade
+med</a>
+regelsæt-editoren. Når det nye kort er installeret, kan du vælge det i
+kortvælgeren og undersøge det på samme måde, som du ville undersøge
+standardkortene.</p>
+
+<h3 id="scenario6">6. Undersøgelse af stier, der fører til et mål</h3>
+
+<p>En måde at undersøge stier, der fører til et givent mål, er at anvende
+standard <a href="#experience-maps">oplevelseskort med mål</a> og angive målet i i
+<a href="#path-filter">sti-filteret</a>.</p>
+
+<p>En anden måde er at <a href="#how-to-create-a-new-map">oprette og installere</a> et
+nyt <a href="#goal-maps">målkort</a>, der kun har fokus på stier med det angivne
+mål. Du kan anvende samme teknik til at undersøge stier for bestemte
+aktiver eller resultater.</p>
+
+<h2 id="maps">Kort</h2>
+
+<p>Et kort er en speciel markedsføringsdefinition for sti-analyse, der har
+to nøgleattributter: korttype og kortfilter. Korttypen beskriver,
+hvordan der opbygges de data, der driver kortet, og beskrives mere
+detaljeret <a href="#map-types">her</a>. Kortfilteret er en ekstra, men vigtig
+attribut, der hjælper med at definere et segmenteret kort vha.
+<a href="https://doc.sitecore.net/sitecore_experience_platform/digital_marketing/personalization/the_rule_set_editor">regelsæt-editoren</a>
+og et omfattende sæt betingelser.</p>
+
+<p>Ud over disse to nøgleattributter, har hvert enkelt kort en unik
+identifikator, et navn og en type. Du kan også inkludere andre ekstra
+attributter, som f.eks. beskrivelse.</p>
+
+<p>Svarende til andre marketingdefinitionselementer kan du <a href="#how-to-create-a-new-map">oprette et kort
+i marketingkontrolpanelet.</a>.</p>
+
+<p>Kort visualiseres vha. <a href="#map-views">kortvisning</a>.</p>
+
+<h2 id="map-types">Korttyper</h2>
+
+<p>Korttyper foreskriver, hvordan interaktionsdata fra xDB transformeres
+til sti-analyse. Der er forskellige korttyper tilgængelige som standard.</p>
+
+<h3 id="page-maps">Sidekort</h3>
+
+<p>Disse kort er opbygget ud fra sekvenser af sidebesøg i en given
+interaktion. Der er som standard nogle få undertyper tilgængelige for
+sidekort. Disse kortundertyper er bekvemme, da du let kan oprette et
+sidekort med fokus på en bestemt interaktionsattribut (kanal, kampagne,
+mål, aktiv osv.).</p>
+
+<h4 id="goal-maps">Målkort</h4>
+
+<p>Med målkort kan du oprette et sidekort, der fører til et bestemt mål.
+Målkort ser bort fra sider, der er besøgt, efter et bestemt mål er nået.</p>
+
+<p>Du kan oprette målkort i modsat tilstand ved at vælge afkrydsningsfeltet
+Omvendt på målkortdefinitionselementet i marketingkontrolpanelet. Et
+omvendt målkort vender rækkefølgen af sider, der fører til et bestemt
+mål og anvender det valgte mål som startpunkt på kortet i stedet for den
+konventionelle <a href="#internet-node">internet-node</a>.</p>
+
+<h4 id="asset-maps">Aktivkort</h4>
+
+<p>Med aktivkort kan du oprette sidekort, der fører til en bestemt
+aktiv-download. Aktivkort ser bort fra sider, der er besøgt, efter et
+bestemt aktiv er downloadet.</p>
+
+<p>Du kan opbygge aktivkort i modsat tilstand ved at vælge
+afkrydsningsfeltet Omvendt på aktivkortdefinitionselementet i
+marketingkontrolpanelet. Et omvendt aktivkort vender rækkefølgen af
+sider, der fører til download af et bestemt aktiv, og anvender det
+valgte aktiv som startpunkt i stedet for den konventionelle
+<a href="#internet-node">internet-node</a>.</p>
+
+<h4 id="campaign-maps">Kampagnekort</h4>
+
+<p>Med kampagnekort kan du oprette et sidekort for alle interaktioner fra
+en bestemt kampagne.</p>
+
+<h4 id="channel-maps">Kanalkort</h4>
+
+<p>Med kanalkort kan du oprette et sidekort for alle interaktioner fra en
+bestemt kanal.</p>
+
+<h4 id="outcome-maps">Resultatkort</h4>
+
+<p>Med resultatkort kan du oprette et sidekort, der fører til et bestemt
+resultat.</p>
+
+<h3 id="experience-maps">Oplevelseskort</h3>
+
+<p>I modsætning til sidekort kan oplevelseskort indeholde andre
+interaktionsattributter, som f.eks.
+<a href="https://doc.sitecore.net/sitecore_experience_platform/developing/marketing_operations/channels/channels">kanaler</a>,
+<a href="https://doc.sitecore.net/sitecore_experience_platform/digital_marketing/campaigns/campaigns/create_and_edit_a_campaign_activity">kampagner</a>,
+<a href="https://doc.sitecore.net/sitecore_experience_platform/digital_marketing/campaigns/goals__events/goals">mål</a>,
+<a href="https://doc.sitecore.net/sitecore_experience_platform/digital_marketing/engagement_plans/events">events</a>
+og
+<a href="https://doc.sitecore.net/sitecore_experience_platform/developing/marketing_operations/outcomes/outcomes">resultater</a>,
+som tillæg til sider. Du kan vælge disse interaktionsattributter med
+afkrydsningsfelterne på oplevelseskortdefinitionselementet i
+marketingkontrolpanelet. På denne måde kan oplevelseskort sætte dig i
+stand til at fokusere mere på analyse på højt niveau i stedet for mere
+detaljerede <a href="#page-maps">sidekort</a>.</p>
+
+<p>Der er som standard adgang til tre oplevelseskort:</p>
+
+<ul>
+<li><p>Oplevelseskort med mål. Indeholder kanal, kampagne (hvis
+tilgængelig), alle mål og resultater.</p></li>
+<li><p>Oplevelseskort kun med værdimål. Samme som ovenfor, bortset fra, at
+mål med engagementværdi er tilføjet.</p></li>
+<li><p>Oplevelseskort med side-events. Indeholder kanal, kampagne (hvis
+tilgængelig), kun indgangs- og udgangsside, alle side events og
+resultater.</p></li>
+</ul>
+
+<p>Du kan let <a href="#how-to-create-a-new-map">oprette et nyt kort</a>, baseret på
+et eksisterende kort med marketingkontrolpanelet.</p>
+
+<h3 id="site-specific-maps">Sidespecifikke kort</h3>
+
+<p>Ud over korttyper, kan kort enten være <strong>globale</strong> eller
+<strong>sidespecifikke</strong>. Globale kort er opbygget til alle sider, mens
+sidespecifikke kort kun er bygget til en bestemt side. Om et kort er
+globalt eller sidespecifikt, bestemmes af placeringen af kortet i
+indholdet på træet i Path Analyzer i marketingkontrolpanelet. Alle
+globale kort er placeret i <em>/Kort/Standardkort/Globale kort</em>-mappen, og
+alle sidespecifikke kort er placeret i
+<em>/Kort/Standardkort/Sidekort</em>-mappen.</p>
+
+<h3 id="custom-maps">Brugerdefinerede kort</h3>
+
+<p>Hvis der er registreret brugerdefinerede kort, der typisk kræver mindre
+udviklingsindsats, kan du finde dem i <em>/Kort/Brugerdefinerede
+kort</em>-mappen.</p>
+
+<h3 id="how-to-create-a-new-map">Sådan oprettes et nyt kort</h3>
+
+<p>Sådan oprettes et helt nyt kort:</p>
+
+<ol>
+<li><p>Åbn marketingkontrolpanelet fra startområdet.</p></li>
+<li><p>Gå til elementet Path Analyzer.</p></li>
+<li><p>Udvid kortelementet under Path Analyzer.</p></li>
+<li><p>Vælg den mapper, der passer til dit nye kort, baseret på de
+tilgængelige korttyper, der er beskrevet ovenfor.</p></li>
+<li><p>Opret et nyt kortelement.</p></li>
+<li><p>Angiv de nødvendige attributter, og evt. ekstra attributter til
+kortet.</p></li>
+<li><p>Gem kortelementet.</p></li>
+<li><p>Installer det nye kort med kommandoen til
+installationsarbejdsprocessen på fanen Gennemse.</p></li>
+</ol>
+
+<p>Der opbygges historisk og livedata for kortet ca. 30 minutter efter
+installation.</p>
+
+<h2 id="map-selector">Kortvælger</h2>
+
+<p>Du kan vælge forskellige kort med kontrollen Kortvælger. Du kan også se
+mere kort-metadata og tilføje et kort til din favoritliste, der
+automatisk gemmes på din profil.</p>
+
+<h3 id="group-map-data">Grupper kortdata</h3>
+
+<p>Kort drives af <a href="#tree">træ-datastrukturer</a>, der består af
+<a href="#node">noder</a>. Da hver enkelt <a href="#node">node</a> forventes at have et
+tilhørende element i indholds(master)-databasen, hvis du vælger
+kortvælgerens afkrydsningsfelt Grupper kortdata, grupperes noderne af
+Sitecore-dataskabelonen, hvorfra de var oprettet.</p>
+
+<p>Du kan f.eks. gruppere disse to stier:</p>
+
+<ul>
+<li><p>Home -> TVs -> 50" fladskærms-TV</p></li>
+<li><p>Home -> Tablets -> 12"-tablet</p></li>
+</ul>
+
+<p>til en enkelt sti:</p>
+
+<ul>
+<li>Startside -> Produktkategoriside -> Produktdetaljeside</li>
+</ul>
+
+<p>Det er nyttigt at gruppere kortdata, når du vil udføre en sti-analyse på
+et sidekategoriniveau sammenlignet med et indviduelt sideniveau.</p>
+
+<h2 id="date-selector">Datoområdevælger</h2>
+
+<p>Du kan vælge et datointerval vha. dataoområdevælgeren enten ved at vælge
+individuelle start- og slutdatoer fra kalendere, eller ved at vælge en
+af de foruddefinerede datoområder.</p>
+
+<h3 id="date-selector-missing-dates">Datoer mangler data</h3>
+
+<p>Der kan være tilfælde, hvor et kort ikke har nogen tilgængelige data for
+nogle datoer, selvom der er tilgængelige data før eller efter disse
+datoer. Dette kan skyldes, at der ikke er registreret interaktioner for
+en dato, eller fordi der er opstået en fejl under databehandlingen, og
+de involverede datoer med fejl er sprunget over. Datointerval-vælgeren
+fremhæver datoer, hvor der ikke er adgang til data. Kontakt
+systemadministratoren, hvis du oplever mange datoer i kalenderen, hvor
+der ikke er tilgængelige data.</p>
+
+<h3 id="date-selector-unavailable-dates">Utilgængelige datoer</h3>
+
+<p>Afhængig af det datointerval, du har valgt, kan nogle datoer være
+markeret utilgængelige. F.eks. Når du vælger en slutdato, er alle
+datoerne forud for den aktuelle startdato markeret som utilgængelige.
+Alle fremtidige datoer markeres også som utilgængelige.</p>
+
+<h2 id="map-key">Kortnøgle</h2>
+
+<p>Følgende kortnøgle anvendes på radial, vandret og lodret trævisning.</p>
+
+<p>Når du læser et kort, repræsenterer størrelsen og farven på cirklerne og
+linjerne mellem noderne på kortet information om, hvilke stier, der
+giver højere <a href="#value">engagement-værdi</a>, højere <a href="#value-per-visit">værdi pr.
+besøg</a> eller er de mest <a href="#visits">besøgte</a>.</p>
+
+<p>Cirkler repræsenterer <a href="#node">noder</a>. Afhængig af den valgte korttype,
+kan noder repræsentere sider, mål eller andre markedsføringsaktiviteter.
+Cirkler har følgende to visuelle egenskaber med information om noden:
+størrelse og farve.</p>
+
+<p>Størrelsen af en cirkel indikerer den samlede <a href="#value">engagement-værdi</a>
+for en <a href="#node">node</a> og alle underelementerne. Med andre ord, så udgør
+en større node en større samlet <a href="#value">engagement-værdi</a>.</p>
+
+<p>Farven på en cirkel indikerer <a href="#value-per-visit">værdi pr. besøg</a> for en
+<a href="#node">node</a>, sammenlignet med værdi pr. besøg af dens overordnede, og
+den hjælper dig med at spotte ændringen i denne metrik, når du går
+yderligere ned i dybden på denne sti. Hvis en cirkel bliver rød, så er
+<a href="#value-per-visit">værdi pr. besøg</a> faldet for denne <a href="#node">node</a>. Hvis
+en cirkel bliver grønnere end dens overordnede, så er <a href="#value-per-visit">værdi pr.
+besøg</a> steget for denne <a href="#node">node</a>. Cirkelfarven
+hjælper dig også med at sammenligne <a href="#value-per-visit">værdi pr.
+besøg</a>-metrikken mellem sidestillede noder og
+bestemmer, hvor de højeste <a href="#value-per-visit">værdi pr. besøg</a>-stier
+fortsætter fra en given <a href="#node">node</a>.</p>
+
+<p>Cirkler med en tyk mørkegrå kant udgør specielle "<a href="#other-nodes">andre
+noder</a>".</p>
+
+<p>Linjer, der forbinder kortnoder, repræsenterer stier mellem
+<a href="#node">node</a> A og <a href="#node">node</a> B. Linjer, der har følgende visuelle
+egenskaber, giver informationer om <a href="#path">stien</a>: tykkelse og delvise
+skygge.</p>
+
+<p>Tykkelsen af en linje indikerer, hvor mange <a href="#visits">besøg</a> (trafik) ,
+der gik fra <a href="#node">node</a> A til <a href="#node">node</a> B, sammenlignet med
+sideordnede for <a href="#node">node</a> B, der gør det let at identificere stier
+med høj trafik.</p>
+
+<p>En delvis skygge på en linje komplementerer linjetykkelsen og anvendes
+til at vise sti-besøg på dybere niveauer, hvor det er sværere at se
+forskellen i linjetykkelsen.</p>
+
+<p>Som en generel retningslinje, så se efter tykke linjer, uanset om det er
+små eller røde cirkler, der angiver et højt antal <a href="#visits">besøg</a> på
+stier, der hhv. har lav <a href="#value">engagement-værdi</a> (size) og lav <a href="#value-per-visit">værdi
+pr. besøg</a> (farve).</p>
+
+<h3 id="other-nodes">Andre noder</h3>
+
+<p>På grund af begrænsningerne i trævisninger (radial, vandret og lodret)
+når visualisering af store kort med ekstremt meget indhold, bliver
+mindre vigtige noder, der ikke passer i et bestemt visualiseringsniveau,
+kombineret til en speciel "anden" node. <a href="#table-view">Tabel-visning</a> har
+ikke denne begrænsning.</p>
+
+<p>Du kan se en liste over noder, der er kombineret i "Andre noder" ved at
+vælge fanen Næste på kontekstruden eller vælge fanen Andre i
+node-popoveren.</p>
+
+<p>Ved at anvende entet et <a href="#path-filter">sti-filter</a> eller et
+<a href="#metrics-filter">metrik-filter</a> reduceres normalt antallet af "Andre
+noder", der vises på et kort.</p>
+
+<h2 id="map-views">Kortvisning</h2>
+
+<p>Der er fem forskellige visninger tilgængelige, som man kan vælge blandt
+til analyse af dine kort. Dashboard er en standardvisning, der giver en
+introduktion til sti-analyse og er beskrevet <a href="#dashboard">nedenfor</a>.</p>
+
+<h3 id="radial-view">Radial visning</h3>
+
+<p>Radial visning har den fordel at kunne vise mere kortdata på skærmen,
+men er ikke ideel til mindre kort eller filtrerede kort.
+<a href="#internet-node">Internet-noden</a> er i midten af denne visning.</p>
+
+<h3 id="vertical-view">Lodret visning</h3>
+
+<p>Lodret visning er meget bedre til at vise mindre kort eller filtrerede
+kort og giver oftest en bedre læsbarhed i forhold til <a href="#radial-view">radial
+visning</a>. <a href="#internet-node">Internet-noden</a> findes øverst
+på denne visning.</p>
+
+<h3 id="horizontal-view">Vandret visning</h3>
+
+<p>Svarende til lodret visning, så er vandret visning god til mindre kort
+og giver sædvanlig bedre læsbarhed i forhold til <a href="#radial-view">radial
+visning</a>. <a href="#internet-node">Internetnoden</a> er længst til
+venstre.</p>
+
+<h3 id="table-view">Tabelvisning</h3>
+
+<p>Tabel-visning er anderledes, da den kun viser <a href="#path">fulde stier</a>, der
+skyldes, at kortdata er i en <a href="#tree">træstruktur</a>, der ikke let kan
+vises som en tabel.</p>
+
+<h2 id="dashboard">Dashboard</h2>
+
+<p>Dashboard er en speciel visning, der introducerer til sti-analyse.</p>
+
+<h3 id="map-kpis">Kort-KPI’er</h3>
+
+<p>Der er adgang til seks Key Performance Indicators (KPI’er) på
+dashboardet som standard for følgende metrik: <a href="#visits">besøg</a>,
+<a href="#value">værdi</a>, <a href="#value-per-visit">værdi pr. besøg</a> og ekstra
+resultat-metrikker: <a href="#monetary-value">pengeværdi</a>,
+<a href="#outcomes">outcomes</a>, og <a href="#average-monetary-value">gennemsnitlig
+pengeværdi</a>.</p>
+
+<p>Resultat-metrikker vises ikke som standard og kan aktiveres fra
+<a href="#application-settings">Applikations- indstillinger</a>.</p>
+
+<p>Hver enkelt kort-KPI har en trend-indikator, der viser stigning eller
+fald i en metrik, sammenlignet med metrikken over samme datointerval for
+samme kort tidligere. F.eks. Hvis det aktuelt valgte datointerval er i
+dag, så baseres trend-indikatoren på dataene fra i går.</p>
+
+<h3 id="top-path-entries">Førende sti-indgange</h3>
+
+<p>Denne liste viser top 10-stien, med startpunkter på det aktuelle kort. I
+Path Analyzer-terminologi er disse top 10 <a href="#node">noder</a> i første
+niveau, sorteret efter kombineret <a href="#value">værdi-</a> og
+<a href="#visits">besøgs</a>-metrikker.</p>
+
+<h3 id="featured-path">Udvalgt sti</h3>
+
+<p>Den udvalgte sti viser stien fra det aktuelt valgte kort med det mest
+interessante sæt med nøglemarketing-metrikker. Valget af udvalgt sti er
+baseret på en algoritme, der vurderer, om kontoen enten har en
+<a href="#exit-value-potential">udgangsværdi potentiale</a> eller er kombineret med
+<a href="#value">værdi</a> og <a href="#visits">besøg</a>, og derefter vælger den øverste sti
+i hver enkelt metrik-kategori. Eftersom muligheden for optimering er
+relativt begrænset for korte stier, så prioriterer algoritmen de længste
+stier.</p>
+
+<h3 id="favorite-funnel">Foretrukken kanal</h3>
+
+<p>A Foretrukken kanal er en kanal, der er markeret som foretrukken på et
+bestemt kort. Dette kan ændres til hver en tid på kontekstruden under
+Kanaler En foretrukken kanal gemmes i din brugerprofil og tilknyttes det
+kort, hvor den er markeret som foretrukken.</p>
+
+<h2 id="reports">Raporter</h2>
+
+<p>Path Analyzer-rapporter viser de øverste stier i forskellige kategorier.
+Rapporter introducerer det mest interessant stier i det aktuelt valgte
+kort, så du hurtigt kan finde frem til gode og dårlige stier. Som
+standard er der adgang til otte rapportkategorier. Der er adgang til op
+til 10 stier, som kan vælges i hver enkelt kategori.</p>
+
+<h3 id="highest-visited-report">Højest besøgte</h3>
+
+<p>Stier med det højeste antal <a href="#visits">besøg</a>.</p>
+
+<h3 id="highest-valuable-report">Højeste værdi</h3>
+
+<p>De stier, der genererer den højeste <a href="#value">engagement-værdi</a>.</p>
+
+<h3 id="highest-visitsvalue-report">Højeste antal besøg og værdi</h3>
+
+<p>De stier, der genererer den højeste <a href="#value">engagement-værdi</a> og det
+højeste antal <a href="#visits">besøg</a>.</p>
+
+<h3 id="highest-valuepervisit-report">Højeste værdi pr. besøg</h3>
+
+<p>De stier, der genererer den højeste <a href="#value-per-visit">værdi pr. besøg</a>.</p>
+
+<h3 id="paths-without-value-report">Stier uden værdi</h3>
+
+<p>De stier, som kunderne forlod uden at generere nogen
+<a href="#value">engagement-værdi</a>.</p>
+
+<h3 id="highest-evp-report">Højeste udgangsværdipotentiale</h3>
+
+<p>De stier, der genererer den højeste
+<a href="#exit-value-potential">udgangsværdipotentiale</a>.</p>
+
+<h3 id="highest-outcomes-report">Højeste resultater</h3>
+
+<p>De stier, der genererer de højeste <a href="#outcomes">resultater</a>.</p>
+
+<h3 id="highest-monetaryvalue-report">Højeste pengeværdi</h3>
+
+<p>De stier, der generer den højeste samlede <a href="#monetary-value">pengeværdi</a>,
+som kommer fra resultater.</p>
+
+<h2 id="funnels">Kanaler</h2>
+
+<p>En kanal er en veldefineret sekvens af trin, som kunderne forventes at
+foretage på deres vej til at opnå et virksomhedsmål. Virksomheder
+definerer deres egen kanal. For en e-handelsside er det sandsynligvis en
+udtjeknings- kanal, der kan repræsenteres som en række sider,
+side-events eller mål, afhængig af implementering af specifikationer.</p>
+
+<p>Kanaler i Path Analyzer gør det mulig at analysere de handlinger og
+stier, som kunderne tager på deres vej til at konvertere mål og
+resultater. Derefter kan du optimere stierne for at forbedre
+konverteringsrater, f.eks. ved at implementere
+<a href="https://doc.sitecore.net/sitecore_experience_platform/digital_marketing/personalization/personalization">brugertilpasning</a>,
+<a href="https://doc.sitecore.net/sitecore_experience_platform/analyzing__reporting/experience_optimization__content_testing/ab_and_multivariate_testing">M/V-test</a>,
+eller
+<a href="https://doc.sitecore.net/sitecore_experience_platform/analyzing__reporting/experience_optimization__content_testing">indholdstest</a>.</p>
+
+<p>Der er adgang til kanalfunktionen fra kontekstruden, hvor du kan
+undersøge en kanal, der er defineret i marketingkontrolpanelet.</p>
+
+<p>Når en kanal er valgt, kan du vise en grafisk repræsentation af de
+sporede trin fra en kanal i Path Analyzer i form af et søjlediagram.
+Diagrammet giver oplysninger om antallet af kunder, der gennemfører
+hvert enkelt kanal, samt hvor mange kunder, der fortsætter til næste
+trin. Du kan også skifte mellem metrikker, som f.eks. <a href="#visits">besøg</a>,
+<a href="#value">værdi</a> og <a href="#value-per-visit">værdi pr. besøg</a>. Under
+diagrammet, vises listen over alle andre metrikker, der giver
+KPI-indikatorerne for kanalen. Disse metrikker tages fra det sidste trin
+i kanalen. Dataene er beregnet på basis af målet for en interaktion i
+forhold til en Customer lifetime Value (CLV).</p>
+
+<p>En kanal kan markeres som foretrukken ved at klikke på stjerne-ikonet
+ved siden af kanalnavnet. Denne handling gør kanalen synlig på
+<a href="#dashboard">Dashboard-visningen</a>.</p>
+
+<p>Hvis du vil gemme en valgt sti som en kanal, skal du klikke på Gem som
+kanal i sidefodsområdet på kontekstruden.</p>
+
+<h2 id="map-filters">Kortfiltre</h2>
+
+<p>Der er adgang til to typer filtre, så du kan fokusere på bestemte stier.</p>
+
+<h3 id="path-filter">Stifilter</h3>
+
+<p>Med stifiltre kan du filtrere et kort, baseret på navnet af en node, der
+enten kan være en side, et mål, eller en anden markedsføringsattribut,
+afhængig af typen af det aktuelle kort. Du kan f.eks. anvende
+stifilteret til at finde ud af, hvordan kunder kommer til den pågældende
+side. Du indstiller ganske enkelt en bestemt side som et element af
+stifilteret, og klikker på Anvend. Kortet justeres i overensstemmelse
+hermed.</p>
+
+<p>Med stifilteret kan du også opbygge et kortfilter fra side A til side B.
+Normalt skal du ikke anvende mere end tre elementer i stifilteret, men
+du kan angive et hvilket som helt antal elementer der. Stifilteret
+indsnævrer listen over indstillinger, baseret på de tilgængelige data i
+det aktuelle kort.</p>
+
+<h3 id="metrics-filter">Metrik-filter</h3>
+
+<p>Dette filter fokuserer på filtrering af noder efter deres
+nøglemetrikker: <a href="#visits">besøg</a>, <a href="#value">værdi</a>, <a href="#value-per-visit">værdi pr.
+besøg</a> og
+<a href="#exit-value-potential">udgangsværdipotentiale</a>.</p>
+
+<p>På grund af dets sekundære natur i forhold til hoved-
+<a href="#path-filter">stifilteret</a> kan metrik-filteret vise, hvor mange
+matches, for det aktuelle <a href="#path-filter">stifilter</a>, der er, samt
+sammenhængen mellem forskellige metrikker. Du kan også anvende
+metrik-filteret uden <a href="#path-filter">stifilteret</a> og filtrere de mindre
+besøgte noder, der reducerer støj på det aktuelle kort.</p>
+
+<p>Endelig kan du med metrik-filteret finde interessante sammenhænge mellem
+forskellige metrikker og til at finde stioptimeringskandidater, f.eks.:</p>
+
+<ul>
+<li><p>Højt antal <a href="#visits">besøg</a>, men lav <a href="#value">værdi</a>.</p></li>
+<li><p>Høj <a href="#value-per-visit">værdi pr. besøg</a>, men lavt antal
+<a href="#visits">besøgs</a>.</p></li>
+<li><p>Højt <a href="#exit-value-potential">udgangsværdipotentiale</a>.</p></li>
+</ul>
+
+<h2 id="export-map">Eksporter et kort</h2>
+
+<p>Du kan eksportere data til et hvilket som helst kort som et
+kommasepareret datasæt vha. følgende to kommandoer fra handlingsmenuen:</p>
+
+<ul>
+<li><p>Download som CSV</p></li>
+<li><p>Kopier til udklipsholder</p></li>
+</ul>
+
+<p>Begge kommandoer anvender samme format, og findes for at gøre det muligt
+at eksportere forskellige workflows.</p>
+
+<h2 id="application-messages">Applikationsmeddelelser</h2>
+
+<p>Når applikationen anvendes, kan du se forskellige meddelelser i
+meddelelsesbjælken.</p>
+
+<h3 id="table-top">"Tabelvisningen viser top X-stier ud af i alt Y."</h3>
+
+<p>Denne meddelelse kan ses, når <a href="#table-view">tabelvisning</a> gengiver
+ekstremt store kort. <a href="#table-view">Tabelvisning</a> kan kun vise top 500
+<a href="#path">fulde stier</a>. Anbefalede handlinger for denne meddelelse er: Anvend
+enten] <a href="#path-filter">stifilteret</a> eller
+<a href="#metrics-filter">metrik-filteret</a> for at sænke antallet af synlige
+række; gør datoområdets interval mindre for kortet; eller
+<a href="#how-to-create-a-new-map">opret</a>, eller <a href="#map-selector">vælg</a> et
+filtreret kort, der har mindre data.</p>
+
+<h3 id="other-nodes-message">"X mindre vigtige noder er grupperet sammen med andre noder."</h3>
+
+<p>Denne meddelelse kan ses vha. enten radial, vandret eller lodret visning
+på store kort med ekstremt meget indhold. For at sikre, at kortet er
+læsbart, er mindre betydelige noder, der ikke kan passe ind i et bestemt
+visualiseringsniveau kombineret i en speciel 'anden' node. Bemærk, at
+<a href="#table-view">tabelvisning</a> ikke har denne begrænsning. Foreslåede
+handlinger for denne meddelelse er: Anvend either the
+<a href="#path-filter">stifilteret</a> eller <a href="#metrics-filter">metrik-filtret</a> for
+at mindske antallet af synlige noder; gør datointervallet for kortet
+mindre; eller <a href="#how-to-create-a-new-map">opret</a> eller
+<a href="#map-selector">vælg</a> et filtreret kort, der har mindre data.</p>
+
+<h3 id="partial-map">"Det valgte kort opbygges. Du ser måske delvise data."</h3>
+
+<p>Denne meddelelse ses, hvis det aktuelt valgte kort lige er installeret,
+men processen med opbygning af data endnu ikke er fuldført. Data for det
+nyinstallerede kort bør være tilgængelig ca. 30 minutter, efter kortet
+er installeret.</p>
+
+<h2 id="application-settings">Applikationsindstillinger</h2>
+
+<p>Nedenfor findes en liste over applikationsindstillinger, du kan ændre
+for at brugertilpasse din oplevelse af Path Analyzer-applikationen:</p>
+
+<ul>
+<li><p>Aktiver/deaktiver overgangseffekter</p></li>
+<li><p>Vis/skjul etiketter som standard</p></li>
+<li><p>Vis/skjul forklaring som standard</p></li>
+<li><p>Vis/skjul resultat-metrikker</p></li>
+<li><p>Vis/skjul hjælp ved opstart</p></li>
+<li><p>Tillad valg af datoer med manglende data</p></li>
+</ul>
+
+<p>Der er adgang til disse data fra Handlingsmenu under Indstillinger.</p>
+
+<h2 id="glossary">Ordliste</h2>
+
+<h3 id="map">Kort</h3>
+
+<p>En særlig markedsføringsdefinition, der beskriver, hvordan data til stianalyser oprettes.
+Ethvert kort, der anvendes, har et <a href="#tree">træ</a>, der er gemt i rapporteringsdatabasen.</p>
+
+<h3 id="tree">Træ</h3>
+
+<p>Den samlede datastruktur til stianalyser, der er gemt i en rapporteringsdatabase for hvert
+anvendte kort, og som består af et hierarki af <a href="#node">noder</a>.
+Alle træer skal have en særlig rodnode, som kaldes en <a href="#internet-node">internetnode</a>.</p>
+
+<h3 id="node">Node</h3>
+
+<p>Det centrale element i <a href="#tree">træet</a>.
+Alle noder, bortset fra <a href="#internet-node">internetnoden</a>, har en overordnet node og kan have underordnede noder.
+Afhængigt af <a href="#map-types">korttypen</a> kan en node enten repræsentere en side (på et <a href="#page-maps">sidekort</a>),
+et mål eller en anden markedsføringsattribut (kanal, kampagne osv.) på et <a href="#experience-maps">oplevelseskort</a>.</p>
+
+<p>Hver node har et entydigt numerisk ID, et navn og et GUID, der svarer til et element fra indholdsdatabasen.</p>
+
+<p>Forskellige typer metrikker er gemt i hver node:</p>
+
+<ul>
+<li><p><strong>Samlede metrikker</strong>, bl.a. <a href="#value">værdi</a>, <a href="#visits">besøg</a>, <a href="#average-time-spent">gennemsnitlig tid brugt</a>, <a href="#outcomes">resultater</a> og <a href="#monetary-value">pengeværdi</a>.
+Disse metrikker omfatter værdier fra alle underordnede noder.</p></li>
+<li><p><strong>Udgangsmetrikker</strong>, bl.a. <a href="#exits">udgange</a> og <a href="#exit-value">udgangsværdi</a>.
+Disse metrikker omfatter ikke værdier fra alle underordnede noder og beregnes kun, hvis den aktuelle node er en <a href="#exit-node">udgangsnode</a>.</p></li>
+<li><p><strong>Beregnede metrikker</strong>, bl.a. <a href="#value-per-visit">værdi pr. besøg</a>, <a href="#exit-value-per-visit">udgangsværdi pr. besøg</a>, <a href="#average-monetary-value">gennemsnitlig pengeværdi</a> og <a href="#exit-value-potential">udgangsværdipotentiale</a>.</p></li>
+</ul>
+
+<h3 id="exit-node">Udgangsnode</h3>
+
+<p>Node med <a href="#exits">udgange</a>, der er større end nul, og som angiver det antal <a href="#visits">besøg</a>, som sluttede på denne node.</p>
+
+<h3 id="internet-node">Internetnode</h3>
+
+<p>Den særlige <a href="#node">rodnode</a>, der fungerer som en startnode for alle <a href="#path">stier</a>,
+og som samler alle metrikker fra alle stier på det pågældende <a href="#map">kort</a>.</p>
+
+<h3 id="path">Sti</h3>
+
+<p>En række <a href="#node">noder</a> udgør en sti. Eftersom
+<a href="#tree">træet</a> består af samlede data, er det vigtigt at skelne mellem to slags stier:
+<strong>indgangssti</strong> og <strong>fuld sti</strong>.</p>
+
+<p>En <strong>fuld sti</strong> består af et komplet besøg fra indgangsnode til <a href="#exit-node">udgangsnode</a>.
+En <strong>indgangssti</strong> behøver dog ikke at slutte med en udgang.
+Det er vigtigt at forstå forskellen mellem de to slags stier,
+fordi <a href="#map-views">tabelvisningen</a> og <a href="#reports">rapportfunktionen</a> kun fungerer sammen med fulde stier.</p>
+
+<h3 id="visits">Besøgsmetrik</h3>
+
+<p>Det samlede antal besøg for en given node. Denne værdi omfatter besøgsmetrikker fra alle underordnede noder.</p>
+
+<h3 id="value">Værdimetrik</h3>
+
+<p>Den samlede engagementsværdi for en given node. Denne værdi omfatter værdimetrikker fra alle underordnede noder.</p>
+
+<h3 id="value-per-visit">Værdi pr. besøgsmetrik</h3>
+
+<p>Den samlede <a href="#value">engagementsværdi</a> divideret med <a href="#visits">besøg</a> for en given node.
+Nogle gange defineres denne metrik som <strong>effektivitet</strong>.
+Denne metrik er med til at beregne <a href="#exit-value-potential">udgangsværdipotentiale</a>.</p>
+
+<h3 id="exits">Udgangsmetrik</h3>
+
+<p>Det samlede antal udgange for en given node.
+Denne metrik identificerer, om en given node består af en fuld sti eller en indgangssti.
+En node med flere udgange end nul udgør en fuld sti.
+Denne metrik er med til at beregne <a href="#exit-value-potential">udgangsværdipotentiale</a>.</p>
+
+<h3 id="exit-value">Udgangsværdimetrik</h3>
+
+<p>Den samlede engagementsværdi for en given node før udgang.
+Kun de noder, hvor der opstod udgang, har denne metrik.
+Forskellen mellem denne og <a href="#value">værdimetrikken</a> er, at udgangsværdimetrikken ikke tager højde for engagementsværdien for de underordnede noder.</p>
+
+<h3 id="exit-value-per-visit">Udgangsværdi pr. besøgsmetrik</h3>
+
+<p>Den samlede <a href="#value">engagementsværdi</a> divideret med <a href="#visits">besøg</a> for en given node <a href="#exit-node">udgangsnode</a>. Metrik beregnes kun for de noder,
+hvor der opstod udgang. Forskellen mellem
+denne metrik og metrikken <a href="#value-per-visit">værdi pr. besøg</a> er, at denne metrik ikke
+tager højde for engagementsværdi pr. besøg for de underordnede noder.
+Denne metrik er med til at beregne <a href="#exit-value-potential">udgangsværdipotentiale</a>.</p>
+
+<h3 id="exit-value-potential">Metrik for udgangsværdipotentiale</h3>
+
+<p>Udgangspotentialet angiver en forventet <a href="#value">engagementsværdi</a>, som i gennemsnit kan
+opnås gennem optimering. Den beregnes kun for <a href="#exit-node">udgangsnoder</a>.
+Du kan betragte det som en avanceret bounce-metrik, hvor der også tages højde for tab på engagementsværdien eller værdilækagen
+og ikke kun <a href="#exits">udgange</a>. Hvis du ved, hvor megen <a href="#value-per-visit">værdi pr. besøg</a>, der
+samles for alle stier længere nede i hierarkiet, og hvor megen <a href="#value-per-visit">værdi pr. besøg</a>, der gemmes for <a href="#exit-node">udgangsnoden</a>, kan denne metrik
+beregnes ved at tage deltaet mellem de to og gange med antallet af udgange ved at benytte følgende formel:</p>
+
+<p>(værdi pr. besøg - udgangsværdi pr. besøg) * udgange</p>
+
+<h3 id="outcomes">Resultatmetrik</h3>
+
+<p>Det samlede antal resultater for en given node. Denne værdi omfatter
+resultater fra alle underordnede noder.
+Læs mere om resultater <a href="https://doc.sitecore.net/sitecore_experience_platform/developing/marketing_operations/outcomes/outcomes" target="_blank">her</a>.</p>
+
+<h3 id="monetary-value">Pengeværdimetrik</h3>
+
+<p>Den samlede pengeværdi for en given <a href="#node">node</a>. Pengeværdien
+hentes fra de realiserede resultater. Denne værdi omfatter pengeværdien
+fra alle underordnede noder.
+Læs mere om resultater <a href="https://doc.sitecore.net/sitecore_experience_platform/developing/marketing_operations/outcomes/outcomes" target="_blank">her</a>.</p>
+
+<h3 id="average-monetary-value">Metrik for gennemsnitlig pengeværdi</h3>
+
+<p>Den gennemsnitlige pengeværdi opnået pr. resultat for en given <a href="#node">node</a>. Pengeværdien
+hentes fra de realiserede resultater. Denne værdi omfatter
+den gennemsnitlige pengeværdi fra alle underordnede noder.
+Læs mere om resultater <a href="https://doc.sitecore.net/sitecore_experience_platform/developing/marketing_operations/outcomes/outcomes" target="_blank">her</a>.</p>
+
+<h3 id="average-time-spent">Metrik for gennemsnitlig tid brugt</h3>
+
+<p>Den gennemsnitlige mængde tid, kunder har brugt på en given <a href="#node">node</a> i sekunder.</p>
 ----field----
 field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
 name: __Owner
@@ -42,7 +823,7 @@ name: __Revision
 key: __revision
 content-length: 36
 
-9ac00027-24a6-4e7b-8cba-f521c9592179
+14c04057-0744-43ac-a9ee-209c8c63573e
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
