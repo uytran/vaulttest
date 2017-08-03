@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Saved",
+    "database": "core",
+    "itemId": "{7DC058D8-A23E-4277-BA55-7A59423AB707}",
+    "version": 1,
+    "language": "da",
+    "timestamp": "2017-08-03T02:59:41.2329099Z",
+    "label": "Saved",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Anonymous",
+    "itemName": "PathAnalyzer",
+    "itemPath": "/sitecore/client/Applications/PathAnalyzer/Help/PathAnalyzer",
+    "template": "Help",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]
