@@ -301,8 +301,179 @@ sitecore\admin
 ----version----
 language: de-DE
 version: 2
-revision: 3acb69c4-74d1-40df-9499-887d216f0df6
+revision: 2d1fe5e4-20c1-4e46-9be1-c2b94284721b
 
+----field----
+field: {6F11AD22-C527-47D9-A22B-86395B09D695}
+name: Content
+key: content
+content-length: 11845
+
+<h1 id="intro">Einführung in den Page Analyzer</h1>
+
+<p>Während die Haupt-Path Analyzer Anwendung, verfügbar über das Launchpad, sich auf die fortgeschrittene Pfadanalyse konzentriert, konzentriert sich der Page Analyzer nur auf die Pfade, die zu einer bestimmten Seite führen bzw. von dieser wegführen. Das Hauptziel des Programms ist es zu verstehen, wie Kunden zu einem bestimmten Ziel (einer Seite) kommen und was sie danach tun.
+Datenvisualisierung hilft Ihnen dabei die Pfade mit dem meisten Traffic (Besuche) und dem höchsten Engagementwert pro Besuch zu verstehen,  so dass Sie gute und schlechte Pfade lokalisieren können.
+Sie können ein Drill-down für einen bestimmten Pfad veranlassen und so die Details des Pfads erkunden.</p>
+
+<h2 id="map-key">Lesen der Visualisierung</h2>
+
+<p>Die Visualisierung stellt die aktuell ausgewählte Seite in den Mittelpunkt (dargestellt als großer Kreis mit Seitensymbol) und zeigt alle Wege, die zu ihr hin und von ihr weg führen.</p>
+
+<p>Der Landing-Bereich zeigt, wie viele Pfade mit der aktuell ausgewählten Seite begonnen haben.</p>
+
+<p>Der Ausstiegsbereich zeigt die Anzahl der Ausstiege für die aktuell ausgewählte Seite und das insgesamt angesammelte <a href="#exit-value-potential">Ausstiegswertpotential</a>.</p>
+
+<p>Die horizontalen Linien, die <em>zu</em> der aktuell ausgewählte Seite fließen, repräsentieren die ankommenden Pfade.
+Der oben auf den Linien liegende Kreis stellt die <a href="#node">Knoten</a> auf dem Pfad dar. Grundsätzlichen führen Knoten zu Seiten.</p>
+
+<p>Die horizontalen Linien, die <em>von</em> der aktuell ausgewählte Seite nach rechts fließen, repräsentieren die ausgehenden Pfade.</p>
+
+<p>Der oben auf den Linien liegende Kreis stellt die <a href="#node">Knoten</a> auf diesem Pfad dar. Grundsätzlichen führen Knoten zu Seiten.
+Um die Visualisierung zu vereinfachen, wird nur die erste Seite auf ausgehenden Pfaden angezeigt.</p>
+
+<p>Die Dicke der Linie definiert die Summe <a href="#visits">Besuche</a> zur aktuell ausgewählten Seite von einem bestimmten Pfad aus.
+Je dicker der Pfad, desto mehr Besuche gehen zur der aktuell ausgewählten Seite für einen bestimmten Pfad.</p>
+
+<p>Die Linienfarbe definiert den <a href="#value-per-visit">Wert pro Besuch</a> auf diesem bestimmten Pfad zur aktuell ausgewählten Seite. Je grüner der Weg, desto höher der <a href="#value-per-visit">Wert pro Besuch</a> im Vergleich zu anderen Pfaden, die zu der aktuell ausgewählten Seite führen. Pfade mit dem geringsten Wert pro Besuch werden in rot dargestellt.</p>
+
+<p>Die Größe des Kreises definiert den Gesamtengagementwert auf dem Weg, der zu der aktuell ausgewählten Seite führt. Je größer der Kreis, desto höher der <a href="#value">Engagementwert</a>.</p>
+
+<p>Der Context Pane Bereich die aggregierten Gesamtwerte für die Besuche-, Wert- und Wert pro Besuch-Metriken sowie die Gesamtanzahl der Pfade.
+Wenn Sie den Mauszeiger über einem bestimmten Pfad schweben, zeigt der Gesamtwert-Bereich die Metriken dieses Pfades.</p>
+
+<h2 id="map-selector">Karten-Selector</h2>
+
+<p>Sie können verschiedene Karten mit dem Karten-Selector-Steuerelement auswählen.
+Sie können auch weitere Karten-Metadaten ansehen und eine Karte zu Ihrer Favoritenliste hinzufügen, die automatisch in Ihrem Profil gespeichert wird.</p>
+
+<h3 id="group-map-data">Gruppen-Kartendaten</h3>
+
+<p>Karten bestehen aus seiner Baum-Datenstruktur, die wiederum aus  <a href="#node">Knoten</a> besteht.
+Weil erwartet wird, dass jeder <a href="#node">Knoten</a> ein korrespondierendes Item in der Content (Master) Datenbank besitzt, wenn Sie das Kontrollkästchen der Gruppen-Kartendaten des Karten-Selectors auswählen; werden die Knoten vom Sitecore Datatemplate, von dem aus sie erstellt wurden, gruppiert.
+Beispielsweise können Sie diese beiden Pfade</p>
+
+<ul>
+<li>Home -&gt; TVs -&gt; 50" Flat Screen TV</li>
+<li>Home -&gt; Tablets -&gt; 12" Tablet</li>
+</ul>
+
+<p>in einen einzigen Pfad gruppieren:</p>
+
+<ul>
+<li>Landing Page -&gt; Produktkategorieseite -&gt; Produktdetailseite</li>
+</ul>
+
+<p>Das Gruppieren von Kartendaten ist nützlich, wenn Sie eine Pfadanalyse auf einer Seitenkategorieebene im Vergleich zu einer einzelnen Seitenebene durchführen wollen.</p>
+
+<h2 id="date-selector">Date Range Selector</h2>
+
+<p>Sie können einen Datumsbereich des Datumsbereichselektors auswählen, indem Sie entweder ein individuelles Start- und Enddatum aus den Kalendern oder indem Sie einen vordefinierten Datumsbereich auswählen.</p>
+
+<h3 id="date-selector-missing-dates">Daten Fehlende Daten</h3>
+
+<p>Es kann vorkommen, dass eine Karte keine Daten für einige Daten hat, auch wenn es verfügbare Daten vor oder nach diesen Daten gibt.
+Möglicherweise gibt es keine aufgezeichneten Interaktionen für ein Datum oder es ist ein Fehler während der Datenverarbeitung aufgetreten und die Daten, die im Fehler vorkamen wurden übersprungen.
+Der Datumsbereich-Selektor markiert Daten, für die keine Daten verfügbar sind.
+Bitte kontaktieren Sie Ihren Systemadministrator, wenn Sie im Kalender auf viele Daten ohne Daten stoßen.</p>
+
+<h3 id="date-selector-unavailable-dates">Nicht verfügbare Daten</h3>
+
+<p>Je nach Datumsbereich, den Sie ausgewählt haben, kann es vorkommen, dass einige Daten als nicht auswählbar markiert werden. Wenn Sie zum Beispiel ein Enddatum auswählen, werden alle Daten vor dem aktuellen Startdatum als nicht verfügbar gekennzeichnet. Alle zukünftigen Daten werden auch als nicht verfügbar gekennzeichnet.</p>
+
+<h2 id="metrics-filter">Metrikfilter</h2>
+
+<p>Dieser Filter konzentriert sich auf das Filtern von Knoten nach ihren wichtigsten Metriken: Besuche, Wert pro Besuch und Ausstiegswertpotential.
+Sie können den Metrikfilter verwenden, um Störungen zu reduzieren oder interessante Zusammenhänge zwischen verschiedenen Metriken und um Kandidaten für eine Pfadoptimierung zu finden, zum Beispiel:</p>
+
+<ul>
+<li>Viele <a href="#visits">Besuche</a>, aber niedriger <a href="#value">Wert</a>.</li>
+<li>Hoher <a href="#value-per-visit">Wert pro Besuch</a>, aber wenige <a href="#visits">Besuche</a>.</li>
+<li>Hohes <a href="#exit-value-potential">Ausstiegswertpotential</a>.</li>
+</ul>
+
+<h2 id="application-messages">Anwendungsnachrichten</h2>
+
+<p>Wenn Sie die Anwendung verwenden, sehen Sie verschiedene Meldungen in der Statusleiste.</p>
+
+<h3 id="page-analyzer-hidden-paths">"Einige Pfade sind verborgen. Verwenden Sie den Filter, um andere Pfade sehen zu können."</h3>
+
+<p>Die Anwendung zeigt nur 10 Pfade auf einmal.
+Sie können den Metriken-Filter verwenden, um die Anzahl der Pfade zu reduzieren, basierend auf beliebigen Metrik-Kriterien</p>
+
+<h3 id="page-analyzer-maximum-paths">"Basierend auf 500 Pfaden aus X insgesamt."</h3>
+
+<p>Einige Seiten, wie die Homepage, können eine enorme Menge an eindeutige Pfade aufweisen, die durch sie hindurchlaufen.
+Für eine bessere Effizienz, verarbeitet die Anwendung nur die Top 500-Pfade.
+Sie können eine segmentiertere Karte auswählen oder ein geringeres Datumsintervall.</p>
+
+<h3 id="partial-map">"Die ausgewählte Karte wird erstellt. Sie sehen u.U. nur Teildaten."</h3>
+
+<p>Diese Meldung wird angezeigt, wenn die aktuell ausgewählte Karte zwar kurzlich bereitgestellt wurde, jedoch der  Prozess des Aufbaus von Daten für diese Karte noch nicht abgeschlossen wurde. Daten für die neu bereitgestellte Karte sollten ca. 30 Minuten nach Bereitstellung der Karte verfügbar sein.</p>
+
+<h2 id="glossary">Glossar</h2>
+
+<h3 id="map">Karte</h3>
+
+<p>Eine spezielle Marketing-Definition, die beschreibt, wie man Daten für die Pfadanalyse erstellt.
+Der Page Analyzer verwendet Kartendaten und  filtert alle Pfade, um nur diejenigen anzuzeigen, die durch die aktuell ausgewählte Seite führen. Dieses gefilterte Dataset dient zur Visualisierung.
+Sie können zu einer anderen Karte wechseln, indem Sie den <a href="#map-selector">Karten-Selektor</a> verwenden.</p>
+
+<h3 id="path">Pfad</h3>
+
+<p>Eine Sequenz von <a href="#node">Knoten</a> bilden einen Pfad. Alle im Page Analyzer angezeigten Pfade führen durch die aktuell ausgewählte Karte.</p>
+
+<h3 id="node">Knoten</h3>
+
+<p>Ein Element auf einem <a href="#path">Pfad</a>. Für die misten Karten gilt, dass Knoten im Wesentlichen zu einer anderen Seite führen.
+Es gibt eine Reihe von Metriken, die auf jedem Knoten gespeichert sind: <a href="#value">Wert</a>, <a href="#visits">Besuche</a>,
+<a href="#value-per-visit">Wert pro Besuch</a>, <a href="#exits">Ausstiege</a>, <a href="#exit-value">Ausstiegswert</a>, <a href="#exit-value-per-visit">Ausstiegswert pro Besuch</a> und <a href="#average-time-spent">durchschnittlich verbrachte Zeit</a>.</p>
+
+<h3 id="exit-node">Ausstiegsknoten</h3>
+
+<p>Knoten mit <a href="#exits">Ausstiegen</a> größer als Null zeigen die Anzahl der <a href="#visits">Besuche</a>, die auf diesem Knoten beendet wurden.</p>
+
+<h3 id="visits">Besuchsmetrik</h3>
+
+<p>Die Gesamtzahl der aggregierten Besuche auf einem bestimmten Knoten. Dazu gehören Besuchsmetriken von allen Nachfahrknoten.</p>
+
+<h3 id="value">Wertmetrik</h3>
+
+<p>Der insgesamt aggregierte Engagementwert auf einem bestimmten Knoten. Dazu gehören Wertmetriken aus allen Nachfahrknoten.</p>
+
+<h3 id="value-per-visit">Wert pro Besuchsmetrik</h3>
+
+<p>Der aggregierte <a href="#value">Engagemenwert</a> geteilt durch <a href="#visits">Besuche</a> auf einem vorgegebenen Knoten.
+Manchmal ist diese Metrik definiert als <strong>Effizienz</strong>.
+Diese Metrik ist maßgeblich bei der Berechnung des <a href="#exit-value-potential">Ausstiegswertpotentials</a>.</p>
+
+<h3 id="exits">Ausstiegsmetrik</h3>
+
+<p>Die Anzahl der Ausstiege auf einem vorgegebenen Knoten.
+Diese Metrik gibt an, ob ein vorgegebener Knoten einen vollständigen Pfad oder einen Einstiegspfadumfasst.
+Jeder Knoten mit Ausgängen größer als Null umfasst einen vollständigen Pfad.
+Diese Metrik ist maßgeblich bei der Berechnung des <a href="#exit-value-potential">Ausstiegswertpotentials</a>.</p>
+
+<h3 id="exit-value">Ausstiegswertmetrik</h3>
+
+<p>Die aggregierten Engagementwerte auf einem bestimmten Knoten vor dem Ausstieg.
+Nur Knoten bei denen Ausstiege stattgefunden haben besitzen diese Metrik.
+Der Unterschied hierzwischen und der <a href="#value">Wertmetrik</a> besteht darin, dass die Ausstiegwertmetrik nicht den Engagementwert der Nachfolgeknoten berücksichtigt</p>
+
+<h3 id="exit-value-per-visit">Ausstiegswert pro Besuchsmetrik</h3>
+
+<p>Der aggregierte <a href="#value">Engagemenwert</a> geteilt durch die <a href="#visits">Besuche</a> auf einem vorgegebenen <a href="#exit-node">Ausstiegsknoten</a>. Nur für Knoten, auf denen Ausstiege stattgefunden haben, wird diese Metrik berechnet.
+Der Unterschied zwischen dieser Metrik und der <a href="#value-per-visit">Wert pro Besuch</a> Metrik besteht darin, dass diese Metrik nicht den Engagementwert pro Besuch der Nachfahrknoten berücksichtigt.
+Diese Metrik ist maßgeblich für die Berechnung des <a href="#exit-value-potential">Ausstiegswertpotentials</a>.</p>
+
+<h3 id="exit-value-potential">Ausstiegswertpotential-Metrik</h3>
+
+<p>Das Ausstiegswertpotential zeigt einen projizierten <a href="#value">Engagemenwert</a>, der durchschnittlich durch Optimierung gewonnen werden könnte.
+Es wird nur für die <a href="#exit-node">Ausstiegsknoten</a> berechnet.
+Sie können es als eine erweiterte Bounce-Metrik betrachten, wo neben den <a href="#exits">Ausstiegen</a> auch der Engagementwertverlust oder Wertverlust berücksichtigt wird.
+Wenn man weiß, wie viel <a href="#value-per-visit">Wert pro Besuch</a> auf allen weiter unten liegenden Pfaden angesammelt wird, und wie viel <a href="#value-per-visit">Wert pro Besuch</a> im <a href="#exit-node">Ausstiegsknoten</a> gespeichert wird, dann kann diese Metrik berechnet werden, indem
+man das Delta zwischen den beiden bildet und mit der Anzahl der Ausstiege multipliziert, unter der Verwendung der folgenden Formel:</p>
+
+<p>(Wert pro Besuch – Ausstiegswert pro Besuch) * Ausstiege</p>
 ----field----
 field: {894E6A55-DD32-46B7-8042-08A2EBEDDF65}
 name: Disclaimer
@@ -351,7 +522,7 @@ name: __Revision
 key: __revision
 content-length: 36
 
-3acb69c4-74d1-40df-9499-887d216f0df6
+2d1fe5e4-20c1-4e46-9be1-c2b94284721b
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
