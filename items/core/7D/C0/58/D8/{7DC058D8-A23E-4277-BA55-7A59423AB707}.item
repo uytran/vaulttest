@@ -2051,316 +2051,420 @@ sitecore\admin
 ----version----
 language: en
 version: 2
-revision: 1cae522b-6738-401d-849c-63d4c844acd3
+revision: 784a8e1d-4ee0-4f74-b27c-830716b16e0c
 
 ----field----
 field: {6F11AD22-C527-47D9-A22B-86395B09D695}
 name: Content
 key: content
-content-length: 39226
+content-length: 39079
 
 <h1 id="intro">Getting started with Path Analyzer</h1>
-<p>The Path Analyzer lets you analyze the paths that customers take as they interact with your brand,
-focusing on identifying the most efficient and least efficient paths,
+
+<p>The Path Analyzer lets you analyze the paths that customers take as they interact with your brand, 
+focusing on identifying the most efficient and least efficient paths, 
 and paths with potential for optimizations.
-You can analyze the paths that customers take through particular
-<a href="https://doc.sitecore.net/sitecore_experience_platform/developing/marketing_operations/channels/channels" target="_blank">channels</a> (email marketing, social, and so on), while interacting with <a href="https://doc.sitecore.net/sitecore_experience_platform/digital_marketing/campaigns/campaigns/create_and_edit_a_campaign_activity" target="_blank">campaigns</a>,
-and on their way to converting business critical activities, such as
-<a href="https://doc.sitecore.net/sitecore_experience_platform/digital_marketing/campaigns/goals__events/goals" target="_blank">goals</a>,
-<a href="https://doc.sitecore.net/sitecore_experience_platform/digital_marketing/engagement_plans/events" target="_blank">events</a>, and
+You can analyze the paths that customers take through particular 
+<a href="https://doc.sitecore.net/sitecore_experience_platform/developing/marketing_operations/channels/channels" target="_blank">channels</a> (email marketing, social, and so on), while interacting with <a href="https://doc.sitecore.net/sitecore_experience_platform/digital_marketing/campaigns/campaigns/create_and_edit_a_campaign_activity" target="_blank">campaigns</a>, 
+and on their way to converting business critical activities, such as 
+<a href="https://doc.sitecore.net/sitecore_experience_platform/digital_marketing/campaigns/goals__events/goals" target="_blank">goals</a>, 
+<a href="https://doc.sitecore.net/sitecore_experience_platform/digital_marketing/engagement_plans/events" target="_blank">events</a>, and 
 <a href="https://doc.sitecore.net/sitecore_experience_platform/developing/marketing_operations/outcomes/outcomes" target="_blank">outcomes</a>.</p>
+
 <h2 id="scenarios">Key scenarios</h2>
+
 <h3 id="scenario1">1. Exploring the map</h3>
+
 <p><a href="#map-key">Understanding the key visualization cues</a> and data behind them is important to be able to read any map effectively and spot patterns.
-The features listed below are useful as you begin your path analysis,
+The features listed below are useful as you begin your path analysis, 
 especially if it's your first time using the application and you are not sure where to start.</p>
+
 <p><a href="#reports">Reports feature</a>, available from the Context Pane, helps to quickly highlight paths in any given report category.
-For example, if you'd like to see all paths that don't generate any <a href="#value">engagement value</a>,
+For example, if you'd like to see all paths that don't generate any <a href="#value">engagement value</a>, 
 simply pick the "Paths without value" category and click through the top 10 paths.
 There are <a href="#reports">8 total report categories</a> to explore.</p>
-<p><a href="#dashboard">Dashboard view</a> is useful if you are just getting started with path analysis and
+
+<p><a href="#dashboard">Dashboard view</a> is useful if you are just getting started with path analysis and 
 are not comfortable with <a href="#map-views">other map views</a> yet.
-In the Dashboard view, you can see: <a href="#map-kpis">Map KPIs</a>; <a href="#top-path-entries">Top path entries</a>;
+In the Dashboard view, you can see: <a href="#map-kpis">Map KPIs</a>; <a href="#top-path-entries">Top path entries</a>; 
 and <a href="#featured-path">Featured path</a>; and you can access <a href="#reports">Reports</a> and <a href="#funnels">Funnels</a> features.</p>
+
 <p><a href="#table-view">Table view</a> is another great way to start with path analysis.
-It uses a very familiar Excel-like visualization showing all paths and their key metrics,
+It uses a very familiar Excel-like visualization showing all paths and their key metrics, 
 and allows sorting and filtering.</p>
-<p><a href="#metrics-filter">Metrics filter</a>, available from all views except for the Dashboard,
+
+<p><a href="#metrics-filter">Metrics filter</a>, available from all views except for the Dashboard, 
 lets you focus on paths based on a particular set of metrics.
-You can use the filter to display a map of paths with high <a href="#value">value</a> but low <a href="#visits">visits</a>,
-paths with high <a href="#value-per-visit">value per visit</a>,
+You can use the filter to display a map of paths with high <a href="#value">value</a> but low <a href="#visits">visits</a>, 
+paths with high <a href="#value-per-visit">value per visit</a>, 
 or paths with high <a href="#exit-value-potential">exit value potential</a>.
 In this way, you can filter the map to show good paths, bad paths, and paths for optimization.</p>
+
 <h3 id="scenario2">2. Exploring paths from or to a particular page</h3>
-<p>If you know the name of a particular page,
-Path Analyzer can easily show all paths leading in and out of this page by using the <a href="#path-filter">Path filter</a>
+
+<p>If you know the name of a particular page, 
+Path Analyzer can easily show all paths leading in and out of this page by using the <a href="#path-filter">Path filter</a> 
 to build a path based on the name of the page.
 If you have a destination page in mind, you can include it in the path filter in order to get all paths from page A to page B.
 For <a href="#experience-maps">Experience maps</a>, you can use this technique to filter paths leading to a goal.</p>
-<p>Similar to the <a href="#scenario1">Scenario #1</a>, you can use the <a href="#metrics-filter">Metrics filter</a>
+
+<p>Similar to the <a href="#scenario1">Scenario #1</a>, you can use the <a href="#metrics-filter">Metrics filter</a> 
 to further refine a filtered map based on any combination of key metrics.</p>
+
 <p>After you apply the filter, you can either explore various views by
 <a href="#map-key">reading</a> the filtered map, or leverage the <a href="#reports">Reports feature</a> to quickly
 navigate the top 10 paths in any given <a href="#reports">report category</a>.
 The reports only show paths that match the applied <a href="#path-filter">Path filter</a> and <a href="#metrics-filter">Metrics filter</a>.</p>
+
 <h3 id="scenario3">3. Macro-level path analysis (goals, events, outcomes)</h3>
-<p>When page-level maps provide too much detail,
+
+<p>When page-level maps provide too much detail, 
 <a href="#experience-maps">Experience maps</a> are often helpful to understand path analysis at a macro-level, focusing on
 <a href="https://doc.sitecore.net/sitecore_experience_platform/developing/marketing_operations/channels/channels" target="_blank">channels</a>, <a href="https://doc.sitecore.net/sitecore_experience_platform/digital_marketing/campaigns/campaigns/create_and_edit_a_campaign_activity" target="_blank">campaigns</a>, <a href="https://doc.sitecore.net/sitecore_experience_platform/digital_marketing/campaigns/goals__events/goals" target="_blank">goals</a>, <a href="https://doc.sitecore.net/sitecore_experience_platform/digital_marketing/engagement_plans/events" target="_blank">events</a>, and <a href="https://doc.sitecore.net/sitecore_experience_platform/developing/marketing_operations/outcomes/outcomes" target="_blank">outcomes</a>.</p>
+
 <h3 id="scenario4">4. Exploring a campaign or channel traffic</h3>
-<p>If you'd like to understand how your customers interact with your brand through a particular
+
+<p>If you'd like to understand how your customers interact with your brand through a particular 
 <a href="https://doc.sitecore.net/sitecore_experience_platform/developing/marketing_operations/channels/channels" target="_blank">channel</a> or <a href="https://doc.sitecore.net/sitecore_experience_platform/digital_marketing/campaigns/campaigns/create_and_edit_a_campaign_activity" target="_blank">campaign</a>, you can pick one of the standard <a href="#channel-maps">Channel maps</a> using the <a href="#map-selector">Map selector</a>, or <a href="#how-to-create-a-new-map">create and deploy</a> a new <a href="#campaign-maps">Campaign map</a> focusing on the campaign of interest. You can also use <a href="#experience-maps">Experience maps</a> like in <a href="#scenario3">Scenario #3</a>, and use the <a href="#path-filter">Path filter</a> to show only the paths from a particular channel or campaign.</p>
+
 <h3 id="scenario5">5. Exploring a map focused on a particular segment</h3>
+
 <p>In order to explore paths from a particular customer segment, <a href="#how-to-create-a-new-map">create a
 new map</a> then specify your segment rules in the Filter field using the familiar <a href="https://doc.sitecore.net/sitecore_experience_platform/digital_marketing/personalization/the_rule_set_editor" target="_blank">Rule Set Editor</a> interface.
 After the new map is deployed, you can select it in the Map selector and explore it the same way you would explore the default maps.</p>
+
 <h3 id="scenario6">6. Exploring paths leading to a goal</h3>
+
 <p>One way to explore paths leading to a given goal is to use the default
 <a href="#experience-maps">Experience map with goals</a> and specify the goal
 in the <a href="#path-filter">Path filter</a>.</p>
-<p>Another way is to <a href="#how-to-create-a-new-map">create and deploy</a> a new <a href="#goal-maps">Goal map</a>,
+
+<p>Another way is to <a href="#how-to-create-a-new-map">create and deploy</a> a new <a href="#goal-maps">Goal map</a>, 
 which will focus only on the paths toward the specified goal.
 You can use the same technique to explore paths to certain assets or outcomes.</p>
+
 <h2 id="maps">Maps</h2>
+
 <p>A map is a special marketing definition for path analysis that has two
 key attributes: map type and map filter. Map type describes how to build
 data that powers the map, and is covered in more detail
 <a href="#map-types">here</a>. Map filter, an optional but important attribute,
 helps define a segmented map using the <a href="https://doc.sitecore.net/sitecore_experience_platform/digital_marketing/personalization/the_rule_set_editor" target="_blank">Rule Set Editor</a> and a rich set of conditions.</p>
+
 <p>In addition to these two key attributes, each map has a unique identifier, name
 and type. You can also include other optional attributes, such as
 description.</p>
+
 <p>Similar to other marketing definition items, you <a href="#how-to-create-a-new-map">create a map in the Marketing Control Panel</a>.</p>
+
 <p>Maps are visualized using <a href="#map-views">Map views</a>.</p>
+
 <h2 id="map-types">Map types</h2>
+
 <p>Map type prescribes how the interaction data from xDB will be
 transformed for path analysis. There are different map types available by default.</p>
+
 <h3 id="page-maps">Page maps</h3>
+
 <p>These maps are built from sequences of page visits within a given interaction.
 There are a few subtypes for Page maps available by default.
-These map subtypes are convenient because
+These map subtypes are convenient because 
 they quickly let you create a page map focused on a particular interaction attribute (channel, campaign, goal, asset, and so on).</p>
+
 <h4 id="goal-maps">Goal maps</h4>
+
 <p>Goal maps let you create a page map leading to a particular goal.
 Goal maps disregard pages that were visited after a particular goal was reached.</p>
-<p>You can build Goal maps in reverse mode by selecting the Reverse checkbox
+
+<p>You can build Goal maps in reverse mode by selecting the Reverse checkbox 
 on the Goal map definition item in the Marketing Control Panel.
-A reverse goal map flips the sequence of pages leading to a particular goal and
+A reverse goal map flips the sequence of pages leading to a particular goal and 
 uses the selected goal as the starting point of the map instead of the conventional <a href="#internet-node">Internet node</a>.</p>
+
 <h4 id="asset-maps">Asset maps</h4>
+
 <p>Asset maps let you create a page map leading to a particular asset download.
 Asset maps disregard pages that were visited after a particular asset was downloaded.</p>
+
 <p>You can build Asset maps in reverse mode by selecting the Reverse checkbox on the Asset map definition item in the Marketing Control Panel.
-A reverse asset map flips the sequence of pages leading to a particular asset download and
+A reverse asset map flips the sequence of pages leading to a particular asset download and 
 uses the selected asset as the starting point of the map instead of the conventional <a href="#internet-node">Internet node</a>.</p>
+
 <h4 id="campaign-maps">Campaign maps</h4>
+
 <p>Campaign maps let you create a page map for all interactions from a particular campaign.</p>
+
 <h4 id="channel-maps">Channel maps</h4>
+
 <p>Channel maps let you create a page map for all interactions from a particular channel.</p>
+
 <h4 id="outcome-maps">Outcome maps</h4>
+
 <p>Outcome maps let you create a page map leading to a particular outcome.</p>
+
 <h3 id="experience-maps">Experience maps</h3>
-<p>Unlike the Page maps, Experience maps can include other interaction attributes, such as
-<a href="https://doc.sitecore.net/sitecore_experience_platform/developing/marketing_operations/channels/channels" target="_blank">channels</a>,
-<a href="https://doc.sitecore.net/sitecore_experience_platform/digital_marketing/campaigns/campaigns/create_and_edit_a_campaign_activity" target="_blank">campaigns</a>,
-<a href="https://doc.sitecore.net/sitecore_experience_platform/digital_marketing/campaigns/goals__events/goals" target="_blank">goals</a>,
-<a href="https://doc.sitecore.net/sitecore_experience_platform/digital_marketing/engagement_plans/events" target="_blank">events</a>, and
-<a href="https://doc.sitecore.net/sitecore_experience_platform/developing/marketing_operations/outcomes/outcomes" target="_blank">outcomes</a>,
+
+<p>Unlike the Page maps, Experience maps can include other interaction attributes, such as 
+<a href="https://doc.sitecore.net/sitecore_experience_platform/developing/marketing_operations/channels/channels" target="_blank">channels</a>, 
+<a href="https://doc.sitecore.net/sitecore_experience_platform/digital_marketing/campaigns/campaigns/create_and_edit_a_campaign_activity" target="_blank">campaigns</a>, 
+<a href="https://doc.sitecore.net/sitecore_experience_platform/digital_marketing/campaigns/goals__events/goals" target="_blank">goals</a>, 
+<a href="https://doc.sitecore.net/sitecore_experience_platform/digital_marketing/engagement_plans/events" target="_blank">events</a>, and 
+<a href="https://doc.sitecore.net/sitecore_experience_platform/developing/marketing_operations/outcomes/outcomes" target="_blank">outcomes</a>, 
 in addition to pages.
 You select these interaction attributes using the checkbox options on the Experience map definition item in the Marketing Control Panel.
 In this way, Experience maps enable you to focus on more high level path analysis than the more detailed <a href="#page-maps">Page maps</a>.</p>
+
 <p>Three Experience maps are available by default:</p>
+
 <ul>
-    <li>
-    <p>Experience map with goals. Includes channel, campaign (if available), all goals, and outcomes.</p>
-    </li>
-    <li>
-    <p>Experience map with value goals only. Same as above except that only goals with engagement value are added.</p>
-    </li>
-    <li>
-    <p>Experience map with page events. Includes channel, campaign (if available), only the entry and exit page, all page events, and outcomes.</p>
-    </li>
+<li><p>Experience map with goals. Includes channel, campaign (if available), all goals, and outcomes.</p></li>
+<li><p>Experience map with value goals only. Same as above except that only goals with engagement value are added.</p></li>
+<li><p>Experience map with page events. Includes channel, campaign (if available), only the entry and exit page, all page events, and outcomes.</p></li>
 </ul>
+
 <p>You can easily <a href="#how-to-create-a-new-map">create a new map</a> based on any existing map using the Marketing Control Panel.</p>
+
 <h3 id="site-specific-maps">Site-specific maps</h3>
+
 <p>In addition to map types, maps can either be <strong>global</strong> or <strong>site-specific</strong>. Global maps are built for all sites, while site-specific maps are only built for a particular site. Whether a map is global or site-specific is determined by the location of the
 map within the Path Analyzer's content tree in the Marketing Control Panel. All global maps are placed in the <em>/Maps/Default maps/Global maps</em> folder and all site-specific maps are
 placed in the <em>/Maps/Default maps/Site maps</em> folder.</p>
+
 <h3 id="custom-maps">Custom maps</h3>
+
 <p>If there are any custom maps registered, which typically requires minor development effort, you can find them in the  <em>/Maps/Custom maps</em> folder.</p>
+
 <h3 id="how-to-create-a-new-map">How to create a new map</h3>
+
 <p>To create a brand new map:</p>
+
 <ol>
-    <li>
-    <p>Open the Marketing Control Panel from Launchpad.</p>
-    </li>
-    <li>
-    <p>Navigate to the Path Analyzer item.</p>
-    </li>
-    <li>
-    <p>Expand the Maps item underneath Path Analyzer.</p>
-    </li>
-    <li>
-    <p>Select the appropriate folder for your new map based on the available map types described above.</p>
-    </li>
-    <li>
-    <p>Create a new map item.</p>
-    </li>
-    <li>
-    <p>Specify the required attributes and any optional attributes for your map.</p>
-    </li>
-    <li>
-    <p>Save the map item.</p>
-    </li>
-    <li>
-    <p>Deploy the new map using the Deploy workflow command on the Review tab.</p>
-    </li>
+<li><p>Open the Marketing Control Panel from Launchpad.</p></li>
+<li><p>Navigate to the Path Analyzer item.</p></li>
+<li><p>Expand the Maps item underneath Path Analyzer.</p></li>
+<li><p>Select the appropriate folder for your new map based on the available map types described above.</p></li>
+<li><p>Create a new map item.</p></li>
+<li><p>Specify the required attributes and any optional attributes for your map.</p></li>
+<li><p>Save the map item.</p></li>
+<li><p>Deploy the new map using the Deploy workflow command on the Review tab.</p></li>
 </ol>
+
 <p>Historic and live data for the map will begin building approximately 30 minutes after deployment.</p>
+
 <h2 id="map-selector">Map selector</h2>
+
 <p>You can select various maps using the Map selector control.
 You can also see more map meta-data and add a map to your favorites list, which will automatically be saved to your profile.</p>
+
 <h3 id="group-map-data">Group map data</h3>
+
 <p>Maps are powered by <a href="#tree">tree data structures</a> that consist of <a href="#node">nodes</a>.
-Because each <a href="#node">node</a> is expected to have a corresponding item in the content (master) database,
+Because each <a href="#node">node</a> is expected to have a corresponding item in the content (master) database, 
 if you select the Map selector's Group map data checkbox, the nodes will be grouped by the Sitecore data template from which they were created.</p>
+
 <p>For example, you can group these two paths:</p>
+
 <ul>
-    <li>
-    <p>Home -&gt; TVs -&gt; 50" flat screen TV</p>
-    </li>
-    <li>
-    <p>Home -&gt; Tablets -&gt; 12" tablet</p>
-    </li>
+<li><p>Home -&gt; TVs -&gt; 50" flat screen TV</p></li>
+<li><p>Home -&gt; Tablets -&gt; 12" tablet</p></li>
 </ul>
+
 <p>into a single path:</p>
+
 <ul>
-    <li>Landing Page -&gt; Product Category Page -&gt; Product Detail page</li>
+<li>Landing Page -&gt; Product Category Page -&gt; Product Detail page</li>
 </ul>
+
 <p>Grouping map data is useful when you'd like to perform path analysis on a page category level compared to an individual page level.</p>
+
 <h2 id="date-selector">Date range selector</h2>
+
 <p>You can select a date range using the date range selector either by
 selecting individual start and end dates from the calendars, or by
 choosing one of the predefined date ranges.</p>
+
 <h3 id="date-selector-missing-dates">Dates missing data</h3>
+
 <p>There may be cases where a map has no available data for some dates, even if there are available data before or after these dates.
 This may be because there are no interactions recorded for a date, or because an error occurred during data processing and the dates involved in the error were skipped.
 The date range selector highlights dates for which no data are available.
 Please contact your system administrator if you encounter many dates in the calendar with no available data.</p>
+
 <h3 id="date-selector-unavailable-dates">Unavailable dates</h3>
+
 <p>Depending on the date range that you have selected, some dates can be
 marked as unavailable for selection. For example, when you select an end
 date, all dates prior to the current start date are marked as unavailable.
 All future dates are also marked as unavailable.</p>
+
 <h2 id="map-key">Map key</h2>
+
 <p>The following map key applies to the Radial, Horizontal, and Vertical tree views.</p>
-<p>When you read a map, the size and color of the circles and the lines between nodes on the map represent information about which paths provide higher <a href="#value">engagement value</a>,
+
+<p>When you read a map, the size and color of the circles and the lines between nodes on the map represent information about which paths provide higher <a href="#value">engagement value</a>, 
 higher <a href="#value-per-visit">value per visit</a> or are the most <a href="#visits">visited</a>.</p>
+
 <p>Circles represent <a href="#node">nodes</a>. Depending on the selected map type, nodes may represent pages, goals, or other marketing activities. Circles have
 the following two visual properties providing information about the node: size and color.</p>
+
 <p>The size of a circle indicates the total <a href="#value">engagement value</a> of a <a href="#node">node</a> and all its descendants.
 In other words, a larger node represents a larger total <a href="#value">engagement value</a>.</p>
-<p>The color of a circle indicates the <a href="#value-per-visit">value per visit</a> of a <a href="#node">node</a> compared to the value per visit of its parent and
+
+<p>The color of a circle indicates the <a href="#value-per-visit">value per visit</a> of a <a href="#node">node</a> compared to the value per visit of its parent and 
 it helps you spot the change in this metric when looking further down the path.
 If a circle becomes red, then the <a href="#value-per-visit">value per visit</a> has decreased at this <a href="#node">node</a>.
 If a circle becomes greener than its parent, then the <a href="#value-per-visit">value per visit</a> has increased at this <a href="#node">node</a>.
-Circle color also helps you compare the <a href="#value-per-visit">value per visit</a> metric between sibling nodes and
+Circle color also helps you compare the <a href="#value-per-visit">value per visit</a> metric between sibling nodes and 
 determine where the highest <a href="#value-per-visit">value per visit</a> paths continue from a given <a href="#node">node</a>.</p>
+
 <p>Circles with a thick dark gray border represent special "<a href="#other-nodes">other nodes</a>".</p>
+
 <p>Lines connecting the map nodes represent paths between <a href="#node">node</a> A and <a href="#node">node</a> B. Lines have the following visual properties providing information about the <a href="#path">path</a>: thickness and partial shading.</p>
-<p>The thickness of a line indicates how many <a href="#visits">visits</a> (traffic) went from <a href="#node">node</a> A to <a href="#node">node</a> B compared to the siblings of <a href="#node">node</a> B,
+
+<p>The thickness of a line indicates how many <a href="#visits">visits</a> (traffic) went from <a href="#node">node</a> A to <a href="#node">node</a> B compared to the siblings of <a href="#node">node</a> B, 
 which allows for easy identification of high traffic paths.</p>
+
 <p>A partial shading of a line is complementary to line thickness and is used to represent path visits at deeper levels, where it is more
 difficult to see differences in line thickness.</p>
+
 <p>As a general guideline, look for thick lines with either small or red
 circles, indicating a high volume of <a href="#visits">visits</a> to paths that have low
 <a href="#value">engagement value</a> (size) and low <a href="#value-per-visit">value per visit</a> (color), respectively.</p>
+
 <h3 id="other-nodes">Other nodes</h3>
+
 <p>Due to the limitations of tree views (Radial, Horizontal and Vertical)
 when visualizing large maps with extreme fanouts, less significant
 nodes that cannot fit at a particular level of the visualization are combined
 into a special "other" node. The <a href="#table-view">Table view</a> does not have this
 limitation.</p>
+
 <p>You can see the list of nodes that were combined into "Other nodes" by
 selecting the Next tab on the Context Pane or selecting the Others
 tab within the node popover.</p>
+
 <p>Applying either a <a href="#path-filter">Path filter</a> or a <a href="#metrics-filter">Metrics filter</a> usually helps reduce the
 number of "Other nodes" shown on a map.</p>
+
 <h2 id="map-views">Map views</h2>
+
 <p>There are five different views available to choose from for analyzing your maps.
 Dashboard is a default view that provides introductory insights to path analysis and is described <a href="#dashboard">below</a>.</p>
+
 <h3 id="radial-view">Radial view</h3>
+
 <p>Radial view has an advantage of being able to fit more map data on the screen but
 is not ideal for smaller maps or filtered maps.
 The <a href="#internet-node">Internet node</a> is at the center on this view.</p>
+
 <h3 id="vertical-view">Vertical view</h3>
+
 <p>Vertical view is much better at representing smaller maps or filtered maps and usually provides better readability
 compared to the <a href="#radial-view">Radial view</a>. The <a href="#internet-node">Internet node</a> can be found at the very top on this view.</p>
+
 <h3 id="horizontal-view">Horizontal view</h3>
-<p>Similar to Vertical view, Horizontal view is good for smaller maps and usually provides better readability
+
+<p>Similar to Vertical view, Horizontal view is good for smaller maps and usually provides better readability 
 compared to the <a href="#radial-view">Radial view</a>.
 The <a href="#internet-node">Internet node</a> can be found at the far left side.</p>
+
 <h3 id="table-view">Table view</h3>
-<p>Table view is different because it only shows <a href="#path">full paths</a>,
+
+<p>Table view is different because it only shows <a href="#path">full paths</a>, 
 which is due to the map data being a <a href="#tree">tree structure</a> that cannot be easily viewed as a table.</p>
+
 <h2 id="dashboard">Dashboard</h2>
+
 <p>Dashboard is a special view that provides introductory insights to path analysis.</p>
+
 <h3 id="map-kpis">Map KPIs</h3>
+
 <p>There are six Key Performance Indicators (KPI) available on the dashboard
-by default for the following metrics: <a href="#visits">visits</a>, <a href="#value">value</a>, <a href="#value-per-visit">value per visit</a>,
+by default for the following metrics: <a href="#visits">visits</a>, <a href="#value">value</a>, <a href="#value-per-visit">value per visit</a>, 
 and optional outcome metrics: <a href="#monetary-value">monetary value</a>, <a href="#outcomes">outcomes</a>, and <a href="#average-monetary-value">average monetary value</a>.</p>
+
 <p>Outcome metrics are not shown by default and can be enabled from <a href="#application-settings">Application
 Settings</a>.</p>
+
 <p>Each map KPI has a trend indicator showing the increase or decrease of a
 metric compared with the same metric over the same date interval for the
 same map in the past. For example, if the currently selected date range
 is today, the trend indicator will be based on the data from yesterday.</p>
+
 <h3 id="top-path-entries">Top path entries</h3>
+
 <p>This list shows the top 10 path starting points on the current map.
 In Path Analyzer terminology, these are the top 10 <a href="#node">nodes</a> on the first level,
 sorted by combined <a href="#value">value</a> and <a href="#visits">visits</a> metrics.</p>
+
 <h3 id="featured-path">Featured path</h3>
+
 <p>The Featured path displays the path from the currently selected map with the most interesting
 set of key marketing metrics. Featured path selection is based on an
 algorithm that takes into account either <a href="#exit-value-potential">exit value
 potential</a> or combined <a href="#value">value</a> and <a href="#visits">visits</a>, then selects the top path in either metric category.
 Because the opportunity for optimization is relatively limited for short paths, the algorithm will prioritize the longest paths.</p>
+
 <h3 id="favorite-funnel">Favorite funnel</h3>
+
 <p>A Favorite funnel is a funnel that was marked as favorite on a particular map. This can be changed at any time on the Context Pane under Funnels. A Favorite funnel is saved in your user profile and is associated with the map from which it was marked as favorite.</p>
+
 <h2 id="reports">Reports</h2>
+
 <p>The Path Analyzer reports show top paths in various categories.
 Reports provide an introduction to the most interesting paths in the currently selected map, enabling you to quickly identify of good and bad paths.
 By default, there are eight report categories available.
 Up to 10 paths are available for selection in each category.</p>
+
 <h3 id="highest-visited-report">Highest visited</h3>
+
 <p>The paths with the highest <a href="#visits">visits</a>.</p>
+
 <h3 id="highest-valuable-report">Highest valuable</h3>
+
 <p>The paths that generate the highest <a href="#value">engagement value</a>.</p>
+
 <h3 id="highest-visitsvalue-report">Highest visits and value</h3>
+
 <p>The paths that generate the highest <a href="#value">engagement value</a> and the highest <a href="#visits">visits</a>.</p>
+
 <h3 id="highest-valuepervisit-report">Highest value per visit</h3>
+
 <p>The paths that generate the highest <a href="#value-per-visit">value per visit</a>.</p>
+
 <h3 id="paths-without-value-report">Paths without value</h3>
+
 <p>The paths where customers exited without generating any <a href="#value">engagement value</a>.</p>
+
 <h3 id="highest-evp-report">Highest exit value potential</h3>
+
 <p>The paths that generate the highest <a href="#exit-value-potential">exit value potential</a>.</p>
+
 <h3 id="highest-outcomes-report">Highest outcomes</h3>
+
 <p>The paths that generate the highest number of <a href="#outcomes">outcomes</a>.</p>
+
 <h3 id="highest-monetaryvalue-report">Highest monetary value</h3>
+
 <p>The paths that generate the highest total <a href="#monetary-value">monetary value</a>, which comes from outcomes.</p>
+
 <h2 id="funnels">Funnels</h2>
+
 <p>A funnel is a well-defined sequence of steps that customers are expected
 to take on their way to realizing a business objective. Businesses
 define their own funnel. For an e-commerce site, it is likely a checkout
 funnel, which could be represented as a sequence of pages, page events
 or goals, depending on the implementation specifics.</p>
+
 <p>Funnels in Path Analyzer enable you to analyze the actions and paths
 that customers take on their way to converting goals and outcomes. You
-can then optimize the paths to improve conversion rates, for example,
+can then optimize the paths to improve conversion rates, for example, 
 by implementing <a href="https://doc.sitecore.net/sitecore_experience_platform/digital_marketing/personalization/personalization" target="_blank">personalization</a>,
 <a href="https://doc.sitecore.net/sitecore_experience_platform/analyzing__reporting/experience_optimization__content_testing/ab_and_multivariate_testing" target="_blank">M/V testing</a>,
 or <a href="https://doc.sitecore.net/sitecore_experience_platform/analyzing__reporting/experience_optimization__content_testing" target="_blank">content testing</a>.</p>
+
 <p>The Funnels feature is available from the Context Pane, where you can select and explore a funnel that is defined in the Marketing Control Panel.</p>
+
 <p>After a funnel is selected, you can view a graphical representation of
 the tracked steps from a funnel within Path Analyzer in the form of a
 bar chart. The chart provides you with information about the number of
@@ -2368,62 +2472,74 @@ customers who complete each step in the funnel, as well as how many
 customers continue to the next stage. It also lets you switch between key metrics, such as <a href="#visits">visits</a>, <a href="#value">value</a>, and <a href="#value-per-visit">value per visit</a>.
 Below the chart, the list of all other metrics is shown, providing the key performance indicators for the funnel. These metrics are taken from the last step of the funnel.
 This data is calculated based on the scope of an interaction as opposed to the lifetime customer journey.</p>
+
 <p>Any funnel can be marked as favorite by clicking the star icon next to the funnel name.
 This action will make the funnel visible on the <a href="#dashboard">Dashboard view</a>.</p>
+
 <p>To save any selected path as a funnel, click Save as funnel in the footer area of the Context Pane.</p>
+
 <h2 id="map-filters">Map filters</h2>
+
 <p>There are two types of filters available that let you focus on certain paths.</p>
+
 <h3 id="path-filter">Path filter</h3>
-<p>Path filter enables you to filter a map based on the name of a node, which could either be a page, a goal,
+
+<p>Path filter enables you to filter a map based on the name of a node, which could either be a page, a goal, 
 or any other marketing attribute depending on the type of the current map.
 For example, you can use Path filter to learn how customers arrive at a page of interest.
 Simply set a particular page as an element of the Path filter and click Apply.
 The map will adjust accordingly.</p>
+
 <p>Path filter lets you build a map filter from Page A to Page B as well.
 Usually, you won't require more than three elements in the Path filter, but you can specify any number of elements there.
 The Path filter narrows down the list of options based on the available data in the current map.</p>
+
 <h3 id="metrics-filter">Metrics filter</h3>
+
 <p>This filter focuses on filtering nodes by their key metrics: <a href="#visits">visits</a>, <a href="#value">value</a>, <a href="#value-per-visit">value
 per visit</a>, and <a href="#exit-value-potential">exit value potential</a>.</p>
+
 <p>Because of its secondary nature to the main <a href="#path-filter">Path filter</a>, the Metrics filter is able to show how many matches
 for the current <a href="#path-filter">Path filter</a> there are, as well as the correlation between different metrics.
-Also, you can use the Metrics filter without the <a href="#path-filter">Path filter</a> and filter out the less visited nodes,
+Also, you can use the Metrics filter without the <a href="#path-filter">Path filter</a> and filter out the less visited nodes, 
 which reduces noise on the current map.</p>
+
 <p>Finally, the Metrics filter lets you find interesting correlations between different metrics and for finding path optimization candidates, for example:</p>
+
 <ul>
-    <li>
-    <p>High <a href="#visits">visits</a>, but low <a href="#value">value</a>.</p>
-    </li>
-    <li>
-    <p>High <a href="#value-per-visit">value per visit</a>, but low <a href="#visits">visits</a>.</p>
-    </li>
-    <li>
-    <p>High <a href="#exit-value-potential">exit value potential</a>.</p>
-    </li>
+<li><p>High <a href="#visits">visits</a>, but low <a href="#value">value</a>.</p></li>
+<li><p>High <a href="#value-per-visit">value per visit</a>, but low <a href="#visits">visits</a>.</p></li>
+<li><p>High <a href="#exit-value-potential">exit value potential</a>.</p></li>
 </ul>
+
 <h2 id="export-map">Export a map</h2>
+
 <p>You can export data for any map as a comma separated dataset using the
 following two commands from the Action Menu:</p>
+
 <ul>
-    <li>
-    <p>Download as CSV</p>
-    </li>
-    <li>
-    <p>Copy to clipboard</p>
-    </li>
+<li><p>Download as CSV</p></li>
+<li><p>Copy to clipboard</p></li>
 </ul>
+
 <p>Both commands operate using the same format and exist to enable
 different export workflows.</p>
+
 <h2 id="application-messages">Application messages</h2>
+
 <p>When using the application, you can see various messages in the message bar.</p>
+
 <h3 id="table-top">"Table view shows top X paths out of Y total."</h3>
+
 <p>This message can be seen when the <a href="#table-view">Table view</a> is rendering extremely
 large maps. The <a href="#table-view">Table view</a> is able to show only the top 500 <a href="#path">full
 paths</a>. Suggested actions for this message are: use either the
 <a href="#path-filter">Path filter</a> or the <a href="#metrics-filter">Metrics filter</a> to decrease the number of visible
 rows; decrease the date range interval for the map; or <a href="#how-to-create-a-new-map">create</a> or <a href="#map-selector">select</a> a
 filtered map that has less data.</p>
+
 <h3 id="other-nodes-message">"X less significant nodes were grouped together with other nodes."</h3>
+
 <p>This message can be seen using either the Radial, Horizontal, or Vertical
 view on large maps with extreme fanouts. To ensure the map is readable,
 less significant nodes that cannot fit at a particular level of the visualization
@@ -2432,120 +2548,148 @@ not have this limitation. Suggested actions for this message are: use
 either the <a href="#path-filter">Path filter</a> or the <a href="#metrics-filter">Metrics filter</a> to decrease the number of
 visible nodes; decrease the date range interval for the map; or <a href="#how-to-create-a-new-map">create</a> or <a href="#map-selector">select</a> a
 filtered map that has less data.</p>
+
 <h3 id="partial-map">"The selected map is being built. You may see partial data."</h3>
+
 <p>This message can be seen if the currently selected map was recently deployed but the
 process of building data for this map hasn't completed. Data for the newly deployed map should be available approximately 30 minutes after map deployment.</p>
+
 <h2 id="application-settings">Application settings</h2>
+
 <p>Below is a list of application settings you can change in order to
 customize your Path Analyzer application experience:</p>
+
 <ul>
-    <li>
-    <p>Enable/disable transition effects</p>
-    </li>
-    <li>
-    <p>Show/hide labels by default</p>
-    </li>
-    <li>
-    <p>Show/hide legend by default</p>
-    </li>
-    <li>
-    <p>Show/hide outcome metrics</p>
-    </li>
-    <li>
-    <p>Show/hide help on startup</p>
-    </li>
-    <li>
-    <p>Allow selection of dates missing data</p>
-    </li>
+<li><p>Enable/disable transition effects</p></li>
+<li><p>Show/hide labels by default</p></li>
+<li><p>Show/hide legend by default</p></li>
+<li><p>Show/hide outcome metrics</p></li>
+<li><p>Show/hide help on startup</p></li>
+<li><p>Allow selection of dates missing data</p></li>
 </ul>
+
 <p>These settings are available from the Action Menu, under Settings.</p>
+
 <h2 id="glossary">Glossary</h2>
+
 <h3 id="map">Map</h3>
+
 <p>A special marketing definition that describes how to build data for path analysis.
 Each deployed map has a <a href="#tree">tree</a> stored in the reporting database.</p>
+
 <h3 id="tree">Tree</h3>
+
 <p>The aggregated data structure for path analysis that is stored in a reporting database for each
 deployed map consisting of a hierarchy of <a href="#node">nodes</a>.
 Any tree must have a special root node, which is called an <a href="#internet-node">Internet node</a>.</p>
+
 <h3 id="node">Node</h3>
+
 <p>The key element of the <a href="#tree">tree</a>.
 All nodes, except for the <a href="#internet-node">Internet node</a>, have a parent node and can have child nodes.
-Depending on the <a href="#map-types">map type</a>, a node can either represent a page (on a <a href="#page-maps">Page map</a>),
+Depending on the <a href="#map-types">map type</a>, a node can either represent a page (on a <a href="#page-maps">Page map</a>), 
 or a goal, or any other marketing attribute (channel, campaign, and so on) on an <a href="#experience-maps">Experience map</a>.</p>
+
 <p>Each node has a unique numeric ID, name, and a GUID that corresponds to an item from the content database.</p>
+
 <p>There are different kinds of metrics stored on each node: </p>
+
 <ul>
-    <li>
-    <p><strong>Aggregated metrics</strong>, including <a href="#value">value</a>, <a href="#visits">visits</a>, <a href="#average-time-spent">average time spent</a>, <a href="#outcomes">outcomes</a>, and <a href="#monetary-value">monetary value</a>.
-    These metrics include values from all descendant nodes.</p>
-    </li>
-    <li>
-    <p><strong>Exit metrics</strong>, including <a href="#exits">exits</a> and <a href="#exit-value">exit value</a>.
-    These metrics do not include values from all descendant nodes and are only calculated if the current node is an <a href="#exit-node">Exit node</a>.</p>
-    </li>
-    <li>
-    <p><strong>Calculated metrics</strong>, including <a href="#value-per-visit">value per visit</a>, <a href="#exit-value-per-visit">exit value per visit</a>, <a href="#average-monetary-value">average monetary value</a>, and <a href="#exit-value-potential">exit value potential</a>.</p>
-    </li>
+<li><p><strong>Aggregated metrics</strong>, including <a href="#value">value</a>, <a href="#visits">visits</a>, <a href="#average-time-spent">average time spent</a>, <a href="#outcomes">outcomes</a>, and <a href="#monetary-value">monetary value</a>.
+These metrics include values from all descendant nodes.</p></li>
+<li><p><strong>Exit metrics</strong>, including <a href="#exits">exits</a> and <a href="#exit-value">exit value</a>.
+These metrics do not include values from all descendant nodes and are only calculated if the current node is an <a href="#exit-node">Exit node</a>.</p></li>
+<li><p><strong>Calculated metrics</strong>, including <a href="#value-per-visit">value per visit</a>, <a href="#exit-value-per-visit">exit value per visit</a>, <a href="#average-monetary-value">average monetary value</a>, and <a href="#exit-value-potential">exit value potential</a>.</p></li>
 </ul>
+
 <h3 id="exit-node">Exit node</h3>
+
 <p>Node with <a href="#exits">exits</a> greater than zero, indicating the number of <a href="#visits">visits</a> that terminated on this node.</p>
+
 <h3 id="internet-node">Internet node</h3>
-<p>The special root <a href="#node">node</a> that serves as a starting node for all <a href="#path">paths</a>,
+
+<p>The special root <a href="#node">node</a> that serves as a starting node for all <a href="#path">paths</a>, 
 and aggregates all key metrics from all paths on the given <a href="#map">map</a>.</p>
+
 <h3 id="path">Path</h3>
+
 <p>A sequence of <a href="#node">nodes</a> make up a path. Because of the aggregated nature of
 the <a href="#tree">tree</a>, it's important to differentiate between two kinds of paths:
 <strong>entry path</strong> and <strong>full path</strong>.</p>
+
 <p>A <strong>full path</strong> consists of an entire visit, from the entry node to the <a href="#exit-node">exit node</a>.
 An <strong>entry path</strong>, however, doesn't have to end with an exit.
-It's important to understand the difference between the two kinds of paths,
+It's important to understand the difference between the two kinds of paths, 
 because the <a href="#map-views">Table view</a> and the <a href="#reports">Reports feature</a> only work with full paths.</p>
+
 <h3 id="visits">Visits metric</h3>
+
 <p>The total aggregated visits on a given node. This includes visits metrics from all descendant nodes.</p>
+
 <h3 id="value">Value metric</h3>
+
 <p>The total aggregated engagement value on a given node. This includes value metrics from all descendant nodes.</p>
+
 <h3 id="value-per-visit">Value per visit metric</h3>
+
 <p>The aggregated <a href="#value">engagement value</a> divided by <a href="#visits">visits</a> on a given node.
 Sometimes, this metric is defined as <strong>efficiency</strong>.
 This metric is instrumental in calculating <a href="#exit-value-potential">exit value potential</a>.</p>
+
 <h3 id="exits">Exits metric</h3>
+
 <p>The total amount of exits on a given node.
 This metric identifies whether a given node comprises a full path or an entry path.
 Any node with exits greater than zero comprises a full path.
 This metric is instrumental in calculating <a href="#exit-value-potential">exit value potential</a>.</p>
+
 <h3 id="exit-value">Exit value metric</h3>
+
 <p>The aggregated engagement value on a given node before exiting.
 Only nodes where exits occurred have this metric.
 The difference between this and the <a href="#value">value metric</a> is that the exit value metric doesn't take into account engagement value of the descendant nodes.</p>
+
 <h3 id="exit-value-per-visit">Exit value per visit metric</h3>
+
 <p>The aggregated <a href="#value">engagement value</a> divided by <a href="#visits">visits</a> on a given <a href="#exit-node">exit node</a>. Only nodes
 where exits occurred have this metric calculated. The difference between
 this metric and the <a href="#value-per-visit">value per visit</a> metric, is that this metric doesn't
 account for engagement value per visit of the descendant nodes.
 This metric is instrumental in calculating <a href="#exit-value-potential">exit value potential</a>.</p>
+
 <h3 id="exit-value-potential">Exit value potential metric</h3>
+
 <p>The exit potential indicates a projected <a href="#value">engagement value</a> that could be
 gained on average through optimization. It is only calculated for the <a href="#exit-node">exit nodes</a>.
 You can consider it an advanced bounce metric, where the engagement value loss or value leakage is also taken
 into account besides just <a href="#exits">exits</a>. If you know how much <a href="#value-per-visit">value per visit</a> is
 aggregated on all paths further down, and how much <a href="#value-per-visit">value per visit</a> is stored on the <a href="#exit-node">exit node</a>, then this metric can be
 calculated by taking the delta between the two and multiplying by the number of exits, using the following formula:</p>
+
 <p>(value per visit - exit value per visit) * exits</p>
+
 <h3 id="outcomes">Outcomes metric</h3>
+
 <p>The total number of outcomes realized on a given node. This includes
 outcomes from all descendant nodes.
 Learn more about outcomes <a href="https://doc.sitecore.net/sitecore_experience_platform/developing/marketing_operations/outcomes/outcomes" target="_blank">here</a>.</p>
+
 <h3 id="monetary-value">Monetary value metric</h3>
+
 <p>The total amount of monetary value gained on a given <a href="#node">node</a>. The monetary
 value is retrieved from realized outcomes. This includes monetary value
 from all descendant nodes.
 Learn more about outcomes <a href="https://doc.sitecore.net/sitecore_experience_platform/developing/marketing_operations/outcomes/outcomes" target="_blank">here</a>.</p>
+
 <h3 id="average-monetary-value">Average monetary value metric</h3>
+
 <p>The average monetary value gained per outcome on a given <a href="#node">node</a>. The
 monetary value is retrieved from realized outcomes. This includes
 average monetary value from all descendant nodes.
 Learn more about outcomes <a href="https://doc.sitecore.net/sitecore_experience_platform/developing/marketing_operations/outcomes/outcomes" target="_blank">here</a>.</p>
+
 <h3 id="average-time-spent">Average time spent metric</h3>
+
 <p>The average amount of time customers spent on a given <a href="#node">node</a> in seconds.</p>
 ----field----
 field: {894E6A55-DD32-46B7-8042-08A2EBEDDF65}
@@ -2588,7 +2732,7 @@ name: __Revision
 key: __revision
 content-length: 36
 
-1cae522b-6738-401d-849c-63d4c844acd3
+784a8e1d-4ee0-4f74-b27c-830716b16e0c
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
