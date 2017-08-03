@@ -13,8 +13,188 @@ created: 20160729T132117:636053952770000000
 ----version----
 language: da
 version: 1
-revision: 299a77ac-3057-4c85-8ab2-bb9b85a19228
+revision: 407c4f9f-9acf-452f-b458-931d406664a0
 
+----field----
+field: {6F11AD22-C527-47D9-A22B-86395B09D695}
+name: Content
+key: content
+content-length: 10363
+
+<h1 id="intro">Sådan kommer du i gang med Page Analyzer</h1>
+
+<p>Mens hovedapplikation Path Analyzer, der er tilgængelig via Startområde, har fokus på avanceret sti-analyse,
+fokuserer Page Analyzer kun på de stier, der fører til og fra en bestemt side. Hovedmålet for applikationen er at forstå, hvordan kunder kommer til en bestemt destination (en side), og hvad de derefter gør. Datavisualiserigsindikatorer hjælper dig med at forstå stierne med mest trafik(besøg) og største engagement-værdi pr. besøg, så du kan udpege gode og dårlige stier. Du kan dykke ned i en bestemt sti og undersøge stidetaljerne.</p>
+
+<h2 id="map-key">Sådan aflæses visualisering</h2>
+
+<p>Visualisering placerer den aktuelt valgte side i midten (vist som en stor cirkel med sideikon) og viser alle stier, der fører ind og ud af den.</p>
+
+<p>Startområdet viser, hvor mange stier, der startede med den aktuelt valgte side.</p>
+
+<p>Udgangsområdet viser antallet af udgange på den aktuelt valgte side og det samlede <a href="#exit-value-potential">udgangsværdipotentiale</a></p>
+
+<p>De vandrette linjer, der går ind <em>i</em> den aktuelt valgte side, repræsenterer indgående stier. Cirklerne, der er placeret øverst på linjerne, repræsenterer <a href="#node">noder</a> på stien. Noder oversættes generelt til sider.</p>
+
+<p>De vandrette linjer, der går <em>fra</em> den aktuelt valgte side til højre, repræsenterer udgående stier. Cirklerne, der er placeret øverst på linjerne, repræsenterer <a href="#node">noder</a> på stien. Noder oversættes generelt til sider. For at forenkle visualisering, er det kun den første side, der er vist på udgående stier.</p>
+
+<p>Linjetykkelsen definerer det samlede antal <a href="#value-per-visit">besøg</a> på den aktuelt valgte side fra den specifikke sti. 
+Jo tykkere stien er, jo flere besøg kommer der til den side for en given sti.</p>
+
+<p>Linjefarven definerer <a href="#value-per-visit">værdi pr. besøg</a> på denne specifikke sti til den aktuelt valgte side. 
+Jo grønnere stien er, jo højere <a href="#value-per-visit">værdi pr. besøg</a> sammenlignet med andre stier, der fører til den aktuelt valgte side.
+Stier med mindste værdi pr. besøg er vist med rødt.</p>
+
+<p>Størrelsen af cirklen definerer den samlede engagement-værdi på stien, der fører til den aktuelt valgte side.
+Jo større cirklen er, jo højere <a href="#value">engagement-værdi</a>.</p>
+
+<p>Kontekstrudeområdet viser samlet total for besøg, værdi og værdi per besøgsmetrik, samt det samlede stiantal.
+Hvis peger på en bestemt sti, viser total-området metrik fra denne sti.</p>
+
+<h2 id="map-selector">Kortvælger</h2>
+
+<p>Du kan vælge forskellige kort med kortvælgerkontrollen. Du kan også se flere kort-metadata og tilføje et kort til din foretrukne liste, der automatisk gemmes på din profil.</p>
+
+<h3 id="group-map-data">Grupper kortdata</h3>
+
+<p>Kort drives af trædatastrukturer, der består af <a href="#node">noder</a>.
+Da hver enkelt <a href="#node">noder</a> forventes at have et tilhørende element i indholds (master)-databasen,
+hvis du vælger kortvælgerens afkrydsningsfelt Grupper kortdata, grupperes noderne af Sitecore-dataskabelonen, hvorfra de var oprettet.</p>
+
+<p>Du kan f.eks. gruppere disse to stier:</p>
+
+<ul>
+<li><p>Home -&gt; TVs -&gt; 50" fladskærms-TV</p></li>
+<li><p>Home -&gt; Tablets -&gt; 12" tablet</p></li>
+</ul>
+
+<p>til en enkelt stri:</p>
+
+<ul>
+<li>Startside -&gt; Produktkategoriside -&gt; Produktdetaljeside</li>
+</ul>
+
+<p>Det er nyttigt at gruppere kortdata, når du vil udføre en sti-analyse på et sidekategoriniveau sammenlignet med et individuelt sideniveau.</p>
+
+<h2 id="date-selector">Datoområdevælger</h2>
+
+<p>Du kan vælge et datoområde vha. dataoområdevælgeren enten ved at
+vælge individuelle start- og slutdatoer fra kalendere, eller ved at
+vælge en af de foruddefinerede datoområder.</p>
+
+<h3 id="date-selector-missing-dates">Datoer mangler data</h3>
+
+<p>Der kan være tilfælde, hvor et kort ikke har nogen tilgængelige data for nogle datoer, selvom der er tilgængelige data før eller efter disse datoer.
+Dette kan skyldes, at der ikke er registreret nogen interaktioner for en dato, eller fordi der er opstået en fejl under databehandlingen, og de involverede datoer med fejl er sprunget over.
+Datointerval-vælgeren fremhæver datoer, hvor der ikke er adgang til data.
+Kontakt systemadministratoren, hvis du oplever mange datoer i kalenderen, hvor der ikke er tilgængelige data.</p>
+
+<h3 id="date-selector-unavailable-dates">Utilgængelige datoer</h3>
+
+<p>Afhængig af det datointerval, du har valgt, kan nogle datoer være
+markeret utilgængelige. F.eks. Når du vælger en slutdato,
+er alle datoerne forud for den aktuelle startdato markeret som utilgængelige.
+Alle fremtidige datoer er også markeret som utilgængelige.</p>
+
+<h2 id="metrics-filter">Metrik-filter</h2>
+
+<p>Dette filter fokuserer på filtrering af noder efter deres nøglemetrik: besøg, værdi, værdi pr. besøg og udgangsværdipotentiale.
+Du kan bruge metrik-filteret til at reducere støjen eller til at finde interessante sammenhænge mellem forskellige metrikker og til at finde stioptimeringskandidater, f.eks.:</p>
+
+<ul>
+<li>Mange <a href="#visits">besøg</a>, men lav <a href="#value">værdi</a>.</li>
+<li>Høj <a href="#value-per-visit">værdi pr. besøg</a>, men lavt antal <a href="#visits">besøg</a>.</li>
+<li>Høj <a href="#exit-value-potential">udgangsværdipotentiale</a>.</li>
+</ul>
+
+<h2 id="application-messages">Applikationsmeddelelser</h2>
+
+<p>Når du bruger applikationen, kan du se forskellige meddelelser i meddelelsesbjælken.</p>
+
+<h3 id="page-analyzer-hidden-paths">"Nogle stier er skjulte. Brug filter til at se andre stier."</h3>
+
+<p>Applikationen viser kun 10 stier ad gangen. Du kan bruge metrik-filteret til at reducere antallet af stier, baseret på metrikkriterier.</p>
+
+<h3 id="page-analyzer-maximum-paths">"Baseret på 500 stier ud af i alt X."</h3>
+
+<p>Nogle sider, som f.eks. Startsiden, kan have et massivt antal stier, der går via dem.
+For at være effektiv, behandler applikationen kun de øverste 500 stier.
+Du kan plukke et mere segmenteret kort eller vælge et mindre datointerval for at gøre noget ved dette.</p>
+
+<h3 id="partial-map">"Det valgte kort er under opbygning. Du ser måske delvise data."</h3>
+
+<p>Denne meddelelse ses, hvis det aktuelt valgte kort lige er installeret,
+men processen med opbygning af data endnu ikke er fuldført. Data for det nyinstallerede kort bør være tilgængelig ca. 30 minutter, efter kortet er installeret.</p>
+
+<h2 id="glossary">Ordliste</h2>
+
+<h3 id="map">Map</h3>
+
+<p>En speciel marketingdefinition, der beskriver, hvordan data opbygges til sti-analyse.
+Page Analyzer bruger kortdata og filtre til kun at vise dem, der går gennem den aktuelt valgte side.
+Det filtrerede datasæt bruges til visualisering.
+Du kan skifte til et andet kort med <a href="#map-selector">kortvælgeren</a>.</p>
+
+<h3 id="path">Sti</h3>
+
+<p>En sekvens med <a href="#node">noder</a> udgør en sti. Alle stier, der vises i Page Analyzer, går gennem den aktuelt valgte side.</p>
+
+<h3 id="node">Node</h3>
+
+<p>Et element på en <a href="#path">sti</a>. For de fleste kort oversættes noder hovedsagelig til andre sider. 
+Der er et sæt med metrikker, der gemmes på hver enkelt node: <a href="#value">værdi</a>, <a href="#visits">besøg</a>,
+<a href="#value-per-visit">værdi pr. besøg</a>, <a href="#exits">udgang</a>, <a href="#exit-value">udgangsværdi</a>, <a href="#exit-value-per-visit">udgangsværdi pr. besøg</a> og 
+<a href="#average-time-spent">gennemsnitlig tid brugt</a>.</p>
+
+<h3 id="exit-node">Udgangsnode</h3>
+
+<p>Node med <a href="#exits">udgange</a> højere end nul, indikerer antallet af <a href="#visits">besøg</a> der er afsluttet på denne node.</p>
+
+<h3 id="visits">Besøgsmetrik</h3>
+
+<p>Det samlede antal besøg på en given node. Denne indeholder besøgsmetrikker fra alle underordnede noder.</p>
+
+<h3 id="value">Værdimetrik</h3>
+
+<p>Den samlede engagement-værdi på en given node. Denne indeholder værdimetrikker fra alle underordnede noder.</p>
+
+<h3 id="value-per-visit">Værdi pr. besøgsmetrik</h3>
+
+<p>Den samlede <a href="#value">engagement-værdi</a> divideret med antal <a href="#visits">besøg</a> på en given node.
+Nogle gange defineres denne metrik som <strong>effektivitet</strong>.
+Denne metrik er medvirkende til beregning af <a href="#exit-value-potential">udgangsværdipotentiale</a>.</p>
+
+<h3 id="exits">Udgangsmetrik</h3>
+
+<p>Det samlede antal udgange på en given node.
+Denne metrik identificerer, om en given node består af en fuld sti eller en indgangssti.
+En node med flere udgange end nul, udgør en fuld sti.
+Denne metrik er medvirkende til beregning af <a href="#exit-value-potential">udgangsværdipotentiale</a>.</p>
+
+<h3 id="exit-value">Udgangsværdimetrik</h3>
+
+<p>Den samlede engagement-værdi på en given node, før udgang.
+Kun noder, hvor der opstod udgang, har denne metrik.
+Forskellen mellem denne og <a href="#value">værdimetrik</a> er, at udgangsværdimetrik ikke tager højde for engagement-værdien af underordnede værdier.</p>
+
+<h3 id="exit-value-per-visit">Udgangsværdi pr. besøg-metrik</h3>
+
+<p>Den samlede <a href="#value">engagement-værdi</a> divideret med antal <a href="#visits">besøg</a> på en given <a href="#exit-node">udgangsnode</a>. Kun noder,
+hvor der opstod udgang, har denne metrik beregnet. Forskellen mellem denne
+metrik og <a href="#value-per-visit">værdi pr. besøg</a>-metrik er, at denne metrik ikke
+medtager engagement-værdi pr. besøg fra underordnede noder.
+Denne metrik er medvirkende til beregning af <a href="#exit-value-potential">udgangsværdipotentiale</a>.</p>
+
+<h3 id="exit-value-potential">Udgangsværdipotentiale-metrik</h3>
+
+<p>Udgangspotentialet indikerer en beregnet <a href="#value">engagement-værdi</a>, der kan være
+opnået i gennemsnit via optimering. Det beregnes kun for <a href="#exit-node">udgangsnoder</a>.
+Du kan betragte det som en avanceret bounce-metrik, hvor der også tages højde for tab på engagement-værdien eller værdilækage
+ud over kun <a href="#exits">udgange</a>. Hvis du ved, hvor stor <a href="#value-per-visit">værdi pr. besøg</a>, der er
+samlet på alle stier længere nede, og hvor stor <a href="#value-per-visit">værdi pr. besøg</a>, der er gemt på <a href="#exit-node">udgangsnoden</a>, så kan metrikken
+beregnes ved at tage delta mellem de to og gange med antallet af udgange med følgende formel:</p>
+
+<p>(værdi pr. besøg - udgangsværdi pr. besøg) * udgange</p>
 ----field----
 field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
 name: __Owner
@@ -42,7 +222,7 @@ name: __Revision
 key: __revision
 content-length: 36
 
-299a77ac-3057-4c85-8ab2-bb9b85a19228
+407c4f9f-9acf-452f-b458-931d406664a0
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
