@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{5A507736-A0A2-46F7-BE59-7324E584796E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-04T15:02:26.7024698Z",
+    "label": "Saved",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Anonymous",
+    "itemName": "Try Finish Test",
+    "itemPath": "/sitecore/system/Tasks/Schedules/Content Testing/Try Finish Test",
+    "template": "Schedule",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]
