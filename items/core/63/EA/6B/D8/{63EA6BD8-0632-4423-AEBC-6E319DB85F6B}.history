@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "core",
+    "itemId": "{63EA6BD8-0632-4423-AEBC-6E319DB85F6B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-09T16:03:03.2186137Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ETE ActionColumn",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Reporting/Reports/PageSettings/ExportToExcel ActionControl Parameters/ETE ActionColumn",
+    "template": "ActionColumn",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

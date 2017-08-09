@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "core",
+    "itemId": "{6BA441EC-CC4D-40EA-8BE1-6993E24F02BD}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-09T16:03:03.3745774Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Advanced Report",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Reporting/Reports/PageSettings/ExportToExcel ActionControl Parameters/ETE ActionColumn/Export To/Advanced Report",
+    "template": "Action",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]
