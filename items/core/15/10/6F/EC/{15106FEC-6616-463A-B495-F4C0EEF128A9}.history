@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "VersionRemoved",
+    "database": "core",
+    "itemId": "{15106FEC-6616-463A-B495-F4C0EEF128A9}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-08-09T16:02:56.7907225Z",
+    "label": "Version 2 Removed",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "PageText",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Reporting/Reports/PageSettings/Data/HistoryDataSource/HistoryDataSource Parameters/Appearance/PageText",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]
