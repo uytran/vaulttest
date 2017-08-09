@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "VersionRemoved",
+    "database": "core",
+    "itemId": "{A1AC5E61-CCEF-4E22-848E-C728D7BEFBDD}",
+    "version": 2,
+    "language": "da",
+    "timestamp": "2017-08-09T16:02:52.3929181Z",
+    "label": "Version 2 Removed",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "HistoryDataSource",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Reporting/Reports/PageSettings/Data/HistoryDataSource",
+    "template": "View rendering",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

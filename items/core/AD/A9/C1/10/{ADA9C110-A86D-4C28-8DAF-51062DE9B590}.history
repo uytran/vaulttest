@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "VersionRemoved",
+    "database": "core",
+    "itemId": "{ADA9C110-A86D-4C28-8DAF-51062DE9B590}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-08-09T16:02:51.6598136Z",
+    "label": "Version 2 Removed",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Series",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Reporting/Reports/PageSettings/BarChart Parameters/Series",
+    "template": "ChartField",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "VersionRemoved",
+    "database": "core",
+    "itemId": "{F80EA83F-1086-450F-A6CD-9059A98932AF}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-08-09T16:02:51.4072312Z",
+    "label": "Version 2 Removed",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Day",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Reporting/Reports/PageSettings/BarChart Parameters/Day",
+    "template": "ChartField",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]
