@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{F536C2F2-E505-432D-A382-86AE78EB2D7C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-10T21:20:03.3995213Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "cool page",
+    "itemPath": "/sitecore/content/Home/cool page",
+    "template": "Sample Item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]
