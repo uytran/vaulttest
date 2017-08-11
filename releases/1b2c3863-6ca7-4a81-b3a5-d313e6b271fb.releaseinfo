@@ -1,0 +1,28 @@
+{
+  "id": "1b2c3863-6ca7-4a81-b3a5-d313e6b271fb",
+  "releaseName": "test uy",
+  "lastModified": "2017-08-11T16:31:54.0357508Z",
+  "lastDeployed": "0001-01-01T00:00:00",
+  "lastRollback": "0001-01-01T00:00:00",
+  "releaseItems": [
+    {
+      "database": "master",
+      "recursive": false,
+      "installMode": 1,
+      "sitecoreItemId": "{F536C2F2-E505-432D-A382-86AE78EB2D7C}",
+      "rolledback": null,
+      "languages": [],
+      "autoPublish": false
+    },
+    {
+      "database": "master",
+      "recursive": false,
+      "installMode": 1,
+      "sitecoreItemId": "{DF328842-D68C-4BE9-98E9-B9D179CFDEAB}",
+      "rolledback": null,
+      "languages": [],
+      "autoPublish": false
+    }
+  ],
+  "serverDeployments": null
+}
