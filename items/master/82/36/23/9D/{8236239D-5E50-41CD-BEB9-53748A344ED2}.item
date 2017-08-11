@@ -10,10 +10,17 @@ template: {E130C748-C13B-40D5-B6C6-4B150DC3FAB3}
 templatekey: Publishing target
 created: 20170811T201820:636380795005270000
 
+----field----
+field: {39ECFD90-55D2-49D8-B513-99D15573DE41}
+name: Target database
+key: target database
+content-length: 10
+
+faketarget
 ----version----
 language: en
 version: 1
-revision: f2f79621-8f94-4e20-b3d1-ed986585bdaa
+revision: 9fdb880c-6e3c-43d8-885a-ce8e26ee213f
 
 ----field----
 field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
@@ -42,14 +49,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-f2f79621-8f94-4e20-b3d1-ed986585bdaa
+9fdb880c-6e3c-43d8-885a-ce8e26ee213f
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170811T201820Z
+20170811T201825Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
