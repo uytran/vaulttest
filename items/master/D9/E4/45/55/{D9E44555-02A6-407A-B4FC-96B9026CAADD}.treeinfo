@@ -1,0 +1,10 @@
+{
+  "itemName": "Publishing targets",
+  "templateId": "{239F9CF4-E5A0-44E0-B342-0F32CD4C6D8B}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{13D6D6C6-C50B-4BBD-B331-2B04F1A58F21}",
+  "childIds": [
+    "{8236239D-5E50-41CD-BEB9-53748A344ED2}",
+    "{8E080626-DDC3-4EF4-A1D1-F0BE4A200254}"
+  ]
+}
