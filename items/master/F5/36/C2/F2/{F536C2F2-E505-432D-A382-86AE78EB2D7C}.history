@@ -89,9 +89,28 @@
     "itemName": "cool page",
     "itemPath": "/sitecore/content/Home/cool page",
     "template": "Sample Item",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "7ed6247b528b09ead274bb148272356a81cb722d",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
     "deploymentId": "1b2c3863-6ca7-4a81-b3a5-d313e6b271fb"
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{F536C2F2-E505-432D-A382-86AE78EB2D7C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-15T15:48:36.5585761Z",
+    "label": "Saved",
+    "workflowState": "{190B1C84-F1BE-47ED-AA41-F42193D9C8FC}",
+    "workflowStateName": "Draft",
+    "activeUser": "sitecore\\admin",
+    "itemName": "cool page",
+    "itemPath": "/sitecore/content/Home/cool page",
+    "template": "Sample Item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
   }
 ]
