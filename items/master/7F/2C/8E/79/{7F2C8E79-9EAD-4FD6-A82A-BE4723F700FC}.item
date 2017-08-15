@@ -11,6 +11,13 @@ templatekey: Sample Item
 created: 20170815T213840:636384299209200000
 
 ----field----
+field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
+name: __Sortorder
+key: __sortorder
+content-length: 3
+
+200
+----field----
 field: {A4F985D9-98B3-4B52-AAAF-4344F6E747C6}
 name: __Workflow
 key: __workflow
@@ -20,7 +27,7 @@ content-length: 38
 ----version----
 language: en
 version: 1
-revision: 640b2b0f-9ee9-4d1a-9f84-bb6b48a3512c
+revision: 2edcef63-abd5-44c0-acd6-4edb2936aaa4
 
 ----field----
 field: {75577384-3C97-45DA-A847-81B00500E250}
@@ -49,14 +56,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-640b2b0f-9ee9-4d1a-9f84-bb6b48a3512c
+2edcef63-abd5-44c0-acd6-4edb2936aaa4
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170815T213841Z
+20170815T231928Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
