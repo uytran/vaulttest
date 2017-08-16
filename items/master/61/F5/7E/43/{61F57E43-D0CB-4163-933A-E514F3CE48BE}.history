@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{61F57E43-D0CB-4163-933A-E514F3CE48BE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:25:43.4036533Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Potato",
+    "itemPath": "/sitecore/templates/User Defined/testing temp/sectioname/Potato",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]
