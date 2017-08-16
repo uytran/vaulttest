@@ -2,8 +2,8 @@
 version: 1
 id: {7F2C8E79-9EAD-4FD6-A82A-BE4723F700FC}
 database: master
-path: /sitecore/content/Home/subitem/new
-parent: {DF328842-D68C-4BE9-98E9-B9D179CFDEAB}
+path: /sitecore/content/Home/cool page/new
+parent: {F536C2F2-E505-432D-A382-86AE78EB2D7C}
 name: new
 master: {00000000-0000-0000-0000-000000000000}
 template: {76036F5E-CBCE-46D1-AF0A-4143F9B557AA}
