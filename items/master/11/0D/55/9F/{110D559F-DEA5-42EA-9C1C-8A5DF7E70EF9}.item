@@ -403,15 +403,15 @@ sitecore\admin
 ----version----
 language: en
 version: 2
-revision: 7ecd6f30-5623-486a-a88a-7e6ac7e02f0c
+revision: 0639c86b-445d-462d-b13d-aa410611f566
 
 ----field----
 field: {75577384-3C97-45DA-A847-81B00500E250}
 name: Title
 key: title
-content-length: 28
+content-length: 33
 
-Sitecore Experience Platform
+Sitecore Experience Platform test
 ----field----
 field: {A60ACD61-A6DB-4182-8329-C957982CEC74}
 name: Text
@@ -482,14 +482,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-7ecd6f30-5623-486a-a88a-7e6ac7e02f0c
+0639c86b-445d-462d-b13d-aa410611f566
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170809T205145Z
+20170816T231006Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
