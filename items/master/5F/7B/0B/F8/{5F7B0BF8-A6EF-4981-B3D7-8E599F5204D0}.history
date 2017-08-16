@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{5F7B0BF8-A6EF-4981-B3D7-8E599F5204D0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T21:02:05.5347576Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "saveevent",
+    "itemPath": "/sitecore/content/Home/subitem/saveevent",
+    "template": "Sample Item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]
