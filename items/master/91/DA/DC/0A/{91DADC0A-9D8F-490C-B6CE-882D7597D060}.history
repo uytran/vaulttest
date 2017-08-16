@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{91DADC0A-9D8F-490C-B6CE-882D7597D060}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:32:16.8272007Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Settings",
+    "itemPath": "/sitecore/templates/System/Item Buckets/Item Buckets Settings/Settings",
+    "template": "Template section",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

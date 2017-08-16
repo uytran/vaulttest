@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2929EE16-7657-4CBE-898E-CD142B056D2D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:31:16.0158152Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Tree",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Macros/Tree",
+    "template": "Macro",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

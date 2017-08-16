@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0A881DEF-7DA6-407E-9FE1-C0CACC26E978}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:31:41.6589153Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Experience map with page events",
+    "itemPath": "/sitecore/templates/Branches/System/Path Analyzer/Site map group/$name/Experience maps/Experience map with page events",
+    "template": "ExperienceMap",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

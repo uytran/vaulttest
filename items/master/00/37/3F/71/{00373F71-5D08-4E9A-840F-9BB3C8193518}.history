@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{00373F71-5D08-4E9A-840F-9BB3C8193518}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:32:28.9147155Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Unversioned",
+    "itemPath": "/sitecore/templates/System/Media/Unversioned",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

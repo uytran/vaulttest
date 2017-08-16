@@ -1,0 +1,10 @@
+{
+  "itemName": "Placeholder Settings",
+  "templateId": "{A87A00B1-E6DB-45AB-8B54-636FEC3B5523}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{EB2E4FFD-2761-4653-B052-26A64D385227}",
+  "childIds": [
+    "{8AE1C245-A4FA-46AE-9B35-4FBC15F63169}",
+    "{809528B1-588A-42A7-93C1-41E73800100A}"
+  ]
+}

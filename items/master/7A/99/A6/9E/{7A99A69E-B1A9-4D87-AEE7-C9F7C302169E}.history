@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7A99A69E-B1A9-4D87-AEE7-C9F7C302169E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:31:09.5203289Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "PostalCode",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Segment Builder/PostalCode",
+    "template": "Condition",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

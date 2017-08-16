@@ -1,0 +1,9 @@
+{
+  "itemName": "Scope",
+  "templateId": "{E269FBB5-3750-427A-9149-7AA950B49301}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{88FBE2AD-1C44-40B4-A8B4-5E249650FB27}",
+  "childIds": [
+    "{0A6277FF-B5BA-490B-8441-986B4F519FBF}"
+  ]
+}

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{556876E9-EDA9-49F1-B399-C3CACEBEF7A1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:31:51.2051049Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Queries",
+    "itemPath": "/sitecore/templates/System/Analytics/Dashboard/Dashboard Report/Queries",
+    "template": "Template section",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

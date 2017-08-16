@@ -1,0 +1,9 @@
+{
+  "itemName": "Facebook Share Button Parameters",
+  "templateId": "{AB86861A-6030-46C5-B394-E8F99E8B87DB}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{A2462AE3-D233-45F3-A749-FDD03ECFA568}",
+  "childIds": [
+    "{43EC421F-55E4-4838-AC06-568145BF215B}"
+  ]
+}

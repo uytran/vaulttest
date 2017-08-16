@@ -1,0 +1,9 @@
+{
+  "itemName": "Dimension",
+  "templateId": "{AB86861A-6030-46C5-B394-E8F99E8B87DB}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{75077028-25D4-47B5-B3F0-8C65407C4DF9}",
+  "childIds": [
+    "{012C516F-F81F-4F00-9234-29FCD7159621}"
+  ]
+}

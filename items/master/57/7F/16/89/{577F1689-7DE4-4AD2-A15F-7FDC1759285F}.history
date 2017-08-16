@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{577F1689-7DE4-4AD2-A15F-7FDC1759285F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:32:58.6899439Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Long description",
+    "itemPath": "/sitecore/templates/System/Templates/Sections/Help/Help/__Long description",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

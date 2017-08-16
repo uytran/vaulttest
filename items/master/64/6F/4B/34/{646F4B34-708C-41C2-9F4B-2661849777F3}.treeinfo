@@ -1,0 +1,9 @@
+{
+  "itemName": "Advanced",
+  "templateId": "{AB86861A-6030-46C5-B394-E8F99E8B87DB}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{264BE84E-C140-4097-B771-D1A37189C5B3}",
+  "childIds": [
+    "{1AD573E7-F081-4714-AA19-945EDDB7C15A}"
+  ]
+}

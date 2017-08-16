@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0A91E5D5-715B-40BA-A457-CF22E4CCE1A9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:29:47.3997431Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Cancel Transaction",
+    "itemPath": "/sitecore/media library/System/Page Event Images/Cancel Transaction",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

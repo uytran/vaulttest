@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{655B19B3-AC79-434C-98B0-0ECA74D5B275}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:30:52.2149073Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Test Outcome Count Before Date",
+    "itemPath": "/sitecore/system/Settings/Content Testing/Report Queries/Test Outcome Count Before Date",
+    "template": "ReportQuery",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

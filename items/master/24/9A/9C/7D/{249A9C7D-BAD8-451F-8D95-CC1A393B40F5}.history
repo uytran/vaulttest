@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{249A9C7D-BAD8-451F-8D95-CC1A393B40F5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:32:20.4332838Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Trait",
+    "itemPath": "/sitecore/templates/System/Layout/Preview Simulators/Trait",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

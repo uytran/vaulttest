@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{75368A5E-4BE9-4997-9EC7-B034CF4B9088}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:30:25.3846825Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Cyprus",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Cyprus",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

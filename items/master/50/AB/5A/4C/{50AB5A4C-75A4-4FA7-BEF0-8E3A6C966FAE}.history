@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{50AB5A4C-75A4-4FA7-BEF0-8E3A6C966FAE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:31:16.6442091Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Session End",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Obsolete/Session End",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

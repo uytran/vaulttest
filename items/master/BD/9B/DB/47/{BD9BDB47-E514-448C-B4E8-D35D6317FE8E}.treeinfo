@@ -1,0 +1,10 @@
+{
+  "itemName": "Designer Options",
+  "templateId": "{E269FBB5-3750-427A-9149-7AA950B49301}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{99F8905D-4A87-4EB8-9F8B-A9BEBFB3ADD6}",
+  "childIds": [
+    "{C42199F1-21A1-4993-BAC6-C4FC771B3081}",
+    "{989631C3-8CD3-4D04-A996-7C1F4EEC75A4}"
+  ]
+}

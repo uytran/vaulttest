@@ -1,0 +1,10 @@
+{
+  "itemName": "Federated Experience Manager - Page Matching",
+  "templateId": "{DDA66314-03F3-4C89-84A9-39DFFB235B06}",
+  "branchId": "{BDC41FDD-A3AC-4B69-A0BA-471C425CB083}",
+  "parentId": "{1057C235-C5C0-4EB7-8F77-EA51EB9E20EE}",
+  "childIds": [
+    "{AAF6452D-6B90-494C-9294-9E97B4685B96}",
+    "{EA9EF5C1-FA5C-4436-9BB7-0F9170F2AAF1}"
+  ]
+}

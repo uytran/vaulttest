@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BF56875C-8CC4-44E6-8C13-7C8675BA2558}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:29:48.8750354Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Session Begin",
+    "itemPath": "/sitecore/media library/System/Page Event Images/Session Begin",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{65807297-BCB8-4F22-9FDF-0976FE7C6ADD}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:31:31.3795516Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Linked Item Has Allowed Template",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Field Rules/System/Linked Item Has Allowed Template",
+    "template": "Validation Rule",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

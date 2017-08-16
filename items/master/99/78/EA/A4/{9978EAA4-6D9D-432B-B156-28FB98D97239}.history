@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9978EAA4-6D9D-432B-B156-28FB98D97239}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:32:01.4970169Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Effect",
+    "itemPath": "/sitecore/templates/System/Content Testing/Historical Test Data/Data/Effect",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

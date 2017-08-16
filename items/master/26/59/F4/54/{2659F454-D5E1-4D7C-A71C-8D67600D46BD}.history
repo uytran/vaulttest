@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2659F454-D5E1-4D7C-A71C-8D67600D46BD}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:32:49.7856193Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Item Service",
+    "itemPath": "/sitecore/templates/System/Services/Item Service",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

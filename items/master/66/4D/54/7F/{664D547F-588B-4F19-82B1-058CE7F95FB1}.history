@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{664D547F-588B-4F19-82B1-058CE7F95FB1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:29:46.9706632Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ch-store",
+    "itemPath": "/sitecore/media library/System/Channel Images/ch-store",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

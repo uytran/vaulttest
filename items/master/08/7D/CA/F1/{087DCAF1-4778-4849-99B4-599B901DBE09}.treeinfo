@@ -1,0 +1,10 @@
+{
+  "itemName": "Field Search Type",
+  "templateId": "{AB86861A-6030-46C5-B394-E8F99E8B87DB}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{AB323CEF-9997-47D7-A070-CDC1177D82BD}",
+  "childIds": [
+    "{D137845A-C613-4DAA-9309-A7547B825A47}",
+    "{ACC44ED4-8DAE-4BCA-8798-16E30F4DCB80}"
+  ]
+}

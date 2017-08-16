@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E9237EC1-79D5-4EDA-9425-AF8F70A08F81}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:31:41.6248109Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Experience map with goals",
+    "itemPath": "/sitecore/templates/Branches/System/Path Analyzer/Site map group/$name/Experience maps/Experience map with goals",
+    "template": "ExperienceMap",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8EA2CF67-4250-47A2-AECA-4F70FD200DC7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:32:47.5707169Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Rules Folder",
+    "itemPath": "/sitecore/templates/System/Rules/Taxonomy/Rules Folder",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5D7298E4-AE17-4AE5-86EB-51FE080EBC92}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:30:37.9488855Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Unit ContactData",
+    "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Unit ContactData",
+    "template": "ReportQuery",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

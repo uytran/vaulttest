@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A881426D-AC25-484F-98FC-5AC4C21584D3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:30:19.2442504Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Profile Types",
+    "itemPath": "/sitecore/system/Settings/Analytics/Profile Types",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "itemName": "Html Custom Button",
+  "templateId": "{AB86861A-6030-46C5-B394-E8F99E8B87DB}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{2FFB6E47-F751-474D-B6BF-90AA17393D55}",
+  "childIds": [
+    "{9DEC54BE-ABB0-428A-9CC7-F29E2971E0FF}"
+  ]
+}

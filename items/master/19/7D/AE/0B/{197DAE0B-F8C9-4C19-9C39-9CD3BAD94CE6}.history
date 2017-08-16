@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{197DAE0B-F8C9-4C19-9C39-9CD3BAD94CE6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:31:30.6779027Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Rating 1 to 9",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Field Rules/Sample/Rating 1 to 9",
+    "template": "Validation Rule",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

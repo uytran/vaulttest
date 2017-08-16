@@ -1,0 +1,9 @@
+{
+  "itemName": "Dictionary folder",
+  "templateId": "{AB86861A-6030-46C5-B394-E8F99E8B87DB}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{93B36B23-4B04-44A0-AF37-5FCDED572D02}",
+  "childIds": [
+    "{FDA1B998-C9BF-4C07-A68D-09B9C9342BFF}"
+  ]
+}

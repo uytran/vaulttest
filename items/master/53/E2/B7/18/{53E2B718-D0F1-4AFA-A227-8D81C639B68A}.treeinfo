@@ -1,0 +1,9 @@
+{
+  "itemName": "Small Drop Down Box",
+  "templateId": "{AB86861A-6030-46C5-B394-E8F99E8B87DB}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{B37C44BB-AB02-4DB1-AC5B-E0A28D47184F}",
+  "childIds": [
+    "{8C52920B-358D-4C2E-9C0F-385BB77C47FE}"
+  ]
+}

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4E028608-3407-4D52-9956-B3774784D347}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:32:04.3491753Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Conversion",
+    "itemPath": "/sitecore/templates/System/Content Testing/Test Definition/Data/Conversion",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

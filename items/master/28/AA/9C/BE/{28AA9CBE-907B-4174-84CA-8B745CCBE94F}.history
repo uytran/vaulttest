@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{28AA9CBE-907B-4174-84CA-8B745CCBE94F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:30:52.8540716Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Deprecated",
+    "itemPath": "/sitecore/system/Settings/Content Testing/Report Queries/Deprecated",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

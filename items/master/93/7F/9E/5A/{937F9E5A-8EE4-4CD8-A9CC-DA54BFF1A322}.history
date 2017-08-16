@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{937F9E5A-8EE4-4CD8-A9CC-DA54BFF1A322}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:30:25.0254713Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Congo The Democratic Republic of the",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Congo The Democratic Republic of the",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

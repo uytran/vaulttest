@@ -1,0 +1,10 @@
+{
+  "itemName": "Rendering Options",
+  "templateId": "{AB86861A-6030-46C5-B394-E8F99E8B87DB}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{94D063F7-CD45-45AD-A2EF-84AB03358CD9}",
+  "childIds": [
+    "{E1779438-9BE6-4FCE-93CF-5BAFC930176E}",
+    "{A1715151-F48E-4B22-BE3A-BABF4E18584F}"
+  ]
+}

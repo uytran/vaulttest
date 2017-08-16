@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9CD5874F-0EED-481C-8E75-AE162E613B59}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:33:03.1197556Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Exclude From Text Search",
+    "itemPath": "/sitecore/templates/System/Templates/Template field/Data/Exclude From Text Search",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

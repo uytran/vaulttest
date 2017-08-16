@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{501EDCEF-3588-4EBD-B1A0-2C1AE44D4607}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:30:32.5145477Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Somalia",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Somalia",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B88D5A83-A909-4BC5-90E7-7A8804348CFA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:31:08.9109456Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "User Role",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Security/User Role",
+    "template": "Condition",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

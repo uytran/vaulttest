@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A34104CA-F461-4A2E-A87B-22B9679D2739}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:30:37.2560772Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Organization Maps Coordinates",
+    "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Organization Maps Coordinates",
+    "template": "ReportQuery",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

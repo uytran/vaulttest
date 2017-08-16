@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7BBF1CE2-F8A1-4E03-9408-A28EF362DB06}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:31:37.5430360Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Expire",
+    "itemPath": "/sitecore/system/Workflows/Social Account Renewal/Needs Renewal/Expire",
+    "template": "Command",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0F879F36-EAA3-4FA7-B423-86DB564491D0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:32:52.2837559Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Login with Facebook Button Parameters",
+    "itemPath": "/sitecore/templates/System/Social/Connector/Login with Facebook Button Parameters",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

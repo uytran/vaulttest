@@ -1,0 +1,10 @@
+{
+  "itemName": "Android Tablet",
+  "templateId": "{642F544C-E1E6-491E-93A4-8E9353079DBE}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{39522E9A-9B6E-4CB4-850C-23D0D3ADFD0C}",
+  "childIds": [
+    "{D8AE44E7-80D8-4BAC-9C40-03F459C8D6A1}",
+    "{D3BA27C5-42B0-4BEF-8C0E-D3ADEBDF32A0}"
+  ]
+}

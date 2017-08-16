@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{34E1F0D9-CCFF-4F03-A38D-933437AA3A2A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:32:45.7690816Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "RuleBase",
+    "itemPath": "/sitecore/templates/System/Rules/RuleBase",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

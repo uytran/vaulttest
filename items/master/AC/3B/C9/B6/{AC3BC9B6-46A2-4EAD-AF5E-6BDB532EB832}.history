@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{AC3BC9B6-46A2-4EAD-AF5E-6BDB532EB832}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:31:55.7522032Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "IsGoal",
+    "itemPath": "/sitecore/templates/System/Analytics/Page Event/Options/IsGoal",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,10 @@
+{
+  "itemName": "Initializing",
+  "templateId": "{4B7E2DA9-DE43-4C83-88C3-02F042031D04}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{B879D176-4226-4C74-9ED4-6E61E813CBF7}",
+  "childIds": [
+    "{5B6E8501-6D72-4DFB-A9AE-C2E8B1FD5CDE}",
+    "{612E8F30-2BBE-4C2F-9DF4-13453D6F079E}"
+  ]
+}

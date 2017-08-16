@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1F424EB0-6138-4BC4-93B0-BD45EC6B1CB2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:32:26.7321653Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Namespace",
+    "itemPath": "/sitecore/templates/System/Layout/Renderings/Webcontrol/Data/Namespace",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

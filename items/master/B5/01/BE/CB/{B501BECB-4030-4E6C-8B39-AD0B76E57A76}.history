@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B501BECB-4030-4E6C-8B39-AD0B76E57A76}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:30:18.8052679Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Map Folder Insert Rule",
+    "itemPath": "/sitecore/system/Settings/Insert Rules/Path Analyzer/Map Folder Insert Rule",
+    "template": "Insert Rule",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D685E9A2-41A2-49AD-A396-21D5492392E0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:32:04.3155317Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Traffic Allocation",
+    "itemPath": "/sitecore/templates/System/Content Testing/Test Definition/Data/Traffic Allocation",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

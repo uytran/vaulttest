@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2FDF33BE-C89F-4645-8F9D-155588048F48}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:30:29.6409971Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Maldives",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Maldives",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

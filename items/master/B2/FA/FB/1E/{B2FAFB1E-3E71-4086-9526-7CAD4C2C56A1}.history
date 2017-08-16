@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B2FAFB1E-3E71-4086-9526-7CAD4C2C56A1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:30:50.4221562Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "End Test Behavior",
+    "itemPath": "/sitecore/system/Settings/Content Testing/End Test Behavior",
+    "template": "Behavior",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

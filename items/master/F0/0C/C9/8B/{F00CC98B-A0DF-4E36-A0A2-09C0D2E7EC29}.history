@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F00CC98B-A0DF-4E36-A0A2-09C0D2E7EC29}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:30:28.5028242Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Isle of Man",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Isle of Man",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

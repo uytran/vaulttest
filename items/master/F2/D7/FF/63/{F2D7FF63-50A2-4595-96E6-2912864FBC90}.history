@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F2D7FF63-50A2-4595-96E6-2912864FBC90}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:30:11.7910881Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Ian",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Profiles/Persona/Ian",
+    "template": "Profile Key",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

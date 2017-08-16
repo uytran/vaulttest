@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{09F79B79-3181-48D7-8C3C-FC0EB4BA6CE7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:32:03.2326493Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/System/Content Testing/Personalization Test Variable/__Standard Values",
+    "template": "Personalization Test Variable",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

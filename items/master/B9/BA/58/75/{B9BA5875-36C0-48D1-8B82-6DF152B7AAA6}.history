@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B9BA5875-36C0-48D1-8B82-6DF152B7AAA6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:33:07.9804515Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "DimensionFolder",
+    "itemPath": "/sitecore/templates/System/Experience Analytics/DimensionFolder",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4DA5FD5B-7364-4562-B618-851B836C8165}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:31:09.4141708Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Is in Contact List",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Segment Builder/Is in Contact List",
+    "template": "Condition",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

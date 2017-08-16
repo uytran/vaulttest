@@ -1,0 +1,9 @@
+{
+  "itemName": "Site maps",
+  "templateId": "{8BCDAB89-5885-4005-8256-30982F406A49}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{FFB4E220-3181-4C22-B0BA-8400B56BA200}",
+  "childIds": [
+    "{6681C7F1-A70C-4410-8263-EAA78BB06B15}"
+  ]
+}

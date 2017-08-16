@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F5D0610C-19CC-4A29-AF6C-434D80F69F37}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:30:29.1990409Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Lesotho",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Lesotho",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

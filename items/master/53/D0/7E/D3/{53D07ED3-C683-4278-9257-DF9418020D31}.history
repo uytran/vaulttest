@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{53D07ED3-C683-4278-9257-DF9418020D31}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:29:44.1034611Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Josephine 128x128",
+    "itemPath": "/sitecore/media library/Experience Explorer/Presets/Josephine 128x128",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A87EE256-044E-450D-A73C-9A464AA773EF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:33:08.0466939Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Segment",
+    "itemPath": "/sitecore/templates/System/Experience Analytics/Segment",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{69C53BD8-A79F-4A91-BA4F-813241EE8E88}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:31:37.3073439Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Inactive",
+    "itemPath": "/sitecore/system/Workflows/Segment/Inactive",
+    "template": "State",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

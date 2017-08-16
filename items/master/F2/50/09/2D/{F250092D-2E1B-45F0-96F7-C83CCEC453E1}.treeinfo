@@ -1,0 +1,9 @@
+{
+  "itemName": "Asset group",
+  "templateId": "{AB86861A-6030-46C5-B394-E8F99E8B87DB}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{3E3B68CF-6915-4DF7-823B-C28F1F835775}",
+  "childIds": [
+    "{E662452C-3433-41CB-8E32-68DE35DDC8AE}"
+  ]
+}

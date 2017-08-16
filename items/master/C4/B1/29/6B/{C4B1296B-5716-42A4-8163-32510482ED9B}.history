@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C4B1296B-5716-42A4-8163-32510482ED9B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:32:20.7602048Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Client Script",
+    "itemPath": "/sitecore/templates/System/Layout/Preview Simulators/Trait/Data/Client Script",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

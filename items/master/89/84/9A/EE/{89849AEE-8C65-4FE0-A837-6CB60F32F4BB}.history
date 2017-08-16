@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{89849AEE-8C65-4FE0-A837-6CB60F32F4BB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:30:36.9174042Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Latest Visits with Failure",
+    "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Latest Visits with Failure",
+    "template": "ReportQuery",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "itemName": "Outcome group taxonomy",
+  "templateId": "{AB86861A-6030-46C5-B394-E8F99E8B87DB}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{B8D87C61-DA11-40FB-9453-1FCC0A2DFA07}",
+  "childIds": [
+    "{281C5340-3B57-43BE-AB95-3CAC9450139B}"
+  ]
+}

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{CBFC4744-F615-4764-BBB8-2DDC4916D9D1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:31:59.1455450Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Report Query",
+    "itemPath": "/sitecore/templates/System/Analytics/ReportQuery/Report Query",
+    "template": "Template section",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

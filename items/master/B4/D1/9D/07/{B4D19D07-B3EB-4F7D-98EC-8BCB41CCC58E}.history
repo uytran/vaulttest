@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B4D19D07-B3EB-4F7D-98EC-8BCB41CCC58E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:31:59.6866981Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Insert Rule",
+    "itemPath": "/sitecore/templates/System/Branches/Insert Rule",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

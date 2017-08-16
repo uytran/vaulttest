@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{867D790E-1A88-4E46-B0F5-2AA8B8231C3E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:32:08.8498772Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Geo Ip",
+    "itemPath": "/sitecore/templates/System/Experience Explorer/Preset/Location/Geo Ip",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

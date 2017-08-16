@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4F46ABA6-8CC0-492E-BD4C-87C5F03B2352}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:30:45.3289671Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Client Side Hooks",
+    "itemPath": "/sitecore/system/Settings/Buckets/Settings/Client Side Hooks",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

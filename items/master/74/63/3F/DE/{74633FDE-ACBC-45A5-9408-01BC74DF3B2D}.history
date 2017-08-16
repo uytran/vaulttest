@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{74633FDE-ACBC-45A5-9408-01BC74DF3B2D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:32:08.5744119Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Consumed Assets",
+    "itemPath": "/sitecore/templates/System/Experience Explorer/Preset/Onsite Behaviour/Consumed Assets",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

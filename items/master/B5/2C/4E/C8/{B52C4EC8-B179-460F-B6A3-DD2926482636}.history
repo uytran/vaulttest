@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B52C4EC8-B179-460F-B6A3-DD2926482636}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:32:12.7343953Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Filter on save",
+    "itemPath": "/sitecore/templates/System/Html editor/HTML Tidy/Data/Filter on save",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

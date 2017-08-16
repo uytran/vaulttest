@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F77FC8C9-8888-414D-8FC7-D20609B52C59}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:32:50.9973648Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Account Folder",
+    "itemPath": "/sitecore/templates/System/Social/Account/Account Folder",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{414EE6B4-C6DE-48B0-9275-BBBE8ACE21D7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:30:34.1905333Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Zimbabwe",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Zimbabwe",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

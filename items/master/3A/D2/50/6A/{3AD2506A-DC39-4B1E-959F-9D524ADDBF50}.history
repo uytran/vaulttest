@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3AD2506A-DC39-4B1E-959F-9D524ADDBF50}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:32:28.4053198Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "VaryByParm",
+    "itemPath": "/sitecore/templates/System/Layout/Sections/Caching/Caching/VaryByParm",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

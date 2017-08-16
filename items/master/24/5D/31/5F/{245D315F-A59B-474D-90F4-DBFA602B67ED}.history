@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{245D315F-A59B-474D-90F4-DBFA602B67ED}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:30:40.0254896Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "User Agent",
+    "itemPath": "/sitecore/system/Settings/Analytics/Visitor Identification Types/User Agent",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

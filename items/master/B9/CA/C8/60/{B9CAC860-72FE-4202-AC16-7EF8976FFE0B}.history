@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B9CAC860-72FE-4202-AC16-7EF8976FFE0B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:30:23.8466948Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "British Indian Ocean Territory",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/British Indian Ocean Territory",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

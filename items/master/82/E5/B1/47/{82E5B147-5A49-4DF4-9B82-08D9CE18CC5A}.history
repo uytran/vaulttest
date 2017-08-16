@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{82E5B147-5A49-4DF4-9B82-08D9CE18CC5A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:29:46.2567443Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ch-livechat",
+    "itemPath": "/sitecore/media library/System/Channel Images/ch-livechat",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

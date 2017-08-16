@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{054FE55F-E3FB-46C6-8CB0-948F368B6579}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:29:40.3977745Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "WebEdit Ribbon",
+    "itemPath": "/sitecore/layout/Renderings/System/WebEdit/WebEdit Ribbon",
+    "template": "Webcontrol",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

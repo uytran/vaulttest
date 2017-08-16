@@ -1,0 +1,10 @@
+{
+  "itemName": "Outcome Definition",
+  "templateId": "{AB86861A-6030-46C5-B394-E8F99E8B87DB}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{AD04B9A3-2EC3-4532-A357-A5C29A115F27}",
+  "childIds": [
+    "{59D9CBB7-B402-4753-9C10-BF614FC72695}",
+    "{935FC736-D86F-47BB-9FE1-E7430F046A00}"
+  ]
+}

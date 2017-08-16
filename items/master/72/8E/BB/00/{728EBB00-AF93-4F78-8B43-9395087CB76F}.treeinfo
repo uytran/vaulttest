@@ -1,0 +1,9 @@
+{
+  "itemName": "FXM",
+  "templateId": "{A87A00B1-E6DB-45AB-8B54-636FEC3B5523}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{6E14276A-FD7F-40EC-9880-4EA96135AE9D}",
+  "childIds": [
+    "{C72C238F-018E-469E-9440-3EDD7420A8C8}"
+  ]
+}

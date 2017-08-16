@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9AFADD9B-0D62-4DC9-8FD4-7228A45A7B7F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:29:47.9386889Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Newsletter Removed",
+    "itemPath": "/sitecore/media library/System/Page Event Images/Newsletter Removed",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

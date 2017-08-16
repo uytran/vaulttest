@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DC6F6AFF-6AA9-423F-A824-49F9EE741AA9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:30:35.3884329Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
+    "workflowStateName": "Deployed",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Long running request",
+    "itemPath": "/sitecore/system/Settings/Analytics/Page Events/Long running request",
+    "template": "Page Event",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

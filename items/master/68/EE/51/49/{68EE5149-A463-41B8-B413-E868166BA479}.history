@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{68EE5149-A463-41B8-B413-E868166BA479}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:31:47.4703844Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Outcome group taxonomy",
+    "itemPath": "/sitecore/templates/System/Analytics/Marketing Taxonomy/Outcome/Outcome group taxonomy",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

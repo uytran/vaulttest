@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BAC32193-93B3-46E7-9BDF-A3D33E70E580}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:32:34.5048874Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Song Title",
+    "itemPath": "/sitecore/templates/System/Media/Versioned/Mp3/ID3/Song Title",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

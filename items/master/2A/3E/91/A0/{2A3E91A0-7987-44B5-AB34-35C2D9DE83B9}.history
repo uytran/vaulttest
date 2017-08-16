@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2A3E91A0-7987-44B5-AB34-35C2D9DE83B9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:32:21.6828196Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Controller rendering",
+    "itemPath": "/sitecore/templates/System/Layout/Renderings/Controller rendering",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

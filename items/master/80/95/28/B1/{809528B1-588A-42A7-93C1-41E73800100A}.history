@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{809528B1-588A-42A7-93C1-41E73800100A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:29:39.8575392Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "webedit",
+    "itemPath": "/sitecore/layout/Placeholder Settings/webedit",
+    "template": "Placeholder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

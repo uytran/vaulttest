@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6B8A9B72-1C1D-4995-AC57-57DAE2F7DCB9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:30:30.7228199Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Niue",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Niue",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

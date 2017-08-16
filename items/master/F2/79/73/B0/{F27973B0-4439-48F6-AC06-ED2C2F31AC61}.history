@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F27973B0-4439-48F6-AC06-ED2C2F31AC61}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:31:00.2401942Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Month of Year",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Date/Month of Year",
+    "template": "Condition",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

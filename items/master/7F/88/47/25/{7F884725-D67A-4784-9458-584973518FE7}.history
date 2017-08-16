@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7F884725-D67A-4784-9458-584973518FE7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:29:51.4829531Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Venue",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Venue",
+    "template": "Venue taxonomy",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

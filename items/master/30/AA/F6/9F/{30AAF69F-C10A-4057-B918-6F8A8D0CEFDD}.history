@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{30AAF69F-C10A-4057-B918-6F8A8D0CEFDD}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:30:11.3686719Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Create Desire",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Profiles/Function/Create Desire",
+    "template": "Profile Key",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

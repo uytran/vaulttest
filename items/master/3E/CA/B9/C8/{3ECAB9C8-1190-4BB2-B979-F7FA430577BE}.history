@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3ECAB9C8-1190-4BB2-B979-F7FA430577BE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:30:23.3691571Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Belize",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Belize",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

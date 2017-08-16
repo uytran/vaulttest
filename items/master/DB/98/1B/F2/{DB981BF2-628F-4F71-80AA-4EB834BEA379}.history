@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DB981BF2-628F-4F71-80AA-4EB834BEA379}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:30:30.3672311Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Nauru",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Nauru",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

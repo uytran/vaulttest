@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FED9FE33-1719-4C66-B836-CE9CAB192EDF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:32:58.5956275Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Help",
+    "itemPath": "/sitecore/templates/System/Templates/Sections/Help/Help",
+    "template": "Template section",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

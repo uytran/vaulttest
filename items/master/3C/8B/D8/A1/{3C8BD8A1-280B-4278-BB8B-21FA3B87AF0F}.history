@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3C8BD8A1-280B-4278-BB8B-21FA3B87AF0F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:32:13.0655050Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Html Editor Button",
+    "itemPath": "/sitecore/templates/System/Html Editor Profiles/Html Editor Button",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{08E50AA5-E5E7-4845-940B-2E81FB3ED56C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:30:35.7003814Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
+    "workflowStateName": "Deployed",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Rate",
+    "itemPath": "/sitecore/system/Settings/Analytics/Page Events/Rate",
+    "template": "Page Event",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

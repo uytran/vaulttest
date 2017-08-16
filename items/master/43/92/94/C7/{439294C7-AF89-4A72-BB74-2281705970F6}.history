@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{439294C7-AF89-4A72-BB74-2281705970F6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:29:49.0552255Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Android Phablet",
+    "itemPath": "/sitecore/media library/System/Simulator Backgrounds/Android Phablet",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

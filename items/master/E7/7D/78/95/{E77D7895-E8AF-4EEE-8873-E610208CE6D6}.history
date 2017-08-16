@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E77D7895-E8AF-4EEE-8873-E610208CE6D6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:32:37.8753655Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "TargetChannel",
+    "itemPath": "/sitecore/templates/System/Path Analyzer/ChannelMap/Options/TargetChannel",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

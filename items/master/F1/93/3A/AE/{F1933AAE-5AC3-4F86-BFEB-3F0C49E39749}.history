@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F1933AAE-5AC3-4F86-BFEB-3F0C49E39749}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:31:22.9336838Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Visitor",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Tags/Visitor",
+    "template": "Tag",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

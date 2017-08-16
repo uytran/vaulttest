@@ -1,0 +1,9 @@
+{
+  "itemName": "Query Folder",
+  "templateId": "{AB86861A-6030-46C5-B394-E8F99E8B87DB}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{611724AF-52A5-4E87-BAAD-EDA70EEECA68}",
+  "childIds": [
+    "{652E2A54-9965-4304-8D8D-1D1E9874D43D}"
+  ]
+}

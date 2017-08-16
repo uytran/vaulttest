@@ -1,0 +1,9 @@
+{
+  "itemName": "Tool Button",
+  "templateId": "{AB86861A-6030-46C5-B394-E8F99E8B87DB}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{B37C44BB-AB02-4DB1-AC5B-E0A28D47184F}",
+  "childIds": [
+    "{81FB6AA2-E7DE-4C83-B25E-D81B4F5E75E9}"
+  ]
+}

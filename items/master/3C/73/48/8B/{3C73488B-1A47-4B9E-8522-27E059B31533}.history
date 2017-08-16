@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3C73488B-1A47-4B9E-8522-27E059B31533}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:32:50.1135724Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Search Folder",
+    "itemPath": "/sitecore/templates/System/Services/Item Service/Search/Search Folder",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

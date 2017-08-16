@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9719AB0F-7300-41C0-8197-0FB2B9CA1C60}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:32:52.2095789Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Base Login Button Parameters",
+    "itemPath": "/sitecore/templates/System/Social/Connector/Base Login Button Parameters",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

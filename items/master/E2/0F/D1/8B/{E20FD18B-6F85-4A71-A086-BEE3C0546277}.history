@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E20FD18B-6F85-4A71-A086-BEE3C0546277}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:32:49.7505268Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Wallpaper",
+    "itemPath": "/sitecore/templates/System/Security/User/Data/Wallpaper",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

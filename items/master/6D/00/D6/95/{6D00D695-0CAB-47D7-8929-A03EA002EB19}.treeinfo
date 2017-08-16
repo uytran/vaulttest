@@ -1,0 +1,10 @@
+{
+  "itemName": "Multivariate Test Value",
+  "templateId": "{AB86861A-6030-46C5-B394-E8F99E8B87DB}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{6ACF5922-F614-4FD5-9C0C-EF422CA88F2F}",
+  "childIds": [
+    "{F4446D61-BB6B-4C8C-929F-3E5E3D51A891}",
+    "{4E9DFCE5-F346-4650-A7CB-3D2403CB37A1}"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "itemName": "Portlet",
+  "templateId": "{AB86861A-6030-46C5-B394-E8F99E8B87DB}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{BDC7BCDE-AFB6-4694-AE2C-40F3EB544FAC}",
+  "childIds": [
+    "{E3356D15-4BBD-4655-9851-9810D41CF7A6}"
+  ]
+}

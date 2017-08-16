@@ -1,0 +1,10 @@
+{
+  "itemName": "Standard Comment Template",
+  "templateId": "{AB86861A-6030-46C5-B394-E8F99E8B87DB}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{6259FFD2-8226-4E31-96E7-64CD6B284A6D}",
+  "childIds": [
+    "{BC225988-4D63-4A28-9B75-CFD9CDB26308}",
+    "{A047C42C-8606-485D-A94C-BABD2A52A82D}"
+  ]
+}

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A2C0C7A2-697D-40E2-9516-54E0C2D6028E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:32:56.4566426Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Async",
+    "itemPath": "/sitecore/templates/System/Tasks/Schedule/Data/Async",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

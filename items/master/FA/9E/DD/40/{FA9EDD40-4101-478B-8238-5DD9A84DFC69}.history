@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FA9EDD40-4101-478B-8238-5DD9A84DFC69}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:31:50.8441859Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Cost",
+    "itemPath": "/sitecore/templates/System/Analytics/Campaign/Cost/Cost",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

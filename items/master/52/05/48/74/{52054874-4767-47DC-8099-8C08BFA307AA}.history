@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{52054874-4767-47DC-8099-8C08BFA307AA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:30:05.5185358Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
+    "workflowStateName": "Deployed",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Marketing Lead",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Outcomes/Marketing Lead",
+    "template": "Outcome Definition",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

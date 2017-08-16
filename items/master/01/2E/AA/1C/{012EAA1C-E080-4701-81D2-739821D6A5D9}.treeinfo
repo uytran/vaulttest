@@ -1,0 +1,9 @@
+{
+  "itemName": "OutcomesStorage",
+  "templateId": "{AB86861A-6030-46C5-B394-E8F99E8B87DB}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{869D1B82-50FB-4CD0-B1BF-B2482C5FBA97}",
+  "childIds": [
+    "{E4196A1C-454C-4C7F-B5BD-A70A848A7A86}"
+  ]
+}

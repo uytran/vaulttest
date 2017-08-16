@@ -1,0 +1,10 @@
+{
+  "itemName": "Default maps",
+  "templateId": "{8BCDAB89-5885-4005-8256-30982F406A49}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{6768BE32-A142-4BA4-A02F-01D810FBF7FE}",
+  "childIds": [
+    "{9AFA5614-47E6-487D-B93E-7C6F4356AF6C}",
+    "{EDD2F78D-B57C-4E14-AADF-9FE1204A45AE}"
+  ]
+}

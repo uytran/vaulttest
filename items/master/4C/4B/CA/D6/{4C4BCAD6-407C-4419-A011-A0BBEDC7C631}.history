@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4C4BCAD6-407C-4419-A011-A0BBEDC7C631}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:30:37.4265809Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Page Goals",
+    "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Page Goals",
+    "template": "ReportQuery",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

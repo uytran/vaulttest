@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9E2619F3-E8B2-4DAD-97B2-B88337EBCFDD}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:30:28.6159637Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Jamaica",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Jamaica",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "itemName": "Asset",
+  "templateId": "{AB86861A-6030-46C5-B394-E8F99E8B87DB}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{3E3B68CF-6915-4DF7-823B-C28F1F835775}",
+  "childIds": [
+    "{92EDE7D3-E250-43C1-B7CD-E647CAB7A519}"
+  ]
+}

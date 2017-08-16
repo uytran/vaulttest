@@ -1,0 +1,9 @@
+{
+  "itemName": "Posting Configuration",
+  "templateId": "{AB86861A-6030-46C5-B394-E8F99E8B87DB}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{A0A04AF2-4090-4481-A7FB-BA9EED686370}",
+  "childIds": [
+    "{949122EF-6EE7-46D9-AC46-43EE3CF084F8}"
+  ]
+}

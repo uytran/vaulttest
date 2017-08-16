@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{63087A5B-2EA8-4F1B-811B-A82C0ECF52AF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:31:43.1092990Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Recipients",
+    "itemPath": "/sitecore/templates/List Manager/Contact List/Data/Recipients",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

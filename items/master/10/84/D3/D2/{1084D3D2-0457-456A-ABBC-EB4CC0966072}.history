@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1084D3D2-0457-456A-ABBC-EB4CC0966072}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:32:28.4384084Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "VaryByQueryString",
+    "itemPath": "/sitecore/templates/System/Layout/Sections/Caching/Caching/VaryByQueryString",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

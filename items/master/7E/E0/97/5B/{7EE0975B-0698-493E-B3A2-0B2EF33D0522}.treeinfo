@@ -1,0 +1,9 @@
+{
+  "itemName": "Rendering Folder",
+  "templateId": "{AB86861A-6030-46C5-B394-E8F99E8B87DB}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{531BF4A2-C3B2-4EB9-89D0-FA30C82AB33B}",
+  "childIds": [
+    "{DDF66FE1-80DD-4DA0-8D66-CB2F815CE9F5}"
+  ]
+}

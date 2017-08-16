@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B8D7200A-15D2-42CE-AB24-79FEF4DDCF86}",
+    "version": 3,
+    "language": "en",
+    "timestamp": "2017-08-16T16:32:40.4055828Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Custom Control",
+    "itemPath": "/sitecore/templates/System/Ribbon/Custom Control",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

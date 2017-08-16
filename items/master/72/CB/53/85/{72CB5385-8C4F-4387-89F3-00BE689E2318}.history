@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{72CB5385-8C4F-4387-89F3-00BE689E2318}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:29:45.6967935Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ch-direct-marketing",
+    "itemPath": "/sitecore/media library/System/Channel Images/ch-direct-marketing",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

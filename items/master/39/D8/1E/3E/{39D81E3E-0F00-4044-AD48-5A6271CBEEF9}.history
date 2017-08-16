@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{39D81E3E-0F00-4044-AD48-5A6271CBEEF9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:30:29.1318267Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Lebanon",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Lebanon",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

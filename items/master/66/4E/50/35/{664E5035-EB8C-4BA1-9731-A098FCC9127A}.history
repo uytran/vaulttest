@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{664E5035-EB8C-4BA1-9731-A098FCC9127A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:32:45.6501479Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Insert Options Rule",
+    "itemPath": "/sitecore/templates/System/Rules/Insert Options Rule",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

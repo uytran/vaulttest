@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{82CF4B07-CCDD-4DA3-9ACD-F5474D345372}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:31:43.5509142Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Archiving",
+    "itemPath": "/sitecore/templates/System/Archiving",
+    "template": "Node",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

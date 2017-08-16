@@ -1,0 +1,9 @@
+{
+  "itemName": "Personalization",
+  "templateId": "{E269FBB5-3750-427A-9149-7AA950B49301}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{8CA06D6A-B353-44E8-BC31-B528C7306971}",
+  "childIds": [
+    "{C502BDEB-F5DA-4AD0-8095-D7CC1D0E1EEC}"
+  ]
+}

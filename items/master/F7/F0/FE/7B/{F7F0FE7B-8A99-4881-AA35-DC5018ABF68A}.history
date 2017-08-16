@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F7F0FE7B-8A99-4881-AA35-DC5018ABF68A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:32:14.9009570Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Open Result Type",
+    "itemPath": "/sitecore/templates/System/Item Buckets/Open Result Type",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

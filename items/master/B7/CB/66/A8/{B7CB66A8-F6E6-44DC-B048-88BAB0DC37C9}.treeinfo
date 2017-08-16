@@ -1,0 +1,10 @@
+{
+  "itemName": "Try Finish Tests",
+  "templateId": "{AB86861A-6030-46C5-B394-E8F99E8B87DB}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{3F89BC53-5DE1-4A01-A3FE-F775F26C7A84}",
+  "childIds": [
+    "{E21B895B-9B71-4BA2-A28F-7D20D5512640}",
+    "{77E1E5CB-5DEB-4974-96DD-2B0C89699DB9}"
+  ]
+}

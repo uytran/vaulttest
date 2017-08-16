@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4BB3CF9B-B25D-4C33-95C8-54F6F13E20DB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:31:11.5559274Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Stop Test Force Experience",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Testing/Stop Test Force Experience",
+    "template": "Action",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

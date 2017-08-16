@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5F094FE4-CC4B-40FD-9377-9AB00E7F7CA5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:29:50.0416303Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Aliases",
+    "itemPath": "/sitecore/system/Aliases",
+    "template": "Node",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

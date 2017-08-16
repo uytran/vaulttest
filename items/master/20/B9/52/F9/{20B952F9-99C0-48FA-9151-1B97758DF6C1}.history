@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{20B952F9-99C0-48FA-9151-1B97758DF6C1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:29:40.8907621Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "LinkedIn Share Button",
+    "itemPath": "/sitecore/layout/Renderings/Social MVC/Sharing/LinkedIn Share Button",
+    "template": "Controller rendering",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

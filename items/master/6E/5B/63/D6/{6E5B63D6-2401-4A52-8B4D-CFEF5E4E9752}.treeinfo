@@ -1,0 +1,10 @@
+{
+  "itemName": "Engagement Plan",
+  "templateId": "{AB86861A-6030-46C5-B394-E8F99E8B87DB}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{6AE28763-9C96-46C1-BBBC-B597068FB36F}",
+  "childIds": [
+    "{86AE6B49-CEFA-4BCB-B7BF-CD45D2ECB05B}",
+    "{A04E1C83-2408-400D-A686-984C2147268F}"
+  ]
+}

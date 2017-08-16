@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4A6A7E36-2481-438F-A9BA-0453ECC638FA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:31:55.9833088Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Pattern Card",
+    "itemPath": "/sitecore/templates/System/Analytics/Patterns/Pattern Card",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

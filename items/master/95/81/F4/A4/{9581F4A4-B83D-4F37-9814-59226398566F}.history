@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9581F4A4-B83D-4F37-9814-59226398566F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:30:11.2979012Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Call to Action",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Profiles/Function/Call to Action",
+    "template": "Profile Key",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

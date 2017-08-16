@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{30EB29CF-7DAD-41E8-A14A-B33384F312F6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:31:37.4432396Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Needs Renewal",
+    "itemPath": "/sitecore/system/Workflows/Social Account Renewal/Needs Renewal",
+    "template": "State",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

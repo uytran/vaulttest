@@ -1,0 +1,10 @@
+{
+  "itemName": "Page Level Test Variable",
+  "templateId": "{AB86861A-6030-46C5-B394-E8F99E8B87DB}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{6ACF5922-F614-4FD5-9C0C-EF422CA88F2F}",
+  "childIds": [
+    "{1DED4001-E53E-419B-92E7-1DE2B849035B}",
+    "{8D8A625E-E742-4A56-BA2E-4F3453BE5C7C}"
+  ]
+}

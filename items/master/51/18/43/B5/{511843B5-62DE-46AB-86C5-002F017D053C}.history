@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{511843B5-62DE-46AB-86C5-002F017D053C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:31:11.8501032Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Tracking Enabled",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Tracking/Tracking Enabled",
+    "template": "Condition",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

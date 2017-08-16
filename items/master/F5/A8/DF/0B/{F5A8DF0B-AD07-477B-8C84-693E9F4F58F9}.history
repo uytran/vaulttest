@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F5A8DF0B-AD07-477B-8C84-693E9F4F58F9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:32:10.1906162Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Additional Metadata",
+    "itemPath": "/sitecore/templates/System/Feeds/RSS Feed/Additional Metadata",
+    "template": "Template section",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D4198DC5-F170-40AF-8D97-F74F360953C2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:30:38.9684897Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
+    "workflowStateName": "Deployed",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Referred - Other",
+    "itemPath": "/sitecore/system/Settings/Analytics/Traffic Type/Referred - Other",
+    "template": "Traffic Type",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

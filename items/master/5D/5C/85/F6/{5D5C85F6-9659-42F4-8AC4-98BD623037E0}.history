@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5D5C85F6-9659-42F4-8AC4-98BD623037E0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:32:19.4023067Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Detection",
+    "itemPath": "/sitecore/templates/System/Layout/Device/Detection",
+    "template": "Template section",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

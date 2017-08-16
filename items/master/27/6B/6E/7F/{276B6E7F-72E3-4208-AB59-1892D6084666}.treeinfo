@@ -1,0 +1,9 @@
+{
+  "itemName": "Security Preset",
+  "templateId": "{AB86861A-6030-46C5-B394-E8F99E8B87DB}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{1CC5DF48-48EE-4671-B2F6-851B7B2F163E}",
+  "childIds": [
+    "{581B1CD9-8F51-433A-896F-FB9CC4042269}"
+  ]
+}

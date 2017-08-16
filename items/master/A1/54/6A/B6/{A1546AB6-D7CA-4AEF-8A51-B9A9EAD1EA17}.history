@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A1546AB6-D7CA-4AEF-8A51-B9A9EAD1EA17}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:30:30.6214924Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Nicaragua",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Nicaragua",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

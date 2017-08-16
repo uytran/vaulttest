@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{512C1C49-5AD2-4AE7-BEC6-0CE9F1A9932A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:30:41.5804565Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Common Mistakes",
+    "itemPath": "/sitecore/system/Settings/Analytics/Reports/Reports/Site Health/Common Mistakes",
+    "template": "Report",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

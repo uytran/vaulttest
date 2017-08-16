@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2329744E-7968-4CEA-B5FD-60131F50E744}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:32:09.6067015Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Feed Rendering Parameters",
+    "itemPath": "/sitecore/templates/System/Feeds/Feed Rendering Parameters",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

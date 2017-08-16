@@ -1,0 +1,9 @@
+{
+  "itemName": "Max Length 40",
+  "templateId": "{8F8E2549-C77F-4860-B83B-54FA31E2BEFA}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{6ABAE264-7F96-4AA3-832B-2C6C614E6B94}",
+  "childIds": [
+    "{D0F541BF-A58B-4FD2-A72E-12C7519B4A14}"
+  ]
+}

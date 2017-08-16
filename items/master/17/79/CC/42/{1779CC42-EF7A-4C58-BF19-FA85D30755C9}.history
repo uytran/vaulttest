@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1779CC42-EF7A-4C58-BF19-FA85D30755C9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:29:58.7186460Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
+    "workflowStateName": "Deployed",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Newsletter Signup",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Goals/Newsletter Signup",
+    "template": "Goal",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{37F18D1E-0BFD-412C-8FB8-4D28671119D8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:30:46.1135153Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Add New Template",
+    "itemPath": "/sitecore/system/Settings/Buckets/Settings/Quick Actions/Add New Template",
+    "template": "Quick Action",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

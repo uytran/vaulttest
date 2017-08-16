@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6125EB61-0F1C-4093-AD45-9A7D372D6227}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:30:27.5922692Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Guyana",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Guyana",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

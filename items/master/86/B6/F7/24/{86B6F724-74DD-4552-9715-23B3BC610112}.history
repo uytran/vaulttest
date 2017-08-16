@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{86B6F724-74DD-4552-9715-23B3BC610112}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:30:29.0917175Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Latvia",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Latvia",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

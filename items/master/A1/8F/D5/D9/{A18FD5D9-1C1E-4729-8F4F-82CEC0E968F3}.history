@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A18FD5D9-1C1E-4729-8F4F-82CEC0E968F3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:30:23.1065338Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Bahrain",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Bahrain",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

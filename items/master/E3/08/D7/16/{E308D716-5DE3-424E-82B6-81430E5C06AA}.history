@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E308D716-5DE3-424E-82B6-81430E5C06AA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:31:26.5786102Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Funnels",
+    "itemPath": "/sitecore/system/Settings/Rules/Insert Options/Rules/Funnels",
+    "template": "Insert Options Rule",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

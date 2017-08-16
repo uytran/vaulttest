@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{AE42C736-CD4C-4DEE-B872-F54912AEC037}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:31:26.9282951Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Persona",
+    "itemPath": "/sitecore/system/Settings/Rules/Insert Options/Rules/Persona",
+    "template": "Insert Options Rule",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

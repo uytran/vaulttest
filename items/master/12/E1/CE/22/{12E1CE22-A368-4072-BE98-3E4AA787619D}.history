@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{12E1CE22-A368-4072-BE98-3E4AA787619D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:30:29.9435307Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Mayotte",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Mayotte",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

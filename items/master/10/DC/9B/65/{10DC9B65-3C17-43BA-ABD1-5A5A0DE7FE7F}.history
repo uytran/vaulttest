@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{10DC9B65-3C17-43BA-ABD1-5A5A0DE7FE7F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:31:08.6781228Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Has Email",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Security/Has Email",
+    "template": "Condition",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E02A9CD3-650C-48ED-969E-A60599BB8CC9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:31:41.5099686Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Paid search",
+    "itemPath": "/sitecore/templates/Branches/System/Path Analyzer/Site map group/$name/Channel maps/Paid search",
+    "template": "ChannelMap",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

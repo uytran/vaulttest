@@ -1,0 +1,9 @@
+{
+  "itemName": "Simulator Appearance",
+  "templateId": "{AB86861A-6030-46C5-B394-E8F99E8B87DB}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{50F91A3C-F857-4361-AA52-3B212ACCF004}",
+  "childIds": [
+    "{A3C828A5-7903-466B-B8BC-8F1C0DB17FE4}"
+  ]
+}

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E28734CA-89EB-4530-B0E4-B81F6645A372}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:32:53.8961163Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Twitter Message",
+    "itemPath": "/sitecore/templates/System/Social/Message/Twitter Message",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

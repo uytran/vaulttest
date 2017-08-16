@@ -1,0 +1,9 @@
+{
+  "itemName": "Klout",
+  "templateId": "{0437FEE2-44C9-46A6-ABE9-28858D9FEE8C}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{AB5F3466-AFBC-4EAE-A4AB-7E292B888CA0}",
+  "childIds": [
+    "{3E8C8DF4-0BF5-4FE8-800E-00CFC2E87D19}"
+  ]
+}

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{EABDC2B2-3B17-4113-BD3F-2B6812A5F0B1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:32:53.5563075Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Shared Secret",
+    "itemPath": "/sitecore/templates/System/Social/Klout/Klout Application/Data/Shared Secret",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

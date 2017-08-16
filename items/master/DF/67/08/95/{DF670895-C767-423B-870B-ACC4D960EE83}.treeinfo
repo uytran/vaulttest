@@ -1,0 +1,10 @@
+{
+  "itemName": "Experience Analytics",
+  "templateId": "{DDA66314-03F3-4C89-84A9-39DFFB235B06}",
+  "branchId": "{BDC41FDD-A3AC-4B69-A0BA-471C425CB083}",
+  "parentId": "{1057C235-C5C0-4EB7-8F77-EA51EB9E20EE}",
+  "childIds": [
+    "{3B66C772-50AC-4E40-AE71-0028B9FB81AD}",
+    "{CA44D2E0-C7D8-447A-B8C6-376E78D6FA2C}"
+  ]
+}

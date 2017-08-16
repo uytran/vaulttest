@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3648772F-0CB9-4B90-9E65-A97B2C729008}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:29:52.5422645Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Offline",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Channel/Offline",
+    "template": "Channel type",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7913B030-AE76-4EFA-8244-E6D36E81B216}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:30:56.2831861Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Interaction segmentation",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Interaction segmentation",
+    "template": "Element Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

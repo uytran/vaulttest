@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{39D0A502-8AEC-4EE6-8B9E-3C31CCB579C8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:32:15.6594577Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Display Text",
+    "itemPath": "/sitecore/templates/System/Item Buckets/Dropdown List/Dropdown List/Display Text",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

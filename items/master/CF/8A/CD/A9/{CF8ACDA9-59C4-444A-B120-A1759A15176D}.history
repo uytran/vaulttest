@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{CF8ACDA9-59C4-444A-B120-A1759A15176D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:32:12.6932857Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Filter on paste",
+    "itemPath": "/sitecore/templates/System/Html editor/HTML Tidy/Data/Filter on paste",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

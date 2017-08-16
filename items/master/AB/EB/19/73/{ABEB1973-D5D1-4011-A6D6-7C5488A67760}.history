@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{ABEB1973-D5D1-4011-A6D6-7C5488A67760}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:29:47.5952086Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Field Changed",
+    "itemPath": "/sitecore/media library/System/Page Event Images/Field Changed",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

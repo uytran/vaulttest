@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{84E7DF9E-A319-417B-A15D-84B40EA2D8E4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:31:43.1463884Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "BulkOperationsId",
+    "itemPath": "/sitecore/templates/List Manager/Contact List/Data/BulkOperationsId",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

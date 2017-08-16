@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A0AC05CE-333C-4938-8510-3BAE36E56874}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:29:48.2045513Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Page Visit",
+    "itemPath": "/sitecore/media library/System/Page Event Images/Page Visit",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

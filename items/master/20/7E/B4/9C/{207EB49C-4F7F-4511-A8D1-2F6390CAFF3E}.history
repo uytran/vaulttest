@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{207EB49C-4F7F-4511-A8D1-2F6390CAFF3E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:32:03.4229027Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Rebuild Index Command",
+    "itemPath": "/sitecore/templates/System/Content Testing/Tasks/Rebuild Index Command",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

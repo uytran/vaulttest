@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3B463A5F-4C43-4322-9F1A-E1685BECE08E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:32:01.4316910Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Is Test Canceled",
+    "itemPath": "/sitecore/templates/System/Content Testing/Historical Test Data/Data/Is Test Canceled",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

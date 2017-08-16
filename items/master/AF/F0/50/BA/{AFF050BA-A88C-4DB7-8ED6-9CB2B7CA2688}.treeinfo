@@ -1,0 +1,10 @@
+{
+  "itemName": "Multivariate Test Definition",
+  "templateId": "{AB86861A-6030-46C5-B394-E8F99E8B87DB}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{6ACF5922-F614-4FD5-9C0C-EF422CA88F2F}",
+  "childIds": [
+    "{3D156EFC-265D-420E-823B-A26658E8CFAE}",
+    "{2DA13C4C-2493-4614-B3F8-C6989A5A25F0}"
+  ]
+}

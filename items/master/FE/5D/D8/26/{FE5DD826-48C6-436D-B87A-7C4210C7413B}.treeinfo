@@ -1,0 +1,9 @@
+{
+  "itemName": "Media folder",
+  "templateId": "{AB86861A-6030-46C5-B394-E8F99E8B87DB}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{D150DF1B-01BA-45B7-AEB1-4CA5C2F20A64}",
+  "childIds": [
+    "{08907CF7-3C99-44BC-AE5B-71270D4CB624}"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "itemName": "W3C XHtml Validation",
+  "templateId": "{8F8E2549-C77F-4860-B83B-54FA31E2BEFA}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{D46F5771-1662-4CFF-9684-804C35DDEA3C}",
+  "childIds": [
+    "{8C8F6FEB-4713-4C05-B892-A6D3C9C5A82D}"
+  ]
+}

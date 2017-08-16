@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{10B0EAE2-E037-49F5-AE5A-F060A19BE0C5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:30:46.9026327Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Play",
+    "itemPath": "/sitecore/system/Settings/Buckets/Settings/Quick Actions/Play",
+    "template": "Quick Action",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

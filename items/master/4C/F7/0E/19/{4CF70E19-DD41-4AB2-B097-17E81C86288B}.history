@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4CF70E19-DD41-4AB2-B097-17E81C86288B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:32:25.3725454Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Url",
+    "itemPath": "/sitecore/templates/System/Layout/Renderings/Url Rendering/Data/Url",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

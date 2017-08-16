@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FB3D7733-3515-40D3-9976-4E8E476F884A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:31:15.7587340Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "PositiveInteger",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Macros/PositiveInteger",
+    "template": "Macro",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

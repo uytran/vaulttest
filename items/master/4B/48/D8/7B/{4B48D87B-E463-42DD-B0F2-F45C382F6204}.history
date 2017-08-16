@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4B48D87B-E463-42DD-B0F2-F45C382F6204}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:29:43.8673131Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Cecile 128x128",
+    "itemPath": "/sitecore/media library/Experience Explorer/Presets/Cecile 128x128",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

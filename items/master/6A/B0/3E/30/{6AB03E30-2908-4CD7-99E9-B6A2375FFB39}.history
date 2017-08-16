@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6AB03E30-2908-4CD7-99E9-B6A2375FFB39}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:31:09.6490121Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Surname",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Segment Builder/Surname",
+    "template": "Condition",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

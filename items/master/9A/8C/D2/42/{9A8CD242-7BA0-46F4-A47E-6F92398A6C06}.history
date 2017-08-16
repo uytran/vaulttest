@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9A8CD242-7BA0-46F4-A47E-6F92398A6C06}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:30:27.7431194Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Heard Island and McDonald Islands",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Heard Island and McDonald Islands",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

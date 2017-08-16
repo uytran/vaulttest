@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DE1C3E2E-F0A0-4C60-A877-E9D4D21382FB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:29:47.0213544Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ch-telemarketing",
+    "itemPath": "/sitecore/media library/System/Channel Images/ch-telemarketing",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

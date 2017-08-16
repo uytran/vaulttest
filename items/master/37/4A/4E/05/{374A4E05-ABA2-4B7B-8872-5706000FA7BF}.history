@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{374A4E05-ABA2-4B7B-8872-5706000FA7BF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:29:48.1273309Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Page Not Found",
+    "itemPath": "/sitecore/media library/System/Page Event Images/Page Not Found",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

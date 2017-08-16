@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C01BCFF7-4C64-423F-9846-0CF1E0360B25}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:32:12.1141511Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Display name",
+    "itemPath": "/sitecore/templates/System/Html editor/HTML Font/Data/Display name",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

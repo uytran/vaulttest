@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2E281CA1-B5E3-452D-B65B-0FC70720A211}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:31:40.8186532Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Page maps",
+    "itemPath": "/sitecore/templates/Branches/System/Path Analyzer/Site map group/$name/Page maps",
+    "template": "MapGroup",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

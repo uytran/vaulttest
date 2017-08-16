@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BE4C2E57-D07D-4982-A6CC-679133913C4F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:29:39.7219694Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Simulated Device Layout",
+    "itemPath": "/sitecore/layout/Layouts/System/Simulated Device Layout",
+    "template": "Layout",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

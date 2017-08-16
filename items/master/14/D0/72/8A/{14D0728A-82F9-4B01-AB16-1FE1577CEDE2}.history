@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{14D0728A-82F9-4B01-AB16-1FE1577CEDE2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:32:20.1657637Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Editable",
+    "itemPath": "/sitecore/templates/System/Layout/Placeholder/Data/Editable",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "itemName": "XCentium Vault",
+  "templateId": "{1A9B6300-4652-477C-A4B5-B2A64E86B29F}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{DADB4F93-477F-491F-A905-C4005C452E67}",
+  "childIds": [
+    "{10106BAC-DFA4-4EBB-A912-46FE9FDB3F5F}"
+  ]
+}

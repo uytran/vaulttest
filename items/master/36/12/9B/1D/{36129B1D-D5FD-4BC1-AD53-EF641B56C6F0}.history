@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{36129B1D-D5FD-4BC1-AD53-EF641B56C6F0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:30:29.3133860Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Libyan Arab Jamahiriya",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Libyan Arab Jamahiriya",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

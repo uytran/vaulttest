@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{805064C0-8578-478A-A77E-20D2A3A0C2F5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:30:40.5714566Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
+    "workflowStateName": "Deployed",
+    "activeUser": "sitecore\\admin",
+    "itemName": "910 - Bot - Seach Engine",
+    "itemPath": "/sitecore/system/Settings/Analytics/Visitor Identifications/910 - Bot - Seach Engine",
+    "template": "Visitor Identification",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

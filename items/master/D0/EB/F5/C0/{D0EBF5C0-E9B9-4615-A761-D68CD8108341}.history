@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D0EBF5C0-E9B9-4615-A761-D68CD8108341}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:32:52.1596158Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Network",
+    "itemPath": "/sitecore/templates/System/Social/Application/Data/Network",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

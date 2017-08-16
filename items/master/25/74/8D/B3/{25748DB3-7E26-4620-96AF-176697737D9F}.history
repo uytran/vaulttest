@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{25748DB3-7E26-4620-96AF-176697737D9F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:31:47.2169849Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Custom",
+    "itemPath": "/sitecore/templates/System/Analytics/Marketing Taxonomy/Custom",
+    "template": "Template Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,10 @@
+{
+  "itemName": "Campaign group",
+  "templateId": "{0437FEE2-44C9-46A6-ABE9-28858D9FEE8C}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{7164FDA6-0108-465B-A746-9B0B9A7E285F}",
+  "childIds": [
+    "{3989B22D-FC32-45F3-BE47-8F92CF323E77}",
+    "{7CC96707-325D-4024-9F58-B10CE1F950D1}"
+  ]
+}

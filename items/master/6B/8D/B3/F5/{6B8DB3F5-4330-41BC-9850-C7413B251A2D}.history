@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6B8DB3F5-4330-41BC-9850-C7413B251A2D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:30:31.6842597Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Saint Bartelemey",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Saint Bartelemey",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

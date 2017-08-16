@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0C894AAB-962B-4A84-B923-CB24B05E60D2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:32:58.1141292Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Ribbon",
+    "itemPath": "/sitecore/templates/System/Templates/Sections/Appearance/Appearance/__Ribbon",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

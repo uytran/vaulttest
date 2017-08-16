@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{79EE759B-C563-4E3F-89C3-71071BD8AA5C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:30:16.5861530Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ExpEditor",
+    "itemPath": "/sitecore/system/Modules/Experience Explorer/Components/ExpEditor",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

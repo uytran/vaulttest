@@ -1,0 +1,10 @@
+{
+  "itemName": "Session End Rule",
+  "templateId": "{AB86861A-6030-46C5-B394-E8F99E8B87DB}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{C3ED8BDB-848D-48D8-9132-CDB8C5F97BFD}",
+  "childIds": [
+    "{D03305B2-0991-4316-9681-6C9C67C6476F}",
+    "{28DA6A41-0186-401A-9001-094A380BBE7E}"
+  ]
+}

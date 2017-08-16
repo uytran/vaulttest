@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{283CE955-2BDF-4D59-84B1-10A5B5EDDAA2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:31:28.7819281Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Tags Definition",
+    "itemPath": "/sitecore/system/Settings/Rules/Testing/Tags/Tags Definition",
+    "template": "Tags Definition",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "itemName": "Layout",
+  "templateId": "{B2613CC1-A748-46A3-A0DB-3774574BD339}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{BCD8EB24-4D10-4A47-ACF8-64F93A0F3740}",
+  "childIds": [
+    "{B3E44BEA-D36D-4DEB-891D-9F1358C1D59E}"
+  ]
+}

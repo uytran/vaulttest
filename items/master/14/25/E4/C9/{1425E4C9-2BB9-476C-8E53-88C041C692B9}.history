@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1425E4C9-2BB9-476C-8E53-88C041C692B9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:29:48.9257090Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Session End",
+    "itemPath": "/sitecore/media library/System/Page Event Images/Session End",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

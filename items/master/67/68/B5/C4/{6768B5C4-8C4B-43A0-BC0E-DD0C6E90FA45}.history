@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6768B5C4-8C4B-43A0-BC0E-DD0C6E90FA45}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:30:52.7389871Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Write Testing Cluster",
+    "itemPath": "/sitecore/system/Settings/Content Testing/Report Queries/Write Testing Cluster",
+    "template": "ReportQuery",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

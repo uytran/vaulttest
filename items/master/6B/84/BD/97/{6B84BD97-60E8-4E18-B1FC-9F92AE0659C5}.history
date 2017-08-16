@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6B84BD97-60E8-4E18-B1FC-9F92AE0659C5}",
+    "version": 3,
+    "language": "en",
+    "timestamp": "2017-08-16T16:32:40.8140812Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Small Gallery Button",
+    "itemPath": "/sitecore/templates/System/Ribbon/Small Gallery Button",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

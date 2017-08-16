@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{77280BFA-35A9-4F0A-9642-D5C8B21C9EAE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:32:45.3921901Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Sticky Chunk",
+    "itemPath": "/sitecore/templates/System/Ribbon/Toolbar/Data/Sticky Chunk",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

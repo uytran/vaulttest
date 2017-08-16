@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DF985F3B-6D87-40AC-B4CA-1D38DEB1419B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:31:33.5658426Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Reminder is after Archive Date",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Item Rules/Item/Reminder is after Archive Date",
+    "template": "Validation Rule",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

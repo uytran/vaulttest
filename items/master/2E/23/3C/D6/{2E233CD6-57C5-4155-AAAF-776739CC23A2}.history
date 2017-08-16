@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2E233CD6-57C5-4155-AAAF-776739CC23A2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:30:30.2636426Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Myanmar",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Myanmar",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{267D9AC7-5D85-4E9D-AF89-99AB296CC218}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:32:06.9957012Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Dictionary folder",
+    "itemPath": "/sitecore/templates/System/Dictionary/Dictionary folder",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

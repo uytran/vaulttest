@@ -1,0 +1,10 @@
+{
+  "itemName": "Dictionary Domain",
+  "templateId": "{AB86861A-6030-46C5-B394-E8F99E8B87DB}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{93B36B23-4B04-44A0-AF37-5FCDED572D02}",
+  "childIds": [
+    "{D6969719-BA62-451E-BB38-CAB1306DDE70}",
+    "{D259A9BA-D0D2-4CE8-B838-2148E4DCEF47}"
+  ]
+}

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6F10E607-2D04-4C0D-963A-FC79B5C4E8CE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:31:55.8324187Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Track as Latest Event",
+    "itemPath": "/sitecore/templates/System/Analytics/Page Event/Experience Profile Options/Track as Latest Event",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

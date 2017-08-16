@@ -1,0 +1,9 @@
+{
+  "itemName": "Google Plus Share Button Parameters",
+  "templateId": "{AB86861A-6030-46C5-B394-E8F99E8B87DB}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{A2462AE3-D233-45F3-A749-FDD03ECFA568}",
+  "childIds": [
+    "{BBAC324C-9A95-4884-9D1F-0F59E5EEA168}"
+  ]
+}

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A57C7376-37A1-4F30-9C38-F6D84BF82C18}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:31:30.3058009Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Is Percentage",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Field Rules/Common/Is Percentage",
+    "template": "Validation Rule",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

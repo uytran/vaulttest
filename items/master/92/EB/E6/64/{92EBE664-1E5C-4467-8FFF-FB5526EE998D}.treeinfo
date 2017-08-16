@@ -1,0 +1,10 @@
+{
+  "itemName": "Search Query Builder",
+  "templateId": "{DDA66314-03F3-4C89-84A9-39DFFB235B06}",
+  "branchId": "{BDC41FDD-A3AC-4B69-A0BA-471C425CB083}",
+  "parentId": "{1057C235-C5C0-4EB7-8F77-EA51EB9E20EE}",
+  "childIds": [
+    "{D3A8DF82-D9BE-4C39-9D30-2ABFF8C9EE22}",
+    "{E1FC3048-283E-4D47-9FC6-608AF2C66272}"
+  ]
+}

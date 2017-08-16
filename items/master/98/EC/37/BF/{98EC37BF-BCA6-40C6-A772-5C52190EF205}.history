@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{98EC37BF-BCA6-40C6-A772-5C52190EF205}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:32:15.0333248Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Saved Search",
+    "itemPath": "/sitecore/templates/System/Item Buckets/Saved Search",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

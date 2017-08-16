@@ -1,0 +1,9 @@
+{
+  "itemName": "Visibility",
+  "templateId": "{AA91A868-02F2-41D3-8B78-1CAD91B4DCAE}",
+  "branchId": "{9A72C539-DBF8-4DAD-96D3-A298FC04ADD6}",
+  "parentId": "{AE087328-BC0F-4D58-90A3-7B4810EE51A5}",
+  "childIds": [
+    "{536BB534-7F7E-409C-B491-E147FCF6BC97}"
+  ]
+}

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8355EB8A-44EC-47FC-8FFD-6412C400A397}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:30:44.0290394Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Language Template",
+    "itemPath": "/sitecore/system/Settings/Buckets/Facets/Language Template",
+    "template": "Facet",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

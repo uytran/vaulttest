@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{EC124D57-F372-464B-B34E-21A83C95745D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:30:41.8761518Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Bad Pages",
+    "itemPath": "/sitecore/system/Settings/Analytics/Reports/Subreports/Bad Pages",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

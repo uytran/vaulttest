@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1CDC5EC3-0803-47D4-8784-6C5D56125BC1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:30:31.7485878Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Saint Kitts and Nevis",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Saint Kitts and Nevis",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

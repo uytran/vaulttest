@@ -1,0 +1,10 @@
+{
+  "itemName": "Social Marketer",
+  "templateId": "{56682FE6-9679-4B69-9589-60C99AA08BEC}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{3A481829-C0A0-4DDE-9C79-90EF97FB561F}",
+  "childIds": [
+    "{031FA6AD-D948-4F1A-B97B-FC2D00AE630C}",
+    "{CB1DDA9C-8DB1-4E6F-A9B3-12622FE82C74}"
+  ]
+}

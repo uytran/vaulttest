@@ -1,0 +1,10 @@
+{
+  "itemName": "Automation State",
+  "templateId": "{A87A00B1-E6DB-45AB-8B54-636FEC3B5523}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{BEBB56F6-A304-4FBB-B10B-280700564D04}",
+  "childIds": [
+    "{610DAB8E-EC1E-4CA2-8D62-E9AAA9952171}",
+    "{3F3FBBC2-B7ED-4821-950D-03A599AA47FD}"
+  ]
+}

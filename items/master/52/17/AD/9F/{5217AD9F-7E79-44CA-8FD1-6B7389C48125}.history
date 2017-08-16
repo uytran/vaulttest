@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5217AD9F-7E79-44CA-8FD1-6B7389C48125}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:29:49.5853008Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "iPhone_landscape",
+    "itemPath": "/sitecore/media library/System/Simulator Backgrounds/iPhone_landscape",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

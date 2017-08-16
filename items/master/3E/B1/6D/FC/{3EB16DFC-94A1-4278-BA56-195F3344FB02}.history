@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3EB16DFC-94A1-4278-BA56-195F3344FB02}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:29:46.8071533Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ch-self-service",
+    "itemPath": "/sitecore/media library/System/Channel Images/ch-self-service",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

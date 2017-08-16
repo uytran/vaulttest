@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F6B0E6F1-2451-4C72-94FD-22D7B93B592A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:31:39.5152018Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Command Template",
+    "itemPath": "/sitecore/templates/Branches/System/Branch/Command Template",
+    "template": "Branch",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

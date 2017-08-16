@@ -1,0 +1,9 @@
+{
+  "itemName": "Geo IP",
+  "templateId": "{A87A00B1-E6DB-45AB-8B54-636FEC3B5523}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{CA70A39A-4F10-4E22-BDD7-1AFA37FDAEDF}",
+  "childIds": [
+    "{71B31A54-6DC8-4041-9D7B-4D0072964649}"
+  ]
+}

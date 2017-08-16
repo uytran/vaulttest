@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:32:58.1939728Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Sortorder",
+    "itemPath": "/sitecore/templates/System/Templates/Sections/Appearance/Appearance/__Sortorder",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

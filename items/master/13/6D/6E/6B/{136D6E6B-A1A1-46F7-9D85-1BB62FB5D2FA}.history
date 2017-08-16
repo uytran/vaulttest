@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{136D6E6B-A1A1-46F7-9D85-1BB62FB5D2FA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:30:23.2512008Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Belarus",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Belarus",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

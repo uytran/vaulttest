@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{677E9094-0ECD-4F93-A819-5784A67A97DC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:31:58.4692427Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Session End Rule",
+    "itemPath": "/sitecore/templates/System/Analytics/Rules/Session End Rule",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

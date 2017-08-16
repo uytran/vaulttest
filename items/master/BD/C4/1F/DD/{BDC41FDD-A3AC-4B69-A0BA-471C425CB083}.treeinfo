@@ -1,0 +1,9 @@
+{
+  "itemName": "Rules Context Folder",
+  "templateId": "{35E75C72-4985-4E09-88C3-0EAC6CD1E64F}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{539B5632-8EC7-461B-862A-134945046B5E}",
+  "childIds": [
+    "{CBA86714-915A-48BC-B17D-A81A29CA8E35}"
+  ]
+}

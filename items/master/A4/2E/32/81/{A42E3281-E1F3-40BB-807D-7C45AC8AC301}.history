@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A42E3281-E1F3-40BB-807D-7C45AC8AC301}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:30:22.3208160Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Anguilla",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Anguilla",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

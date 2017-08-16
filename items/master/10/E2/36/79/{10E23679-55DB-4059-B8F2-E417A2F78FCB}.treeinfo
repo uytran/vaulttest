@@ -1,0 +1,10 @@
+{
+  "itemName": "Element Placeholder",
+  "templateId": "{AB86861A-6030-46C5-B394-E8F99E8B87DB}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{869D1B82-50FB-4CD0-B1BF-B2482C5FBA97}",
+  "childIds": [
+    "{BBE4BFBB-953C-4988-8608-5459E60949D2}",
+    "{AD582CEA-81A7-4C07-8628-549ED1115FB2}"
+  ]
+}

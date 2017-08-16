@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{63EE5DE3-5DAC-41E7-A184-2A9D764CEA5D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:30:26.8539831Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Georgia",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Georgia",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

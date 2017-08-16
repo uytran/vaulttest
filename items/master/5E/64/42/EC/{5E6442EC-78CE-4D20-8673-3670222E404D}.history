@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5E6442EC-78CE-4D20-8673-3670222E404D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:32:36.0348601Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Package author",
+    "itemPath": "/sitecore/templates/System/Packages/Package registration/Data/Package author",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

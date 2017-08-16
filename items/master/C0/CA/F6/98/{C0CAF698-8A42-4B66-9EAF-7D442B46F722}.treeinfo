@@ -1,0 +1,10 @@
+{
+  "itemName": "Segmented List",
+  "templateId": "{AB86861A-6030-46C5-B394-E8F99E8B87DB}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{D2833213-CB77-431A-9108-55E62E4E47FD}",
+  "childIds": [
+    "{05E365A6-A351-49BA-9B58-5CB70C6DB5AF}",
+    "{479583C9-9235-436F-8540-485E71E68EE5}"
+  ]
+}

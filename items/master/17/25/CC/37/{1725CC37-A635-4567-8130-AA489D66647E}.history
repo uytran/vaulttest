@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1725CC37-A635-4567-8130-AA489D66647E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:30:32.5481454Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "South Africa",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/South Africa",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6474477E-1F7F-4F97-A14D-7664C8F875D2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:30:33.1699278Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Tokelau",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Tokelau",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

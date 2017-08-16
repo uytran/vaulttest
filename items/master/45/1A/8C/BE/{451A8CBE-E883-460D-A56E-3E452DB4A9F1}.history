@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{451A8CBE-E883-460D-A56E-3E452DB4A9F1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:32:06.7511703Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Delete Test Definition",
+    "itemPath": "/sitecore/templates/System/Content Testing/Workflow/Remove Tests Action/Settings/Delete Test Definition",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

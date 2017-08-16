@@ -1,0 +1,9 @@
+{
+  "itemName": "Workflow",
+  "templateId": "{239F9CF4-E5A0-44E0-B342-0F32CD4C6D8B}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{087E1EA5-6280-4575-9E70-85B588DB91B2}",
+  "childIds": [
+    "{49D654D8-19C1-4DFC-BE0F-7A7D2314340F}"
+  ]
+}

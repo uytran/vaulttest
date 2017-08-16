@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C13ED131-1FBC-4625-97BE-F26C362B7768}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:31:11.7150845Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Winner found",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Testing/Winner found",
+    "template": "Condition",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

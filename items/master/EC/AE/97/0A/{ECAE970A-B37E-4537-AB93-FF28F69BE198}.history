@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{ECAE970A-B37E-4537-AB93-FF28F69BE198}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:30:37.5875646Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Searches from Page",
+    "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Searches from Page",
+    "template": "ReportQuery",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

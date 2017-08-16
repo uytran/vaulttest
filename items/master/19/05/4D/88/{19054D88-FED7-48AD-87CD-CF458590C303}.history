@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{19054D88-FED7-48AD-87CD-CF458590C303}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-08-16T16:32:40.5259062Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Large Gallery Button",
+    "itemPath": "/sitecore/templates/System/Ribbon/Large Gallery Button",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

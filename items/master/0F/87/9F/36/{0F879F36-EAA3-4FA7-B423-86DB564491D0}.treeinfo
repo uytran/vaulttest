@@ -1,0 +1,10 @@
+{
+  "itemName": "Login with Facebook Button Parameters",
+  "templateId": "{AB86861A-6030-46C5-B394-E8F99E8B87DB}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{57B5B065-493A-4303-997E-DC8D1277A72E}",
+  "childIds": [
+    "{CE335C7E-7642-49D7-BA25-5A7FF85C2EC4}",
+    "{8308C2C7-B57D-4A34-B821-B6D3CF70AAF2}"
+  ]
+}

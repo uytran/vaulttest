@@ -1,0 +1,10 @@
+{
+  "itemName": "Engagement Automation Action",
+  "templateId": "{AB86861A-6030-46C5-B394-E8F99E8B87DB}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{6AE28763-9C96-46C1-BBBC-B597068FB36F}",
+  "childIds": [
+    "{C706E3C4-A74D-4236-A793-16ED2C5D7594}",
+    "{D3867517-F08A-41EB-800E-65FB9E01F330}"
+  ]
+}

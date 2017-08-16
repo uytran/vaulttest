@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{74A0D116-A2ED-41A6-840B-847F679E25D1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:30:52.0010447Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Ruleset Exposure",
+    "itemPath": "/sitecore/system/Settings/Content Testing/Report Queries/Ruleset Exposure",
+    "template": "ReportQuery",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

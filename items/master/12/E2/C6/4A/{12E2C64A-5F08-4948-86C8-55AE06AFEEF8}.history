@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{12E2C64A-5F08-4948-86C8-55AE06AFEEF8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:31:58.0214384Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "MaxValue",
+    "itemPath": "/sitecore/templates/System/Analytics/Profile Key/Data/MaxValue",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

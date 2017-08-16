@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{534FD1CB-B90A-43A3-ABF1-F5621E7A178D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:31:10.5167138Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Condition in Rule is True",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/System/Condition in Rule is True",
+    "template": "Condition",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

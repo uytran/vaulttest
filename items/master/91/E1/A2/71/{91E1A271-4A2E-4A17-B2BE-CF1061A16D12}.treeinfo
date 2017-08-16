@@ -1,0 +1,9 @@
+{
+  "itemName": "Packages",
+  "templateId": "{239F9CF4-E5A0-44E0-B342-0F32CD4C6D8B}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{4BF98EF5-1D09-4DD1-9AFE-795F9829FD44}",
+  "childIds": [
+    "{22A11D20-5F1D-4216-BF3F-18C016F1F98E}"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "itemName": "Proxies",
+  "templateId": "{A87A00B1-E6DB-45AB-8B54-636FEC3B5523}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{087E1EA5-6280-4575-9E70-85B588DB91B2}",
+  "childIds": [
+    "{1EAE2BB8-F01C-44F9-9877-6431C7DD7C9E}"
+  ]
+}

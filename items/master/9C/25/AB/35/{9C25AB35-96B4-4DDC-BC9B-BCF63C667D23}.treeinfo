@@ -1,0 +1,9 @@
+{
+  "itemName": "Renderings",
+  "templateId": "{239F9CF4-E5A0-44E0-B342-0F32CD4C6D8B}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{F32BE1E8-A933-43EA-9265-0540FD6BB916}",
+  "childIds": [
+    "{2C350490-76CA-411A-B178-45B9C264A836}"
+  ]
+}

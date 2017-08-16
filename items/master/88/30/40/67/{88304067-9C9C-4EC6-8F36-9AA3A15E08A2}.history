@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{88304067-9C9C-4EC6-8F36-9AA3A15E08A2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:30:24.4167911Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Chad",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Chad",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

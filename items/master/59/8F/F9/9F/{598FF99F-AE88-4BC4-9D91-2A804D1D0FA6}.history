@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{598FF99F-AE88-4BC4-9D91-2A804D1D0FA6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:30:36.8081283Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Item Bounced",
+    "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Item Bounced",
+    "template": "ReportQuery",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

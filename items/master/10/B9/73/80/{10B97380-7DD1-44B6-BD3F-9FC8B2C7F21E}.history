@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{10B97380-7DD1-44B6-BD3F-9FC8B2C7F21E}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-08-16T16:32:34.2098656Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Make",
+    "itemPath": "/sitecore/templates/System/Media/Versioned/Jpeg/Exif/Make",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

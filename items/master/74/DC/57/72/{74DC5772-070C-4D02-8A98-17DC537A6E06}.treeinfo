@@ -1,0 +1,10 @@
+{
+  "itemName": "Device Detection",
+  "templateId": "{DDA66314-03F3-4C89-84A9-39DFFB235B06}",
+  "branchId": "{BDC41FDD-A3AC-4B69-A0BA-471C425CB083}",
+  "parentId": "{1057C235-C5C0-4EB7-8F77-EA51EB9E20EE}",
+  "childIds": [
+    "{C77B45A4-E3E8-445D-970B-FB4A386CD873}",
+    "{55E9445F-DDF1-4267-BFC4-EBADFAC522FB}"
+  ]
+}

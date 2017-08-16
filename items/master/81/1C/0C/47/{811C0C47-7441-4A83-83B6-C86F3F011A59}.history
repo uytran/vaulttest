@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{811C0C47-7441-4A83-83B6-C86F3F011A59}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:32:12.6437119Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Filter on drop",
+    "itemPath": "/sitecore/templates/System/Html editor/HTML Tidy/Data/Filter on drop",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

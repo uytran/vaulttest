@@ -1,0 +1,10 @@
+{
+  "itemName": "Base Login Button Parameters",
+  "templateId": "{AB86861A-6030-46C5-B394-E8F99E8B87DB}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{57B5B065-493A-4303-997E-DC8D1277A72E}",
+  "childIds": [
+    "{636A6DCF-1D62-4326-9BF7-EE43CB13F584}",
+    "{B831EBEA-892F-412B-AFD4-83B0EB4F9F76}"
+  ]
+}

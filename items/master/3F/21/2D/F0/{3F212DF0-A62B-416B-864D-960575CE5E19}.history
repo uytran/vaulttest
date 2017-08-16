@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3F212DF0-A62B-416B-864D-960575CE5E19}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:30:55.1944350Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Predefined Rules",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Predefined Rules",
+    "template": "Element Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

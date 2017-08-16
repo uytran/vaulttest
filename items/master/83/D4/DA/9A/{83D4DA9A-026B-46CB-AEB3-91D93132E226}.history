@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{83D4DA9A-026B-46CB-AEB3-91D93132E226}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:30:19.1751571Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Preset Types",
+    "itemPath": "/sitecore/system/Settings/Analytics/Preset Types",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "itemName": "OnsiteBehaviour",
+  "templateId": "{A87A00B1-E6DB-45AB-8B54-636FEC3B5523}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{F99DC233-E326-407E-A3A9-36956B5F5CA2}",
+  "childIds": [
+    "{9D6AD28E-1618-46A1-A6DB-9F759445EFC5}"
+  ]
+}

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C0CAF698-8A42-4B66-9EAF-7D442B46F722}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:31:42.7188431Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Segmented List",
+    "itemPath": "/sitecore/templates/List Manager/Segmented List",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

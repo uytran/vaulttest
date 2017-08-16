@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7762E82D-9E2C-48F0-8B50-D6477113ABC0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:30:40.6516884Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
+    "workflowStateName": "Deployed",
+    "activeUser": "sitecore\\admin",
+    "itemName": "925 - Bot - Auto Detected",
+    "itemPath": "/sitecore/system/Settings/Analytics/Visitor Identifications/925 - Bot - Auto Detected",
+    "template": "Visitor Identification",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

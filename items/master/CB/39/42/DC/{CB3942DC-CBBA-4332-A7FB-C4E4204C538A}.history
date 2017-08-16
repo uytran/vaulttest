@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{CB3942DC-CBBA-4332-A7FB-C4E4204C538A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:31:44.6718878Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Proxy",
+    "itemPath": "/sitecore/templates/System/Proxy",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

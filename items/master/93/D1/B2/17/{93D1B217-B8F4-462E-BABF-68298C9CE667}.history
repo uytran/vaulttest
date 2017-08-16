@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{93D1B217-B8F4-462E-BABF-68298C9CE667}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:32:58.8298926Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Boost",
+    "itemPath": "/sitecore/templates/System/Templates/Sections/Indexing/Indexing/__Boost",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

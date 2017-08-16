@@ -1,0 +1,10 @@
+{
+  "itemName": "Winner found",
+  "templateId": "{349CDA24-CAB7-4991-BA2E-86116017995C}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{3CF6A4D2-3C30-4410-8EEE-F8D3FACE6FB6}",
+  "childIds": [
+    "{ACB1014B-213C-4BDF-9D92-E91F61C465FD}",
+    "{9D22AD6A-3205-452C-973F-3445BE123A2C}"
+  ]
+}

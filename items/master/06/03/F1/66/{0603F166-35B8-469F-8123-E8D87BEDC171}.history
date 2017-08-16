@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0603F166-35B8-469F-8123-E8D87BEDC171}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:32:29.4119723Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Pdf",
+    "itemPath": "/sitecore/templates/System/Media/Unversioned/Pdf",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

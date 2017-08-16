@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{77514661-2275-475F-9957-3B19EFA3F8B2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:31:27.0630959Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Rules Categories",
+    "itemPath": "/sitecore/system/Settings/Rules/Insert Options/Rules/Rules Categories",
+    "template": "Insert Options Rule",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

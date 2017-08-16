@@ -1,0 +1,10 @@
+{
+  "itemName": "Item Buckets Settings",
+  "templateId": "{AB86861A-6030-46C5-B394-E8F99E8B87DB}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{AB323CEF-9997-47D7-A070-CDC1177D82BD}",
+  "childIds": [
+    "{91DADC0A-9D8F-490C-B6CE-882D7597D060}",
+    "{5A326657-340F-4F08-95CD-9BB314CBE561}"
+  ]
+}

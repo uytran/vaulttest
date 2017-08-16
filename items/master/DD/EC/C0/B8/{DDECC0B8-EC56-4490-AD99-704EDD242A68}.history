@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DDECC0B8-EC56-4490-AD99-704EDD242A68}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:32:09.2904232Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Education",
+    "itemPath": "/sitecore/templates/System/Experience Explorer/Preset Persona/Data/Education",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

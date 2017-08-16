@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{58F3132C-6C6B-416D-BCCC-527CA1ED33D0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:30:51.7793840Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Personalization Visits By Range",
+    "itemPath": "/sitecore/system/Settings/Content Testing/Report Queries/Personalization Visits By Range",
+    "template": "ReportQuery",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

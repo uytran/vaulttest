@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{AAF72F7B-EC98-4545-87EC-750149572F3C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:31:55.1392081Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Ignore Additional Registrations",
+    "itemPath": "/sitecore/templates/System/Analytics/Outcome/Outcome Definition/Data/Ignore Additional Registrations",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

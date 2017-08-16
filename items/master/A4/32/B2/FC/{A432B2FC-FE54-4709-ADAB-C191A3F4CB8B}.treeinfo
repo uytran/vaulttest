@@ -1,0 +1,9 @@
+{
+  "itemName": "Actions",
+  "templateId": "{A87A00B1-E6DB-45AB-8B54-636FEC3B5523}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{B88A6313-4028-4F0C-A0F6-14682EC1C24C}",
+  "childIds": [
+    "{CC6ACEFF-0D76-475B-B956-056D75ACDBE3}"
+  ]
+}

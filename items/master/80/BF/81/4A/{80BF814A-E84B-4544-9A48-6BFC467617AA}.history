@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{80BF814A-E84B-4544-9A48-6BFC467617AA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:30:39.3855732Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "MongoDb",
+    "itemPath": "/sitecore/system/Settings/Analytics/Vendor Specific Filters/MongoDb",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

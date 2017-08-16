@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9D20BC0A-E391-41C8-9724-3A9E41222A76}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:29:59.3711272Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
+    "workflowStateName": "Deployed",
+    "activeUser": "sitecore\\admin",
+    "itemName": "LinkedIn Share Buttons",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Campaigns/Social/LinkedIn/LinkedIn Share Buttons",
+    "template": "Campaign",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

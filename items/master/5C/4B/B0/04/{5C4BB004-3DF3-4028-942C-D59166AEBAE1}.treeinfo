@@ -1,0 +1,9 @@
+{
+  "itemName": "System",
+  "templateId": "{E269FBB5-3750-427A-9149-7AA950B49301}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{45FB02E9-70B3-4CFE-8050-06EAD4B5DB3E}",
+  "childIds": [
+    "{C25E3617-CA6F-4DFC-A02E-B4EA0E083D70}"
+  ]
+}

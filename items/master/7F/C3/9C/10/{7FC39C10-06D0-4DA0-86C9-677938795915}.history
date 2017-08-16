@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7FC39C10-06D0-4DA0-86C9-677938795915}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:31:32.6379526Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "TreeListEx",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Field Types/TreeListEx",
+    "template": "Field Type Validation Rules",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

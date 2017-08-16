@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{CD72E892-D8BB-487C-9EB1-6A57C48C72CC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:32:07.1167121Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Fallback Domain",
+    "itemPath": "/sitecore/templates/System/Dictionary/Dictionary Domain/Data/Fallback Domain",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

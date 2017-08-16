@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3EE96089-0E29-4B91-BE3C-34468952F39C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:30:54.5924603Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ElementGroups",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/ElementGroups",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

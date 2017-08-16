@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1F1D1B39-DB89-47CA-B7D9-20E51E73EEBC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:29:52.2188665Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Asset facet 1",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Asset facet 1",
+    "template": "Custom taxonomy",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

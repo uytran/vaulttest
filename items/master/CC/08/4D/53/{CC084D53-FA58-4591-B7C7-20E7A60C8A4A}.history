@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{CC084D53-FA58-4591-B7C7-20E7A60C8A4A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:32:16.6937727Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Display Text",
+    "itemPath": "/sitecore/templates/System/Item Buckets/Field Search Type/Search Type/Display Text",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

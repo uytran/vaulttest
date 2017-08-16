@@ -1,0 +1,10 @@
+{
+  "itemName": "Remove Tests Action",
+  "templateId": "{AB86861A-6030-46C5-B394-E8F99E8B87DB}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{44E8128F-E77E-4A15-8E30-21060D00D9AD}",
+  "childIds": [
+    "{B54F22AA-57D2-40F5-BBD0-14210C2F6A80}",
+    "{F8AAE0EC-76D0-4147-BB9F-D8301B612D96}"
+  ]
+}

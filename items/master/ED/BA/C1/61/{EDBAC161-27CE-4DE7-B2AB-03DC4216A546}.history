@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{EDBAC161-27CE-4DE7-B2AB-03DC4216A546}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:30:51.3223404Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Clustering Data By Test Id",
+    "itemPath": "/sitecore/system/Settings/Content Testing/Report Queries/Clustering Data By Test Id",
+    "template": "ReportQuery",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{24F4E908-7A2D-41AE-9AF5-B32B67BAD822}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:30:27.0145383Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Gibraltar",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Gibraltar",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

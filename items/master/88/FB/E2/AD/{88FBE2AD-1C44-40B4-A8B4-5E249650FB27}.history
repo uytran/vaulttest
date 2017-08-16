@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{88FBE2AD-1C44-40B4-A8B4-5E249650FB27}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:32:36.2888061Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "BaseMap",
+    "itemPath": "/sitecore/templates/System/Path Analyzer/BaseMap",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "itemName": "Schedule",
+  "templateId": "{AB86861A-6030-46C5-B394-E8F99E8B87DB}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{02913E3C-F594-4D97-A422-FED7176DC979}",
+  "childIds": [
+    "{81F4896F-38C2-4A26-AC7A-7009BFE0259B}"
+  ]
+}

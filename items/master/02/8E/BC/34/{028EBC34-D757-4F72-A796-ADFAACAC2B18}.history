@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{028EBC34-D757-4F72-A796-ADFAACAC2B18}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:31:41.3267241Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Direct",
+    "itemPath": "/sitecore/templates/Branches/System/Path Analyzer/Site map group/$name/Channel maps/Direct",
+    "template": "ChannelMap",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

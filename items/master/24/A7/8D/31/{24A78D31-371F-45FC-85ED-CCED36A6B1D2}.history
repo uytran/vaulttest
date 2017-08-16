@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{24A78D31-371F-45FC-85ED-CCED36A6B1D2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:30:53.6414460Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Entire sub-tree",
+    "itemPath": "/sitecore/system/Settings/Proxies/Proxy type/Entire sub-tree",
+    "template": "Item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

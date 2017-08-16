@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A90DDC8A-5D63-42B0-854E-131EB6E0FA6F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:31:46.9217971Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Vendor Specific Filter",
+    "itemPath": "/sitecore/templates/System/Analytics/Vendor Specific Filter",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

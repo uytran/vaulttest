@@ -1,0 +1,9 @@
+{
+  "itemName": "Conditions",
+  "templateId": "{A87A00B1-E6DB-45AB-8B54-636FEC3B5523}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{94CB6CF2-27D2-4D74-B305-8EE247D91EC4}",
+  "childIds": [
+    "{CA0484C2-C0DF-411B-A24A-D1CB81C369A0}"
+  ]
+}

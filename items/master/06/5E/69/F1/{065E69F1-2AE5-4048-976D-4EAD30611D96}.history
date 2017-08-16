@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{065E69F1-2AE5-4048-976D-4EAD30611D96}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:30:29.7472637Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Marshall Islands",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Marshall Islands",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

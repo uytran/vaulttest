@@ -1,0 +1,9 @@
+{
+  "itemName": "Deploy",
+  "templateId": "{CB01F9FC-C187-46B3-AB0B-97A8468D8303}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{6AD8191F-2FAD-4668-8C5F-79BD6FAC681C}",
+  "childIds": [
+    "{BA23B76F-8071-45AB-886B-6A18551897D0}"
+  ]
+}

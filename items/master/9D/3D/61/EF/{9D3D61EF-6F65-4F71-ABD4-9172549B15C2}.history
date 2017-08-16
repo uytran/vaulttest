@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9D3D61EF-6F65-4F71-ABD4-9172549B15C2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:33:06.6668380Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Comment Dialog Height",
+    "itemPath": "/sitecore/templates/System/Workflow/Command/Data/Comment Dialog Height",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

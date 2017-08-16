@@ -1,0 +1,9 @@
+{
+  "itemName": "Mapping",
+  "templateId": "{E269FBB5-3750-427A-9149-7AA950B49301}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{A90DDC8A-5D63-42B0-854E-131EB6E0FA6F}",
+  "childIds": [
+    "{930AD1C7-B58B-4380-B448-378527DDF9B0}"
+  ]
+}

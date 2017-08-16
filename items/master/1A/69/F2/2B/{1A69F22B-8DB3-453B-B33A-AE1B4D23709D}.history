@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1A69F22B-8DB3-453B-B33A-AE1B4D23709D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:31:43.0045515Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ExcludedSources",
+    "itemPath": "/sitecore/templates/List Manager/Contact List/Data/ExcludedSources",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5FAC4B12-EE3B-44AF-B6B0-95A3C7EDE9B1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:32:12.5331345Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Clean on paste",
+    "itemPath": "/sitecore/templates/System/Html editor/HTML Tidy/Data/Clean on paste",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

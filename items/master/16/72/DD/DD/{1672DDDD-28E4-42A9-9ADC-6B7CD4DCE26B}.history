@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1672DDDD-28E4-42A9-9ADC-6B7CD4DCE26B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:31:57.3557192Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "DayOfMyLive",
+    "itemPath": "/sitecore/templates/System/Analytics/Profile Card - Persona/Data/DayOfMyLive",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

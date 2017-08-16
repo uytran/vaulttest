@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8A3AC1B8-8CC1-4DD4-8766-9803F1601741}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:32:16.0117118Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Minimum Number of Items",
+    "itemPath": "/sitecore/templates/System/Item Buckets/Facet/Facet/Minimum Number of Items",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

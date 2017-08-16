@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9EB73C4C-1AF7-47C7-85B8-93E08176D4D2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:29:40.9877775Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Sample Datasource Sublayout",
+    "itemPath": "/sitecore/layout/Sublayouts/Sample Datasource Sublayout",
+    "template": "Sublayout",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "itemName": "Command Template",
+  "templateId": "{35E75C72-4985-4E09-88C3-0EAC6CD1E64F}",
+  "branchId": "{AC90A0F0-6618-485B-B03D-64D3E7500D01}",
+  "parentId": "{85A67715-F25A-441F-AFEF-D5BB7F1A3519}",
+  "childIds": [
+    "{3E3F4A4D-CE26-42FC-9AC0-F1011CB198ED}"
+  ]
+}

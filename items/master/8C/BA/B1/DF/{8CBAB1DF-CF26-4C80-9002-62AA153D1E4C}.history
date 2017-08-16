@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8CBAB1DF-CF26-4C80-9002-62AA153D1E4C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:31:45.5749775Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Linked item",
+    "itemPath": "/sitecore/templates/System/Alias/Data/Linked item",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

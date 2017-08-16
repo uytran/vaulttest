@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F4830B80-1BB1-4746-89C7-96EFE40DA572}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:30:05.7569448Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
+    "workflowStateName": "Deployed",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Close - Cancelled",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Outcomes/Close - Cancelled",
+    "template": "Outcome Definition",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

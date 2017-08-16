@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{02C8CEAE-B153-4D5F-BA44-B30F365DF5E3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:31:30.1833160Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Valid Bucket Query",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Field Rules/Valid Bucket Query",
+    "template": "Validation Rule",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

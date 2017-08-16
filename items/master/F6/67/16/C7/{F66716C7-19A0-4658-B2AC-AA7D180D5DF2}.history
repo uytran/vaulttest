@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F66716C7-19A0-4658-B2AC-AA7D180D5DF2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:31:46.2343842Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Funnel",
+    "itemPath": "/sitecore/templates/System/Analytics/Funnel",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

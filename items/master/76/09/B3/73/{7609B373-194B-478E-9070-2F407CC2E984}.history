@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7609B373-194B-478E-9070-2F407CC2E984}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:29:44.0635726Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Jimmie 128x128",
+    "itemPath": "/sitecore/media library/Experience Explorer/Presets/Jimmie 128x128",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

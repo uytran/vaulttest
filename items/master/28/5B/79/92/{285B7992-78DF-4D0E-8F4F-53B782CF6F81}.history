@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{285B7992-78DF-4D0E-8F4F-53B782CF6F81}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:33:03.1871598Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Ignore Dictionary Translations",
+    "itemPath": "/sitecore/templates/System/Templates/Template field/Data/Ignore Dictionary Translations",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

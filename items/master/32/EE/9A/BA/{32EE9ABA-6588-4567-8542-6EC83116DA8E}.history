@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{32EE9ABA-6588-4567-8542-6EC83116DA8E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:32:09.3970319Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "DayOfMyLive",
+    "itemPath": "/sitecore/templates/System/Experience Explorer/Preset Persona/Data/DayOfMyLive",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

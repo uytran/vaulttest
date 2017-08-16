@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{85B7F5D9-6F3A-4AD1-B218-D9FBE1DF8BB3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:32:18.7742421Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Layout group",
+    "itemPath": "/sitecore/templates/System/Layout/Layout group",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

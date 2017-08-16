@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4C9DC598-B43A-4B65-8425-BF2C4A9D132E}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-08-16T16:32:44.8320859Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Contextual Header",
+    "itemPath": "/sitecore/templates/System/Ribbon/Strip/Data/Contextual Header",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

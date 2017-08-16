@@ -1,0 +1,9 @@
+{
+  "itemName": "Classification",
+  "templateId": "{E269FBB5-3750-427A-9149-7AA950B49301}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{888CA064-2698-48A6-91A2-08F7F30AAD6C}",
+  "childIds": [
+    "{6AE27532-BAC3-42C3-B91F-B4F1F20711C0}"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "itemName": "Details",
+  "templateId": "{E269FBB5-3750-427A-9149-7AA950B49301}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{AEC7D5B1-CE97-46CA-8E52-B3BC8031BD86}",
+  "childIds": [
+    "{CF80D1C3-F889-46DF-9BF8-D593B17C284D}"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "itemName": "Small Button",
+  "templateId": "{AB86861A-6030-46C5-B394-E8F99E8B87DB}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{B37C44BB-AB02-4DB1-AC5B-E0A28D47184F}",
+  "childIds": [
+    "{80D607C2-A9A3-431C-9150-80F18E3237E9}"
+  ]
+}

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8E191C24-3A24-4F67-84CE-AFD3E6F3CE7D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:30:37.6852516Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Top External Keywords",
+    "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Top External Keywords",
+    "template": "ReportQuery",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

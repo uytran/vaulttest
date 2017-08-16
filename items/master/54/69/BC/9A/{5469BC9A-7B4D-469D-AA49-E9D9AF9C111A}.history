@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5469BC9A-7B4D-469D-AA49-E9D9AF9C111A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:30:23.7036653Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Botswana",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Botswana",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "itemName": "List Manager",
+  "templateId": "{A87A00B1-E6DB-45AB-8B54-636FEC3B5523}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{13D6D6C6-C50B-4BBD-B331-2B04F1A58F21}",
+  "childIds": [
+    "{BC799B34-8423-48AC-A2FE-D128E6300659}"
+  ]
+}

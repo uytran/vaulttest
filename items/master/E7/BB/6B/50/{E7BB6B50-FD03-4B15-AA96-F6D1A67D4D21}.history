@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E7BB6B50-FD03-4B15-AA96-F6D1A67D4D21}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:31:26.5066057Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Engagement Plans",
+    "itemPath": "/sitecore/system/Settings/Rules/Insert Options/Rules/Engagement Plans",
+    "template": "Insert Options Rule",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

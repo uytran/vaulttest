@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{160B90C2-4011-4E89-9C5E-C617DDFBC8C7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:32:19.4696302Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Fallback device",
+    "itemPath": "/sitecore/templates/System/Layout/Device/Data/Fallback device",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

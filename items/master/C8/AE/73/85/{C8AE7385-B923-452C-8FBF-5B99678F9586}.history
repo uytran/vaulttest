@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C8AE7385-B923-452C-8FBF-5B99678F9586}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:30:49.4017954Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Close All But This",
+    "itemPath": "/sitecore/system/Settings/Buckets/Tab Options/Close All But This",
+    "template": "Tab Option",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

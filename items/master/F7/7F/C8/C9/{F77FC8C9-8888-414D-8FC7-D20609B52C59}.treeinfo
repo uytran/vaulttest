@@ -1,0 +1,10 @@
+{
+  "itemName": "Account Folder",
+  "templateId": "{AB86861A-6030-46C5-B394-E8F99E8B87DB}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{35DBDCF5-0849-4FDA-B8C5-172F69BFE98B}",
+  "childIds": [
+    "{9BB65C41-E291-488E-8349-4272F372268C}",
+    "{4A124949-CB3E-451A-9B59-1342C1E98AE1}"
+  ]
+}

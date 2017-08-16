@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C42199F1-21A1-4993-BAC6-C4FC771B3081}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:32:26.4429413Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Place Holders",
+    "itemPath": "/sitecore/templates/System/Layout/Renderings/View rendering/Designer Options/Place Holders",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

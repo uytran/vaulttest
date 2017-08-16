@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{18070625-17AD-41C1-AE40-D968B03005DA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:33:07.4176452Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Warning",
+    "itemPath": "/sitecore/templates/System/Workflow/Validation Action/Data/Warning",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

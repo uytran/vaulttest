@@ -1,0 +1,9 @@
+{
+  "itemName": "ElementGroups",
+  "templateId": "{A87A00B1-E6DB-45AB-8B54-636FEC3B5523}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{F222940D-920D-476A-BE82-CC950449DC3A}",
+  "childIds": [
+    "{F4D9EED5-8B5B-4289-BFA0-EA33F14E88CA}"
+  ]
+}

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D25F687D-F5B8-4D74-944A-E8CDBF49AA21}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:29:41.2064138Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "UserViewer",
+    "itemPath": "/sitecore/layout/Sublayouts/ExperienceExplorer/UserViewer",
+    "template": "Sublayout",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

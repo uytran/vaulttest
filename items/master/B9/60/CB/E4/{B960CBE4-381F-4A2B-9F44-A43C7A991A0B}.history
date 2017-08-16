@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B960CBE4-381F-4A2B-9F44-A43C7A991A0B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:32:09.6467811Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "RSS Feed",
+    "itemPath": "/sitecore/templates/System/Feeds/RSS Feed",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6BF5ED07-BC70-42F4-BB77-C017D340950E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:33:03.5116263Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Assembly",
+    "itemPath": "/sitecore/templates/System/Templates/Template field type/Data/Assembly",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

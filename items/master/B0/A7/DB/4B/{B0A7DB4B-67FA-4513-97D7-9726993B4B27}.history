@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B0A7DB4B-67FA-4513-97D7-9726993B4B27}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:31:50.9760166Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Hidden",
+    "itemPath": "/sitecore/templates/System/Analytics/Campaign/Options/Hidden",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{CCBCD570-DD4A-4152-94CD-C42B4B6EE602}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:30:47.2489487Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Reset Fields",
+    "itemPath": "/sitecore/system/Settings/Buckets/Settings/Quick Actions/Reset Fields",
+    "template": "Quick Action",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,10 @@
+{
+  "itemName": "Facebook Message",
+  "templateId": "{AB86861A-6030-46C5-B394-E8F99E8B87DB}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{D28022BC-8F46-4FC2-B167-D46742CE4B8F}",
+  "childIds": [
+    "{67FA88F1-336B-4A09-A62B-AC1EE6F13273}",
+    "{3B4AAAC3-D985-4315-A2DA-3FBFAC27C336}"
+  ]
+}

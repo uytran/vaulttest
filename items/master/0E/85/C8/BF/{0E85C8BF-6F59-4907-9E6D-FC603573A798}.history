@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0E85C8BF-6F59-4907-9E6D-FC603573A798}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:30:43.6093243Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Author Template",
+    "itemPath": "/sitecore/system/Settings/Buckets/Facets/Author Template",
+    "template": "Facet",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

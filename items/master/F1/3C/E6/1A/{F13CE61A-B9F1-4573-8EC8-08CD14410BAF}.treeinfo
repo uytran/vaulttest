@@ -1,0 +1,9 @@
+{
+  "itemName": "Channel type",
+  "templateId": "{AB86861A-6030-46C5-B394-E8F99E8B87DB}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{187E23CE-2084-4665-9AE5-1AA078CACA19}",
+  "childIds": [
+    "{376B1B1E-95E1-46E8-A7CF-7B9BBD7A7B47}"
+  ]
+}

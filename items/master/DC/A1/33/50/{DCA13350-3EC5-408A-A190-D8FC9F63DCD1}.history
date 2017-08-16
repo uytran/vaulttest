@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DCA13350-3EC5-408A-A190-D8FC9F63DCD1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:33:03.4191054Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Is Displayed in Search Results",
+    "itemPath": "/sitecore/templates/System/Templates/Template field/Search Results/Is Displayed in Search Results",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3B180F4A-C1BA-4F3B-A1DB-ED325677D262}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:30:51.4906081Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "MV Test Details By Test Id",
+    "itemPath": "/sitecore/system/Settings/Content Testing/Report Queries/MV Test Details By Test Id",
+    "template": "ReportQuery",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

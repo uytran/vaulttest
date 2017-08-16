@@ -1,0 +1,9 @@
+{
+  "itemName": "No Spaces",
+  "templateId": "{8F8E2549-C77F-4860-B83B-54FA31E2BEFA}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{A9475C23-C5E7-4D4A-A9FA-83EBFAB4BEEE}",
+  "childIds": [
+    "{66FF1081-DB84-47F1-99AA-9AAC398247E9}"
+  ]
+}

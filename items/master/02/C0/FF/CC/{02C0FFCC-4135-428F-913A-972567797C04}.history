@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{02C0FFCC-4135-428F-913A-972567797C04}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:32:52.1104856Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Public API Key",
+    "itemPath": "/sitecore/templates/System/Social/Application/Data/Public API Key",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,10 @@
+{
+  "itemName": "Android Phablet",
+  "templateId": "{642F544C-E1E6-491E-93A4-8E9353079DBE}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{39522E9A-9B6E-4CB4-850C-23D0D3ADFD0C}",
+  "childIds": [
+    "{1875D4AC-A81F-4558-B26A-D61D96F80C9C}",
+    "{A6D17A1A-EBD4-4420-A7AD-46AEED770D7F}"
+  ]
+}

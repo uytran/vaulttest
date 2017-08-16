@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D46F5771-1662-4CFF-9684-804C35DDEA3C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:31:29.8487975Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "External",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Field Rules/External",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

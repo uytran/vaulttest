@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{55B73DC1-10BD-41C2-9D2A-329170C8D633}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:30:33.5292183Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "United Arab Emirates",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/United Arab Emirates",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DBC60382-0FED-4B55-8EAE-178F9099BD75}",
+    "version": 3,
+    "language": "en",
+    "timestamp": "2017-08-16T16:32:40.9222146Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Tool Button",
+    "itemPath": "/sitecore/templates/System/Ribbon/Tool Button",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

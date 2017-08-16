@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{205D2427-99AE-4012-8200-011745C48D30}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:32:51.6663461Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "AccessTokenSecret",
+    "itemPath": "/sitecore/templates/System/Social/Account/Network Account/Data/AccessTokenSecret",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B9C92DB0-1EA4-4816-B83A-6B163E1660DE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:32:28.0978788Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "BaseSection",
+    "itemPath": "/sitecore/templates/System/Layout/Sections/BaseSection",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

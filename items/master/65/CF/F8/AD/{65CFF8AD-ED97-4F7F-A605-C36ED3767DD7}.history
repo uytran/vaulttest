@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{65CFF8AD-ED97-4F7F-A605-C36ED3767DD7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:31:41.2249002Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Login goal map reverse",
+    "itemPath": "/sitecore/templates/Branches/System/Path Analyzer/Site map group/$name/Goal maps/Login goal map reverse",
+    "template": "GoalMap",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

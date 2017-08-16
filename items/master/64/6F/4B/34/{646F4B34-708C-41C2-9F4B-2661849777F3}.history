@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{646F4B34-708C-41C2-9F4B-2661849777F3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:32:56.8816223Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Advanced",
+    "itemPath": "/sitecore/templates/System/Templates/Sections/Advanced",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

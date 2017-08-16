@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{843B2A3C-C798-4F07-88BD-6EE9479F1D1F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:32:49.6482508Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "RegionalIsoCode",
+    "itemPath": "/sitecore/templates/System/Security/User/Data/RegionalIsoCode",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

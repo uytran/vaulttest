@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2DE135D7-FB39-42B2-B10A-13CB4285E5C5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:30:36.1432741Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Multiple with Percentages",
+    "itemPath": "/sitecore/system/Settings/Analytics/Preset Types/Multiple with Percentages",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

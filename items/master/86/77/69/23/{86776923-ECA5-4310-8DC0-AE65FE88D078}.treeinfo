@@ -1,0 +1,10 @@
+{
+  "itemName": "Item rendering",
+  "templateId": "{AB86861A-6030-46C5-B394-E8F99E8B87DB}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{531BF4A2-C3B2-4EB9-89D0-FA30C82AB33B}",
+  "childIds": [
+    "{3BB82EF2-02F5-4114-8D61-BFBEF18B5B96}",
+    "{691BC0E5-3357-4DC3-8245-8EE3D37BBD98}"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "itemName": "Targets",
+  "templateId": "{E269FBB5-3750-427A-9149-7AA950B49301}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{AD783557-3277-4E30-960B-D0235BAE8A61}",
+  "childIds": [
+    "{3C36DA30-8346-4A96-BC02-CD1FDB7501FF}"
+  ]
+}

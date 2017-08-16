@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{EF89B9F9-F0EF-41B4-8311-E154C1C67AB5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:30:45.1593066Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "UpdatedBy",
+    "itemPath": "/sitecore/system/Settings/Buckets/Search Types/UpdatedBy",
+    "template": "Field Search Type",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

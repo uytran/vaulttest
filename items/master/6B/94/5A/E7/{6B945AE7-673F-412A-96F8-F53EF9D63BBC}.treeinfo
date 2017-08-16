@@ -1,0 +1,9 @@
+{
+  "itemName": "By entry page URL",
+  "templateId": "{82969FF1-15FA-4CDC-8CA4-5204A6ADD761}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{0BFB89B6-C751-4A99-9BA8-67F5C2E3DF53}",
+  "childIds": [
+    "{DF868B69-CB88-4179-A4FB-C222FF3AE64B}"
+  ]
+}

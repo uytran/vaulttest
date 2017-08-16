@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BA1B87AC-0853-45F0-AE13-41F969540134}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:29:51.2631398Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Test Lab",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Test Lab",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

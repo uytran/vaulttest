@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D5974D12-2F5A-43D8-B9FA-D1228879A486}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:30:31.7144956Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Saint Helena",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Saint Helena",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

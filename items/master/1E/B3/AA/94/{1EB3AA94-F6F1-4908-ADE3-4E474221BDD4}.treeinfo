@@ -1,0 +1,10 @@
+{
+  "itemName": "Telemarketing",
+  "templateId": "{3BA3D006-1648-4CC7-8D19-FFADFDC46D0F}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{3648772F-0CB9-4B90-9E65-A97B2C729008}",
+  "childIds": [
+    "{4E8B0725-D92F-406F-9528-D16E752A15DE}",
+    "{8D52BB4E-22CF-483D-BE62-760A372160CD}"
+  ]
+}

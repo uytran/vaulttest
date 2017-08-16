@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1EF01DF9-1D9F-409C-9DF4-3C9AE917FA98}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:31:32.3320578Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "General Link",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Field Types/General Link",
+    "template": "Field Type Validation Rules",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8C0F9980-5A09-4874-A96E-468C13853B3A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:32:04.3839974Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "TrackWithEngagement",
+    "itemPath": "/sitecore/templates/System/Content Testing/Test Definition/Data/TrackWithEngagement",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

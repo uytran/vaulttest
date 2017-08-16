@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B5166B38-E4BF-4410-953C-2037F2BF6A56}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:33:07.6380499Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Initial state",
+    "itemPath": "/sitecore/templates/System/Workflow/Workflow/Data/Initial state",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

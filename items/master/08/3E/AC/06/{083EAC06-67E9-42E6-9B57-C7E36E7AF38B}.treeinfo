@@ -1,0 +1,9 @@
+{
+  "itemName": "Social",
+  "templateId": "{E269FBB5-3750-427A-9149-7AA950B49301}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{CD4F79A4-33B7-406C-94E2-16AC8D26E5C0}",
+  "childIds": [
+    "{17A9F567-DC8A-4233-93E5-E3E6CE257535}"
+  ]
+}

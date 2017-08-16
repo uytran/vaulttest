@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3EAE27C7-591F-4CE7-A61C-D18BF3760904}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:30:49.4359979Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Close Tabs To Right",
+    "itemPath": "/sitecore/system/Settings/Buckets/Tab Options/Close Tabs To Right",
+    "template": "Tab Option",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

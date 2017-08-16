@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8728D8FF-66D9-40C2-8B34-C4FC1466942E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:32:18.2846216Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Encoding",
+    "itemPath": "/sitecore/templates/System/Language/Data/Encoding",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

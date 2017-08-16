@@ -1,0 +1,9 @@
+{
+  "itemName": "Archived item",
+  "templateId": "{AB86861A-6030-46C5-B394-E8F99E8B87DB}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{82CF4B07-CCDD-4DA3-9ACD-F5474D345372}",
+  "childIds": [
+    "{61FF15C9-CDC8-4492-A137-F2A7210F0DF2}"
+  ]
+}

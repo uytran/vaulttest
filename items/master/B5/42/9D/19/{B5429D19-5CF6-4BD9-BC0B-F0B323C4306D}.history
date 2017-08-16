@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B5429D19-5CF6-4BD9-BC0B-F0B323C4306D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:30:59.5515168Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Database Name",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Context/Database Name",
+    "template": "Condition",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

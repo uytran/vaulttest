@@ -1,0 +1,9 @@
+{
+  "itemName": "Email action",
+  "templateId": "{AB86861A-6030-46C5-B394-E8F99E8B87DB}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{6259FFD2-8226-4E31-96E7-64CD6B284A6D}",
+  "childIds": [
+    "{B399FE5D-5073-4D64-B00B-EC13CD625882}"
+  ]
+}

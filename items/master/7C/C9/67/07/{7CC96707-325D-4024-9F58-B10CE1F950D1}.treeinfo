@@ -1,0 +1,9 @@
+{
+  "itemName": "Campaign group",
+  "templateId": "{AB86861A-6030-46C5-B394-E8F99E8B87DB}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{F16382F0-E2C1-422F-86F7-A97C68206885}",
+  "childIds": [
+    "{2BB14DF3-2E29-4A7E-8398-6BF5193485AF}"
+  ]
+}

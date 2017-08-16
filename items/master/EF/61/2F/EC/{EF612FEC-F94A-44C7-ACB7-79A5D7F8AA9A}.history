@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{EF612FEC-F94A-44C7-ACB7-79A5D7F8AA9A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:32:10.9801511Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Cache Duration",
+    "itemPath": "/sitecore/templates/System/Feeds/RSS Feed/Caching/Cache Duration",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

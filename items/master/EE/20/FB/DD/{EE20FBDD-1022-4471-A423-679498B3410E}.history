@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{EE20FBDD-1022-4471-A423-679498B3410E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:31:14.3470903Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Profile Key Value",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Visitor/Profile Key Value",
+    "template": "Condition",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

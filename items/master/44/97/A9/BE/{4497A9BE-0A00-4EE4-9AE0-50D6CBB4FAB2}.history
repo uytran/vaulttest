@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4497A9BE-0A00-4EE4-9AE0-50D6CBB4FAB2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:29:50.9072939Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Engagement Plans",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Engagement Plans",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

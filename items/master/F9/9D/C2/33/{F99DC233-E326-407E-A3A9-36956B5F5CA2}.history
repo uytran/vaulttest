@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F99DC233-E326-407E-A3A9-36956B5F5CA2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:29:40.9556505Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ExperienceExplorer",
+    "itemPath": "/sitecore/layout/Sublayouts/ExperienceExplorer",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

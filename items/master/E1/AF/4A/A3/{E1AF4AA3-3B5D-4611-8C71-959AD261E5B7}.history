@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E1AF4AA3-3B5D-4611-8C71-959AD261E5B7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:29:40.1495493Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "FieldRenderer",
+    "itemPath": "/sitecore/layout/Renderings/System/FieldRenderer",
+    "template": "Webcontrol",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

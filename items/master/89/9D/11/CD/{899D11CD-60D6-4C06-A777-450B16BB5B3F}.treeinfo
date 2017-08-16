@@ -1,0 +1,9 @@
+{
+  "itemName": "MVC Layout",
+  "templateId": "{B2613CC1-A748-46A3-A0DB-3774574BD339}",
+  "branchId": "{F6B0E6F1-2451-4C72-94FD-22D7B93B592A}",
+  "parentId": "{BCD8EB24-4D10-4A47-ACF8-64F93A0F3740}",
+  "childIds": [
+    "{2F30B106-27FE-4C6D-9E10-189C60A5E5DC}"
+  ]
+}

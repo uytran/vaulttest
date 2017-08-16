@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3619F992-4177-4124-89DD-DABFC2BAF6BB}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-08-16T16:32:40.5609987Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Panel",
+    "itemPath": "/sitecore/templates/System/Ribbon/Panel",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

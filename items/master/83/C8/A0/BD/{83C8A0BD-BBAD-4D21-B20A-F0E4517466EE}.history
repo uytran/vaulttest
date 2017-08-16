@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{83C8A0BD-BBAD-4D21-B20A-F0E4517466EE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:31:35.8550935Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Cancelled",
+    "itemPath": "/sitecore/system/Workflows/Analytics Testing Workflow/Cancelled",
+    "template": "State",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

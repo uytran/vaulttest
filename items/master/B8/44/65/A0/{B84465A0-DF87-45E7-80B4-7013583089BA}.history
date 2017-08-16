@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B84465A0-DF87-45E7-80B4-7013583089BA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:29:49.4684472Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "iPad",
+    "itemPath": "/sitecore/media library/System/Simulator Backgrounds/iPad",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

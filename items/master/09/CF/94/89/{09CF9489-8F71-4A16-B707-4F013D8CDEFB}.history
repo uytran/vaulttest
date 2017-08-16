@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{09CF9489-8F71-4A16-B707-4F013D8CDEFB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:29:50.9718871Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Funnels",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Funnels",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

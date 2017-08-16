@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{86ED7BFC-F0F0-4199-9D32-AB60820E6A78}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:30:24.1605612Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Canada",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Canada",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

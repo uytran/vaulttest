@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9790D1F9-1F78-4B39-933D-46B08230F05F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:30:11.8502517Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Sandra",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Profiles/Persona/Sandra",
+    "template": "Profile Key",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

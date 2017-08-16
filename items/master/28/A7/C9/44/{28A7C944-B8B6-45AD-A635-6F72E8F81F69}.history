@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{28A7C944-B8B6-45AD-A635-6F72E8F81F69}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:29:58.5606362Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
+    "workflowStateName": "Deployed",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Instant Demo",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Goals/Instant Demo",
+    "template": "Goal",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3B825E23-4C26-4910-BF7B-1265D57048CB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:32:35.1991517Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Hotkey",
+    "itemPath": "/sitecore/templates/System/Menus/Menu item/Data/Hotkey",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

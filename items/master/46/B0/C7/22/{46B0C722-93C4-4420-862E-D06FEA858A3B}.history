@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{46B0C722-93C4-4420-862E-D06FEA858A3B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:31:41.5546280Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Referrals",
+    "itemPath": "/sitecore/templates/Branches/System/Path Analyzer/Site map group/$name/Channel maps/Referrals",
+    "template": "ChannelMap",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

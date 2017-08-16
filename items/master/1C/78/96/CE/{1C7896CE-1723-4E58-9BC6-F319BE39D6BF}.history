@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1C7896CE-1723-4E58-9BC6-F319BE39D6BF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:32:00.4118506Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Content Test Value",
+    "itemPath": "/sitecore/templates/System/Content Testing/Content Test Value",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

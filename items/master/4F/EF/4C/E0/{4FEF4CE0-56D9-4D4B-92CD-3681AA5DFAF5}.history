@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4FEF4CE0-56D9-4D4B-92CD-3681AA5DFAF5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:32:36.3235058Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "CampaignMap",
+    "itemPath": "/sitecore/templates/System/Path Analyzer/CampaignMap",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,10 @@
+{
+  "itemName": "Federated Experience Manager",
+  "templateId": "{0437FEE2-44C9-46A6-ABE9-28858D9FEE8C}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{645DF3D7-28AF-4984-90A2-AEA8913DF75A}",
+  "childIds": [
+    "{036DB470-1850-4848-A48A-0931F825B867}",
+    "{869D1B82-50FB-4CD0-B1BF-B2482C5FBA97}"
+  ]
+}

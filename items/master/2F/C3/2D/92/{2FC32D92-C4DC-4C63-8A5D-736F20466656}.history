@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2FC32D92-C4DC-4C63-8A5D-736F20466656}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:31:22.1354407Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Item Security",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Tags/Item Security",
+    "template": "Tag",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

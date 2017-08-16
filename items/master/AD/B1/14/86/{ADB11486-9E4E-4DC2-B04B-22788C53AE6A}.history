@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{ADB11486-9E4E-4DC2-B04B-22788C53AE6A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:30:53.6734989Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Root item only",
+    "itemPath": "/sitecore/system/Settings/Proxies/Proxy type/Root item only",
+    "template": "Item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

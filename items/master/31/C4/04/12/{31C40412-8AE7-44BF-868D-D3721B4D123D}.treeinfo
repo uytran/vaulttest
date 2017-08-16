@@ -1,0 +1,9 @@
+{
+  "itemName": "Site map group",
+  "templateId": "{35E75C72-4985-4E09-88C3-0EAC6CD1E64F}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{A3B53BA5-49A3-49BC-BF9C-FEF620C48CEA}",
+  "childIds": [
+    "{F3CD0053-B3F0-41A9-8ABA-8C0265093854}"
+  ]
+}

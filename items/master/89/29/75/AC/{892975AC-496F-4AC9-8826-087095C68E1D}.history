@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{892975AC-496F-4AC9-8826-087095C68E1D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:32:18.3399272Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Fallback Language",
+    "itemPath": "/sitecore/templates/System/Language/Data/Fallback Language",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

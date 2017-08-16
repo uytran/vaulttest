@@ -1,0 +1,10 @@
+{
+  "itemName": "Analytics Workflow",
+  "templateId": "{1C0ACC50-37BE-4742-B43C-96A07A7410A5}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{05592656-56D7-4D85-AACF-30919EE494F9}",
+  "childIds": [
+    "{39156DC0-21C6-4F64-B641-31E85C8F5DFE}",
+    "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}"
+  ]
+}

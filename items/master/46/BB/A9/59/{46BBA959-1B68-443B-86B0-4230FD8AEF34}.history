@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{46BBA959-1B68-443B-86B0-4230FD8AEF34}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:32:02.8611673Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Replacement Component",
+    "itemPath": "/sitecore/templates/System/Content Testing/Multivariate Test Value/Data/Replacement Component",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

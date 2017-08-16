@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7F996007-3DFE-4792-8628-C98DE3B0F20D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:31:31.6513281Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Type and Assembly",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Field Rules/System/Type and Assembly",
+    "template": "Validation Rule",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6957BBEF-2031-499E-9DDC-4CEAEAC3D1E1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:31:31.6884252Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Unique Placeholder Key",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Field Rules/System/Unique Placeholder Key",
+    "template": "Validation Rule",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

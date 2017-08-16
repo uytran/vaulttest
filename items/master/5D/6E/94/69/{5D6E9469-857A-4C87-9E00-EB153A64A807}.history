@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5D6E9469-857A-4C87-9E00-EB153A64A807}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:30:33.9434510Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Virgin Islands British",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Virgin Islands British",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

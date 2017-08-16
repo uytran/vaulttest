@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DC5E0128-CC07-40AC-A7DD-50334A801A47}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:29:45.0528735Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ch-3rd-party",
+    "itemPath": "/sitecore/media library/System/Channel Images/ch-3rd-party",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

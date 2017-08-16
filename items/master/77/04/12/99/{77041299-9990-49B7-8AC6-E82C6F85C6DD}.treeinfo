@@ -1,0 +1,9 @@
+{
+  "itemName": "Campaign Site Search",
+  "templateId": "{F960E028-5373-48BF-B3B3-9B23FE13C0C4}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{5EDD5CDF-B339-4B7C-95A2-B436402F385E}",
+  "childIds": [
+    "{E63F8B15-3FCA-4F66-B55E-07EF7CE18C3C}"
+  ]
+}

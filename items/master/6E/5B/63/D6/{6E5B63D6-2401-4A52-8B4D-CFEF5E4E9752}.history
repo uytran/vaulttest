@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6E5B63D6-2401-4A52-8B4D-CFEF5E4E9752}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:31:51.4333825Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Engagement Plan",
+    "itemPath": "/sitecore/templates/System/Analytics/Engagement Automation/Engagement Plan",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

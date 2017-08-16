@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B7DA705D-BD91-4DB0-A0AD-A9A05FE6F4AA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:31:31.3052205Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Image Size",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Field Rules/System/Image Size",
+    "template": "Validation Rule",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

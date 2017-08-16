@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6D975C4D-5B4C-481F-A5F6-D1DECD191740}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:31:31.0790596Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Extension May Not Start with a Dot",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Field Rules/System/Extension May Not Start with a Dot",
+    "template": "Validation Rule",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

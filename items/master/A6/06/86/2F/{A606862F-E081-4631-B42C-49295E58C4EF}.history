@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A606862F-E081-4631-B42C-49295E58C4EF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:30:38.5940376Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Session Begin",
+    "itemPath": "/sitecore/system/Settings/Analytics/Rules/Session Begin",
+    "template": "Rules Context Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

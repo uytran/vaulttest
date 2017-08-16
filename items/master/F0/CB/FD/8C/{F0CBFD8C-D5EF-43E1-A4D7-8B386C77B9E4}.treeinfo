@@ -1,0 +1,9 @@
+{
+  "itemName": "Child Sorting",
+  "templateId": "{AB86861A-6030-46C5-B394-E8F99E8B87DB}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{4BF98EF5-1D09-4DD1-9AFE-795F9829FD44}",
+  "childIds": [
+    "{BD06D3A6-C40D-482F-8D34-8EF4FC205D84}"
+  ]
+}

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2D6AEC6C-7AC8-49C7-A2AC-81AF3EF60CC9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:31:31.1579761Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "File Exists",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Field Rules/System/File Exists",
+    "template": "Validation Rule",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

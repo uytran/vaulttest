@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{618DA108-0F8B-44D6-9384-C3E0B29B8878}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:29:42.5959026Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Windows Phone",
+    "itemPath": "/sitecore/layout/Simulators/Windows Phone",
+    "template": "Simulator",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

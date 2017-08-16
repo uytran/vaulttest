@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0A735B41-7107-4700-A214-E4580575A69C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:30:48.7555037Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Search and Replace",
+    "itemPath": "/sitecore/system/Settings/Buckets/Settings/Search Operations/Fields/Search and Replace",
+    "template": "Dropdown List",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

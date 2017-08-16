@@ -1,0 +1,9 @@
+{
+  "itemName": "Rules Folder",
+  "templateId": "{AB86861A-6030-46C5-B394-E8F99E8B87DB}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{4C5E0146-2B94-458D-9046-F76CB31F5291}",
+  "childIds": [
+    "{2402A2C3-1836-4B73-96A6-8A21BF3C2FC5}"
+  ]
+}

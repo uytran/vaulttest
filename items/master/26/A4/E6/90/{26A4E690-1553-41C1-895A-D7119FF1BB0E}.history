@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{26A4E690-1553-41C1-895A-D7119FF1BB0E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:30:45.4077331Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Quick Actions",
+    "itemPath": "/sitecore/system/Settings/Buckets/Settings/Quick Actions",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

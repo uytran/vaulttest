@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{70DC08D9-CDA2-4F04-AA35-C11FD7138066}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:32:19.8265875Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Area",
+    "itemPath": "/sitecore/templates/System/Layout/Layout/Data/Area",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

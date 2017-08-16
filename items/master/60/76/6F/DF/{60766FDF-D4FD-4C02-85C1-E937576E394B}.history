@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{60766FDF-D4FD-4C02-85C1-E937576E394B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:30:47.9766305Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Calendar",
+    "itemPath": "/sitecore/system/Settings/Buckets/Settings/Search Filter Control Types/Calendar",
+    "template": "Search Control Type",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2B6BD0BD-7B87-4E8D-99C8-16BBE70E7DE0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:32:13.5362421Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Key",
+    "itemPath": "/sitecore/templates/System/Html Editor Profiles/Html Editor Class Translation/Data/Key",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

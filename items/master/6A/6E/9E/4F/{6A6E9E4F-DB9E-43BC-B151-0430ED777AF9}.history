@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6A6E9E4F-DB9E-43BC-B151-0430ED777AF9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:31:12.2391642Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Current Interaction is at venue group condition",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Venue/Current Interaction is at venue group condition",
+    "template": "Condition",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

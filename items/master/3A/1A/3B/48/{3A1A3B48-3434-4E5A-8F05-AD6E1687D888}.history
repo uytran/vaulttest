@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3A1A3B48-3434-4E5A-8F05-AD6E1687D888}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-08-16T16:32:41.0278331Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Toolbar",
+    "itemPath": "/sitecore/templates/System/Ribbon/Toolbar",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

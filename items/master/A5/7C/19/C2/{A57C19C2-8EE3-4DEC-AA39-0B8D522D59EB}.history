@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A57C19C2-8EE3-4DEC-AA39-0B8D522D59EB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:29:39.6547671Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Feed Delivery Layout",
+    "itemPath": "/sitecore/layout/Layouts/System/Feed Delivery Layout",
+    "template": "Layout",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

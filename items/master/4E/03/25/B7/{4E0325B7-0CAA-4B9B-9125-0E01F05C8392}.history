@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4E0325B7-0CAA-4B9B-9125-0E01F05C8392}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:30:31.2089791Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Paraguay",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Paraguay",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

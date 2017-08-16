@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B43AFD99-AFE1-4A6D-A4B2-3844BE73C9BE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:29:44.8915390Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Page Event Images",
+    "itemPath": "/sitecore/media library/System/Page Event Images",
+    "template": "Media folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

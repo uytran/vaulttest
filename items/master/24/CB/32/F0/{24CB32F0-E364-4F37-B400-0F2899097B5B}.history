@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{24CB32F0-E364-4F37-B400-0F2899097B5B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:33:03.0287206Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Enable Shared Language Fallback",
+    "itemPath": "/sitecore/templates/System/Templates/Template field/Data/Enable Shared Language Fallback",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

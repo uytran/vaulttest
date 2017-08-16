@@ -1,0 +1,9 @@
+{
+  "itemName": "Page Events",
+  "templateId": "{A87A00B1-E6DB-45AB-8B54-636FEC3B5523}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{30A9ADA3-D00A-44D1-B040-EF1F5DA22901}",
+  "childIds": [
+    "{1666D490-6899-4A3C-9C7E-D63EBF0A2E70}"
+  ]
+}

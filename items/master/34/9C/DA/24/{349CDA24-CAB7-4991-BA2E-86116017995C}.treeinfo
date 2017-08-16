@@ -1,0 +1,10 @@
+{
+  "itemName": "Rule Container",
+  "templateId": "{AB86861A-6030-46C5-B394-E8F99E8B87DB}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{AFC5AA94-6663-4AF3-9693-62669C76A3D7}",
+  "childIds": [
+    "{FCC98743-D09E-4AB3-8413-ECADC6F0A8B9}",
+    "{E8EA2634-C8E1-4251-AD4D-819399A67B6A}"
+  ]
+}

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{233A2D01-6CCD-4D4E-BBEE-9196D492736C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:30:11.2145159Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Building Trust",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Profiles/Function/Building Trust",
+    "template": "Profile Key",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

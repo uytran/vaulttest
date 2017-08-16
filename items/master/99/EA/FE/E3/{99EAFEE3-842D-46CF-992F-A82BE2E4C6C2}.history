@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{99EAFEE3-842D-46CF-992F-A82BE2E4C6C2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:30:26.6013533Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "French Polynesia",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/French Polynesia",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

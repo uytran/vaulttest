@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{21451789-DC09-4487-B724-AC4DB1675AB5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:32:01.4658403Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Test Score",
+    "itemPath": "/sitecore/templates/System/Content Testing/Historical Test Data/Data/Test Score",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

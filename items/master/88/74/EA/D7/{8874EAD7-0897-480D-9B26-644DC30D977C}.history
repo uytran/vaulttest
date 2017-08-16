@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8874EAD7-0897-480D-9B26-644DC30D977C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:29:40.9205139Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Tweet Button",
+    "itemPath": "/sitecore/layout/Renderings/Social MVC/Sharing/Tweet Button",
+    "template": "Controller rendering",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

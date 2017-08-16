@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{990596CE-0024-43F3-BF4C-A991BFA69B45}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:32:18.1445372Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Code page",
+    "itemPath": "/sitecore/templates/System/Language/Data/Code page",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

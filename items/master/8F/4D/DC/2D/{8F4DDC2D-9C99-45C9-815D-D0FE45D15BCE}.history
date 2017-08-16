@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8F4DDC2D-9C99-45C9-815D-D0FE45D15BCE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:32:13.0277086Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Disabled",
+    "itemPath": "/sitecore/templates/System/Html editor/Setting group/Data/Disabled",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

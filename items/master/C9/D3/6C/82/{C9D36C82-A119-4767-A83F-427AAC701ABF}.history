@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C9D36C82-A119-4767-A83F-427AAC701ABF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:31:46.1331497Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Federated Experience Manager",
+    "itemPath": "/sitecore/templates/System/Analytics/Federated Experience Manager",
+    "template": "Template Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4C09A307-016D-4768-B089-05302C2EDA9A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:30:45.7586913Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "date",
+    "itemPath": "/sitecore/system/Settings/Buckets/Settings/Client Side Hooks/date",
+    "template": "Clientside Hook",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

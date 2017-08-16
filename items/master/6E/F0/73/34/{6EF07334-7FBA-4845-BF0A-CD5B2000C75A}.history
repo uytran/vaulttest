@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6EF07334-7FBA-4845-BF0A-CD5B2000C75A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:32:57.2102916Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Lifetime",
+    "itemPath": "/sitecore/templates/System/Templates/Sections/Lifetime",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

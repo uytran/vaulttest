@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D3637C97-404C-4CCD-9745-F795190D298B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:29:42.4859670Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "iPad",
+    "itemPath": "/sitecore/layout/Simulators/iPad",
+    "template": "Simulator",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

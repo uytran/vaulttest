@@ -1,0 +1,9 @@
+{
+  "itemName": "Traffic Type",
+  "templateId": "{E269FBB5-3750-427A-9149-7AA950B49301}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{94FD1606-139E-46EE-86FF-BC5BF3C79804}",
+  "childIds": [
+    "{43AA1C9A-D1BE-498A-9841-1DEF2C2231BA}"
+  ]
+}

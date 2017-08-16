@@ -1,0 +1,9 @@
+{
+  "itemName": "Indexing and Search",
+  "templateId": "{1A9B6300-4652-477C-A4B5-B2A64E86B29F}",
+  "branchId": "{60E3E35B-CEF9-4AFA-9F89-204ED015CCB9}",
+  "parentId": "{DADB4F93-477F-491F-A905-C4005C452E67}",
+  "childIds": [
+    "{4A0B9BA7-B7C1-41A8-8088-404AA1F55D22}"
+  ]
+}

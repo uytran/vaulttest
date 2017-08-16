@@ -1,0 +1,10 @@
+{
+  "itemName": "Predefined Filter Value",
+  "templateId": "{AB86861A-6030-46C5-B394-E8F99E8B87DB}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{645DF3D7-28AF-4984-90A2-AEA8913DF75A}",
+  "childIds": [
+    "{11F0C9DD-65C7-4FF1-8CBC-349084C7604F}",
+    "{7E7C5388-A288-42B3-9C6A-B645B4612587}"
+  ]
+}

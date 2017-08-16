@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5583CF1F-0090-4980-BAC3-C34CC760CF1E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:31:57.1970793Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Education",
+    "itemPath": "/sitecore/templates/System/Analytics/Profile Card - Persona/Data/Education",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

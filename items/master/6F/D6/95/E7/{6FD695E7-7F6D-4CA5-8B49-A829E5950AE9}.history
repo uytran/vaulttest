@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6FD695E7-7F6D-4CA5-8B49-A829E5950AE9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:32:58.3123596Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Subitems Sorting",
+    "itemPath": "/sitecore/templates/System/Templates/Sections/Appearance/Appearance/__Subitems Sorting",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

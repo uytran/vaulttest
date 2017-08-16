@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F706FDBE-4809-4642-B21D-33003C73E8AF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:31:26.8384912Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Page Level Test Definition",
+    "itemPath": "/sitecore/system/Settings/Rules/Insert Options/Rules/Page Level Test Definition",
+    "template": "Insert Options Rule",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

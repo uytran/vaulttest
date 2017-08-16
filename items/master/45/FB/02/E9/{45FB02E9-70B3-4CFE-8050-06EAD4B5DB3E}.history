@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{45FB02E9-70B3-4CFE-8050-06EAD4B5DB3E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:32:00.9149626Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Test Definition",
+    "itemPath": "/sitecore/templates/System/Content Testing/Test Definition",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

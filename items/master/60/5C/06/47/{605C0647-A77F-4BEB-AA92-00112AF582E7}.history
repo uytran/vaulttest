@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{605C0647-A77F-4BEB-AA92-00112AF582E7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:29:52.3797056Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Lead management funnel",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Outcome group/Lead management funnel",
+    "template": "Outcome group",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

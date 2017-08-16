@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A0466518-CC4A-460D-9954-9FEF216EC603}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:30:49.1971989Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Apply Presentation to All Items",
+    "itemPath": "/sitecore/system/Settings/Buckets/Settings/Search Operations/Presentation/Apply Presentation to All Items",
+    "template": "Dropdown List",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

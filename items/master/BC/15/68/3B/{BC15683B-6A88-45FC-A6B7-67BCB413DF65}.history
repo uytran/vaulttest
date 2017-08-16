@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BC15683B-6A88-45FC-A6B7-67BCB413DF65}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:30:28.4617153Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Ireland",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Ireland",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

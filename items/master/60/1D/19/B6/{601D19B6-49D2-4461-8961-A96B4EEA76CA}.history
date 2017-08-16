@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{601D19B6-49D2-4461-8961-A96B4EEA76CA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:29:52.4423968Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Purchase",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Outcome group/Purchase",
+    "template": "Outcome group",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

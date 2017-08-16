@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1B2E2D28-C6C5-489C-A4B2-2175011A88E6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:30:28.6817784Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Japan",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Japan",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

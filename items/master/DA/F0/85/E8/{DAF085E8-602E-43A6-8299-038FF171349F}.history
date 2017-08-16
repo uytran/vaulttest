@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DAF085E8-602E-43A6-8299-038FF171349F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:32:29.2816113Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Jpeg",
+    "itemPath": "/sitecore/templates/System/Media/Unversioned/Jpeg",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

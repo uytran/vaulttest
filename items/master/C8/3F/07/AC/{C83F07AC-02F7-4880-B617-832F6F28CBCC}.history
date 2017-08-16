@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C83F07AC-02F7-4880-B617-832F6F28CBCC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:31:01.8141062Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Device Operating System Vendor",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Device/Device Operating System Vendor",
+    "template": "Condition",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

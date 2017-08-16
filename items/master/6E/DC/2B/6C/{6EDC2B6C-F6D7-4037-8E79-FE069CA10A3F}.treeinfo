@@ -1,0 +1,10 @@
+{
+  "itemName": "Direct marketing",
+  "templateId": "{3BA3D006-1648-4CC7-8D19-FFADFDC46D0F}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{3648772F-0CB9-4B90-9E65-A97B2C729008}",
+  "childIds": [
+    "{405E5C11-D1A9-4C23-8BBB-5EC655E959D5}",
+    "{68C58C96-F507-4D23-848E-7F0F5378DE81}"
+  ]
+}

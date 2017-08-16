@@ -1,0 +1,10 @@
+{
+  "itemName": "Designer Item Parameters",
+  "templateId": "{AB86861A-6030-46C5-B394-E8F99E8B87DB}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{4A037489-9B4E-4F1E-9364-3BDE184587B0}",
+  "childIds": [
+    "{1601ED4B-3390-4076-B953-DD255345B8FB}",
+    "{7013972D-C543-461B-A9C2-699B21F2899C}"
+  ]
+}

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F98E00B9-B510-4C2C-BA5B-ABDC509A83F4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:30:33.8045859Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Venezuela",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Venezuela",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

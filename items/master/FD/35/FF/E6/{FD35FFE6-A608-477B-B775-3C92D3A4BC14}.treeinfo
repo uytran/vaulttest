@@ -1,0 +1,10 @@
+{
+  "itemName": "Rule Elements Visibility",
+  "templateId": "{DDA66314-03F3-4C89-84A9-39DFFB235B06}",
+  "branchId": "{BDC41FDD-A3AC-4B69-A0BA-471C425CB083}",
+  "parentId": "{1057C235-C5C0-4EB7-8F77-EA51EB9E20EE}",
+  "childIds": [
+    "{EBEF3933-C5D6-41AA-B025-222D5305FE5B}",
+    "{D773CAD8-AFC4-4CDD-B6D0-4A6D12AD9E7E}"
+  ]
+}

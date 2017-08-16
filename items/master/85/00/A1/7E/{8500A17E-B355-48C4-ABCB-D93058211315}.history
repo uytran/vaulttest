@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8500A17E-B355-48C4-ABCB-D93058211315}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:29:46.3490695Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ch-mobile-app",
+    "itemPath": "/sitecore/media library/System/Channel Images/ch-mobile-app",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

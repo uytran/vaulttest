@@ -1,0 +1,9 @@
+{
+  "itemName": "Script",
+  "templateId": "{AB86861A-6030-46C5-B394-E8F99E8B87DB}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{4258E45A-087A-4C63-A8F5-65DD58B80FFA}",
+  "childIds": [
+    "{E611EE46-7BEF-48F3-A11E-E2EB5ABF4CCA}"
+  ]
+}

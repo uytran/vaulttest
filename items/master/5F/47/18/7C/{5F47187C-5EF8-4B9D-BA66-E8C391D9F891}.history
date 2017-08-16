@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5F47187C-5EF8-4B9D-BA66-E8C391D9F891}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:30:40.1641004Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
+    "workflowStateName": "Deployed",
+    "activeUser": "sitecore\\admin",
+    "itemName": "010 - Business",
+    "itemPath": "/sitecore/system/Settings/Analytics/Visitor Identifications/010 - Business",
+    "template": "Visitor Identification",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

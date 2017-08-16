@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2C1F469A-EB2B-4CCE-991E-DCF33A2B2965}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:30:34.4544486Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
+    "workflowStateName": "Deployed",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Begin transaction",
+    "itemPath": "/sitecore/system/Settings/Analytics/Page Events/Begin transaction",
+    "template": "Page Event",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

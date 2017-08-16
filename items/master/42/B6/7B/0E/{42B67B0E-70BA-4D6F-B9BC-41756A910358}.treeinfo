@@ -1,0 +1,9 @@
+{
+  "itemName": "Direct",
+  "templateId": "{3BA3D006-1648-4CC7-8D19-FFADFDC46D0F}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{D07286FA-67CE-4D66-8783-0140B8B91EF1}",
+  "childIds": [
+    "{B418E4F2-1013-4B42-A053-B6D4DCA988BF}"
+  ]
+}

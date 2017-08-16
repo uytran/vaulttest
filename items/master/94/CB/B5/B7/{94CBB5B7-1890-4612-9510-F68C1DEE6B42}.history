@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{94CBB5B7-1890-4612-9510-F68C1DEE6B42}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:31:43.0436230Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "PredefinedSourceType",
+    "itemPath": "/sitecore/templates/List Manager/Contact List/Data/PredefinedSourceType",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

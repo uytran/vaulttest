@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{03CA9368-76CD-4F00-8050-FC92415D545E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:30:32.7135887Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Suriname",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Suriname",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

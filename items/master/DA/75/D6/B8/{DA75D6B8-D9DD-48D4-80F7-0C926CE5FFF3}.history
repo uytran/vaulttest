@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DA75D6B8-D9DD-48D4-80F7-0C926CE5FFF3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:32:21.2101191Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Replacement Html",
+    "itemPath": "/sitecore/templates/System/Layout/Preview Simulators/Sections/Unsupported Content/Content/Replacement Html",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

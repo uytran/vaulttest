@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5E31CCE2-78F7-4C16-83E2-E701B7B14AD5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:30:35.6672752Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
+    "workflowStateName": "Deployed",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Put in basket",
+    "itemPath": "/sitecore/system/Settings/Analytics/Page Events/Put in basket",
+    "template": "Page Event",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

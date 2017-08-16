@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{73AB3D58-6BF7-4DB5-BEDD-5EB7072D11B7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:32:13.1647750Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Html Editor Drop Down",
+    "itemPath": "/sitecore/templates/System/Html Editor Profiles/Html Editor Drop Down",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

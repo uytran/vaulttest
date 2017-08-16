@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{390576A2-5452-4CAE-AB91-116A8892CFD2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:32:17.7544024Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Footer Template",
+    "itemPath": "/sitecore/templates/System/Item Buckets/View/View Details/Footer Template",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

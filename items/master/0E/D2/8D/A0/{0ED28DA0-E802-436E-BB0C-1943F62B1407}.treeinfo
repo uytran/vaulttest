@@ -1,0 +1,9 @@
+{
+  "itemName": "Command",
+  "templateId": "{E269FBB5-3750-427A-9149-7AA950B49301}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{7F7A3339-D823-4556-9814-42C3DBD68C7A}",
+  "childIds": [
+    "{CD521D55-CFD4-447A-B386-8FC9F122B01E}"
+  ]
+}

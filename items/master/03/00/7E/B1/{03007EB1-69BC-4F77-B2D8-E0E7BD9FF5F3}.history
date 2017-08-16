@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{03007EB1-69BC-4F77-B2D8-E0E7BD9FF5F3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:32:09.9846466Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "AuthorField",
+    "itemPath": "/sitecore/templates/System/Feeds/Feed Rendering Parameters/Data/AuthorField",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

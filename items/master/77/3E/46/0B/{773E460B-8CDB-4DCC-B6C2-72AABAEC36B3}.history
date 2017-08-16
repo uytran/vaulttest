@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{773E460B-8CDB-4DCC-B6C2-72AABAEC36B3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:30:51.4542941Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Last Test Id By RuleSetId And RuleId",
+    "itemPath": "/sitecore/system/Settings/Content Testing/Report Queries/Last Test Id By RuleSetId And RuleId",
+    "template": "ReportQuery",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

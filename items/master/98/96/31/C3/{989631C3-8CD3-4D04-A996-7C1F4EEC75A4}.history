@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{989631C3-8CD3-4D04-A996-7C1F4EEC75A4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:32:26.5312385Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Default Parameters",
+    "itemPath": "/sitecore/templates/System/Layout/Renderings/View rendering/Designer Options/Default Parameters",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

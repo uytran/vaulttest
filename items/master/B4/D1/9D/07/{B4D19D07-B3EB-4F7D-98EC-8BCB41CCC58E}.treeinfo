@@ -1,0 +1,9 @@
+{
+  "itemName": "Insert Rule",
+  "templateId": "{AB86861A-6030-46C5-B394-E8F99E8B87DB}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{6FBC1147-6B0F-49DA-90CE-38DE0B806B44}",
+  "childIds": [
+    "{A16FB230-6642-4FC5-B115-1E3A838B1E83}"
+  ]
+}

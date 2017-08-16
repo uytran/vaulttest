@@ -1,0 +1,9 @@
+{
+  "itemName": "Must be Lower Case",
+  "templateId": "{8F8E2549-C77F-4860-B83B-54FA31E2BEFA}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{A9475C23-C5E7-4D4A-A9FA-83EBFAB4BEEE}",
+  "childIds": [
+    "{9BE3D452-BEFD-4DA2-8C16-0BA054382FDB}"
+  ]
+}

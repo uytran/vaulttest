@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3FF73B44-A28F-42D2-A9B6-840A3E57D85D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:30:39.3322810Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
+    "workflowStateName": "Deployed",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Unknown",
+    "itemPath": "/sitecore/system/Settings/Analytics/Traffic Type/Unknown",
+    "template": "Traffic Type",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

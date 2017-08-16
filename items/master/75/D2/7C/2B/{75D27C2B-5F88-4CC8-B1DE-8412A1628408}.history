@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{75D27C2B-5F88-4CC8-B1DE-8412A1628408}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:29:39.1935140Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Controllers",
+    "itemPath": "/sitecore/layout/Controllers",
+    "template": "Node",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

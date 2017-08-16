@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0B9FF220-2B1D-4508-88CF-F23A31007805}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:30:37.0167912Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "New Page Visitors",
+    "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/New Page Visitors",
+    "template": "ReportQuery",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

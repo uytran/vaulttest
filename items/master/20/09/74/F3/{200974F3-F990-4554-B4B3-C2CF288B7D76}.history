@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{200974F3-F990-4554-B4B3-C2CF288B7D76}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:32:36.6801704Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ReversableMap",
+    "itemPath": "/sitecore/templates/System/Path Analyzer/ReversableMap",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5380D907-A1BC-41FB-BBB6-4B04E83E25D1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:32:11.0914601Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "HTML Class",
+    "itemPath": "/sitecore/templates/System/Html editor/HTML Class",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

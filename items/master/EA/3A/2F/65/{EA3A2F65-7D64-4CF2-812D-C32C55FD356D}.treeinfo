@@ -1,0 +1,9 @@
+{
+  "itemName": "Map Provider",
+  "templateId": "{AB86861A-6030-46C5-B394-E8F99E8B87DB}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{5B503229-440D-4A36-A1F1-677992DDBEE7}",
+  "childIds": [
+    "{7DA84762-F9A9-4404-A9CB-224BF0098546}"
+  ]
+}

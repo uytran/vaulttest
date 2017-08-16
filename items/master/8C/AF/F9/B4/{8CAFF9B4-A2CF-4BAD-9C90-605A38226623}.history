@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8CAFF9B4-A2CF-4BAD-9C90-605A38226623}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:30:47.3342328Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Unlock from Editing",
+    "itemPath": "/sitecore/system/Settings/Buckets/Settings/Quick Actions/Unlock from Editing",
+    "template": "Quick Action",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

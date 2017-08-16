@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A37FF052-48BF-414E-BAB8-AB1700D9B5E8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:33:06.0024838Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Email action",
+    "itemPath": "/sitecore/templates/System/Workflow/Email action",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

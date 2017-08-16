@@ -1,0 +1,10 @@
+{
+  "itemName": "Element Folder",
+  "templateId": "{AB86861A-6030-46C5-B394-E8F99E8B87DB}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{4C5E0146-2B94-458D-9046-F76CB31F5291}",
+  "childIds": [
+    "{C1A652CD-501B-4B6C-BF69-D2ACB72A173E}",
+    "{CE5A2E66-D035-4EB9-B8BC-1B28B21880B0}"
+  ]
+}

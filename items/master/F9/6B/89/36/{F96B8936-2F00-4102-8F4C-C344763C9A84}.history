@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F96B8936-2F00-4102-8F4C-C344763C9A84}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:30:27.8628620Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Honduras",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Honduras",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F7F39C16-49B8-4FC0-B826-688C0DBD2005}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:30:53.5111432Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Weighted Engagement Value",
+    "itemPath": "/sitecore/system/Settings/Content Testing/Test Winner Strategies/Weighted Engagement Value",
+    "template": "Test Winner Strategy",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{930AD1C7-B58B-4380-B448-378527DDF9B0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:31:58.8121358Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "FilterEntry",
+    "itemPath": "/sitecore/templates/System/Analytics/Vendor Specific Filter/Mapping/FilterEntry",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{379D5D91-C5BC-4DA9-920E-A001765B7ABD}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:32:52.0590909Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Application Secret",
+    "itemPath": "/sitecore/templates/System/Social/Application/Data/Application Secret",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

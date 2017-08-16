@@ -1,0 +1,10 @@
+{
+  "itemName": "Repository Details",
+  "templateId": "{E269FBB5-3750-427A-9149-7AA950B49301}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{FDC83839-F632-4D65-837D-D58968C0132B}",
+  "childIds": [
+    "{847B401C-2FCD-43BC-A8B1-83CFF8D5D24D}",
+    "{11D1D923-00F9-4CB4-BDD9-421FB11C47C2}"
+  ]
+}

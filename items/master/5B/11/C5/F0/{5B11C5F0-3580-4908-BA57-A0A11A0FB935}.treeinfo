@@ -1,0 +1,9 @@
+{
+  "itemName": "Federated Experience Manager - Domain Tracking",
+  "templateId": "{1A9B6300-4652-477C-A4B5-B2A64E86B29F}",
+  "branchId": "{60E3E35B-CEF9-4AFA-9F89-204ED015CCB9}",
+  "parentId": "{DADB4F93-477F-491F-A905-C4005C452E67}",
+  "childIds": [
+    "{DA8A606A-C382-4247-965F-EB6F295D685F}"
+  ]
+}

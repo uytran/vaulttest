@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F8A17D6A-118E-4CD7-B5F5-88FF37A4F237}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:32:56.7570866Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Template field type",
+    "itemPath": "/sitecore/templates/System/Templates/Template field type",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

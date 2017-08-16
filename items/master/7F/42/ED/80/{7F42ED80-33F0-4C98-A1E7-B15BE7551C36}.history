@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7F42ED80-33F0-4C98-A1E7-B15BE7551C36}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:32:16.0788981Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Client Side Handle",
+    "itemPath": "/sitecore/templates/System/Item Buckets/Facet/Facet/Client Side Handle",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

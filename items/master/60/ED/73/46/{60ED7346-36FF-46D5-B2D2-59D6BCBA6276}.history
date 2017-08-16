@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{60ED7346-36FF-46D5-B2D2-59D6BCBA6276}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:30:40.3765070Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
+    "workflowStateName": "Deployed",
+    "activeUser": "sitecore\\admin",
+    "itemName": "050 - Supplier",
+    "itemPath": "/sitecore/system/Settings/Analytics/Visitor Identifications/050 - Supplier",
+    "template": "Visitor Identification",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

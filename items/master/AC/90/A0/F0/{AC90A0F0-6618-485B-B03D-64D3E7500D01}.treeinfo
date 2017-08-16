@@ -1,0 +1,9 @@
+{
+  "itemName": "New Branch",
+  "templateId": "{B2613CC1-A748-46A3-A0DB-3774574BD339}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{85A67715-F25A-441F-AFEF-D5BB7F1A3519}",
+  "childIds": [
+    "{03A2AF64-AA00-4A60-B8C4-20A530E3E487}"
+  ]
+}

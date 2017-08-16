@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3F0E643C-3B9A-4E3F-961A-75057BA3C4E8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:31:39.9432059Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Layout",
+    "itemPath": "/sitecore/templates/Branches/System/Layouts/__Layout",
+    "template": "Branch",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

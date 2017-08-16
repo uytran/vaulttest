@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{37FE9542-C8E7-41D6-95B0-AE559A48EB04}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:32:15.5934543Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Command Name",
+    "itemPath": "/sitecore/templates/System/Item Buckets/Dropdown List/Dropdown List/Command Name",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

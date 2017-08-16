@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{86786573-2838-42B9-871A-A163D927C80E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:31:40.9188041Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Campaign maps",
+    "itemPath": "/sitecore/templates/Branches/System/Path Analyzer/Site map group/$name/Campaign maps",
+    "template": "MapGroup",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

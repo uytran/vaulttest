@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3B750F26-520E-4B33-852A-9633C54706BE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:30:43.4716733Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Views",
+    "itemPath": "/sitecore/system/Settings/Buckets/Views",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

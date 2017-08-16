@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{39587D7D-F06D-4CB4-A25E-AA7D847EDDD0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:32:21.7490493Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Method Rendering",
+    "itemPath": "/sitecore/templates/System/Layout/Renderings/Method Rendering",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

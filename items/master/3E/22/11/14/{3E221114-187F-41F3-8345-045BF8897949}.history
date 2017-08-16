@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3E221114-187F-41F3-8345-045BF8897949}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:32:09.1311423Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Visit 4",
+    "itemPath": "/sitecore/templates/System/Experience Explorer/Preset/History/Visit 4",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

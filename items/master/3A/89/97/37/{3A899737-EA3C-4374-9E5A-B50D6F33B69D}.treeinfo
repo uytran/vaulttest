@@ -1,0 +1,9 @@
+{
+  "itemName": "Tags",
+  "templateId": "{96C8E5DD-63C3-496B-A97C-A3E37E1DACBA}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{85AC4FF4-FA4D-4A21-8C1F-69F596531D26}",
+  "childIds": [
+    "{9DF6A2EE-ED96-4351-BA40-735B4B87A475}"
+  ]
+}

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{53E2B718-D0F1-4AFA-A227-8D81C639B68A}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-08-16T16:32:40.7744713Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Small Drop Down Box",
+    "itemPath": "/sitecore/templates/System/Ribbon/Small Drop Down Box",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

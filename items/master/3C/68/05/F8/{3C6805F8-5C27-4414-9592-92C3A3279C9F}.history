@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3C6805F8-5C27-4414-9592-92C3A3279C9F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:32:36.9661331Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "TargetAsset",
+    "itemPath": "/sitecore/templates/System/Path Analyzer/AssetMap/Scope/TargetAsset",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

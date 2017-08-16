@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5BE1E6C7-2900-42BC-B381-67C55BEFA18B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:30:44.4171681Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Custom",
+    "itemPath": "/sitecore/system/Settings/Buckets/Search Types/Custom",
+    "template": "Field Search Type",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

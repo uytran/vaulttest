@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C0D02AA6-7153-4D71-97DB-79009E73596E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:30:38.2279521Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Contact Goals",
+    "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Contact Goals",
+    "template": "ReportQuery",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

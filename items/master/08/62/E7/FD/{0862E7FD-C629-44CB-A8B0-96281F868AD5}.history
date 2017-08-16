@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0862E7FD-C629-44CB-A8B0-96281F868AD5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:31:45.3791140Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "WebDAV",
+    "itemPath": "/sitecore/templates/System/WebDAV",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5C4DE356-5D69-4D6C-B06C-667913F83AFC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:31:42.4689835Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Social Marketer Account",
+    "itemPath": "/sitecore/templates/Branches/System/Social/Social Marketer Account",
+    "template": "Command Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{59B831DB-114C-47A7-AE5E-787D092C660F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:30:00.0842325Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "{E39E0ADC-9487-4BA4-950D-1993D5614B8E}",
+    "workflowStateName": "Initializing",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Visits",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Experience Analytics/Dimensions/Visits",
+    "template": "DimensionFolder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

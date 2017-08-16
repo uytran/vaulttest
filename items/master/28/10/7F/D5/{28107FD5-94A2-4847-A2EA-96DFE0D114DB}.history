@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{28107FD5-94A2-4847-A2EA-96DFE0D114DB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:30:38.9995405Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
+    "workflowStateName": "Deployed",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Referred - Blog",
+    "itemPath": "/sitecore/system/Settings/Analytics/Traffic Type/Referred - Blog",
+    "template": "Traffic Type",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

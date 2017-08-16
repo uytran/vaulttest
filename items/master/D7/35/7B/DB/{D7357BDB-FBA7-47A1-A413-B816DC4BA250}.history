@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D7357BDB-FBA7-47A1-A413-B816DC4BA250}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:31:30.4253256Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "W3C XHtml Validation",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Field Rules/External/W3C XHtml Validation",
+    "template": "Validation Rule",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B60E1F73-F183-4908-9181-E98B844D0769}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:31:30.8215944Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Empty Accounts",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Field Rules/Social/Empty Accounts",
+    "template": "Validation Rule",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{CD28EE11-08C6-46A5-91AB-20D921A434EF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:30:24.0328931Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Burundi",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Burundi",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

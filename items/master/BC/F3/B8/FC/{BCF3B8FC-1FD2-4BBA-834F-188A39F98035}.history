@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BCF3B8FC-1FD2-4BBA-834F-188A39F98035}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:31:08.3392008Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "OrderBy",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Search Query Builder/OrderBy",
+    "template": "Action",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

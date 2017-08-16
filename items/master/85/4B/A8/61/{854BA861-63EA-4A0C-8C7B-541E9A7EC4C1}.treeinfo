@@ -1,0 +1,10 @@
+{
+  "itemName": "Tags Definition",
+  "templateId": "{AB86861A-6030-46C5-B394-E8F99E8B87DB}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{4C5E0146-2B94-458D-9046-F76CB31F5291}",
+  "childIds": [
+    "{2C1B5692-FF55-478C-80B2-F538CC4AE2D2}",
+    "{8E89FF99-945A-44D4-A676-B42D6AA53C61}"
+  ]
+}

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B01EB085-82BC-4D79-B15F-90EAB9E98062}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:30:18.6105175Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Subitems Sorting",
+    "itemPath": "/sitecore/system/Settings/Subitems Sorting",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1C534A2D-0B6D-4E89-8FCA-6289475A3A46}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:31:50.6776601Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Enroll in Engagement Plan",
+    "itemPath": "/sitecore/templates/System/Analytics/Campaign/Data/Enroll in Engagement Plan",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

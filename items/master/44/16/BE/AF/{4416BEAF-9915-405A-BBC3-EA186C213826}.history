@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4416BEAF-9915-405A-BBC3-EA186C213826}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:30:20.6610801Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "CMS",
+    "itemPath": "/sitecore/system/Settings/Analytics/Engagement Automation/Flow Type/CMS",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

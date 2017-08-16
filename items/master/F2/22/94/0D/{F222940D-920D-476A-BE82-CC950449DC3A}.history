@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F222940D-920D-476A-BE82-CC950449DC3A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:30:53.7086270Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Definitions",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

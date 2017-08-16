@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B0114342-587F-4753-87A2-308CC7AEE48D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:31:50.6079163Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Campaign Link",
+    "itemPath": "/sitecore/templates/System/Analytics/Campaign/Data/Campaign Link",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

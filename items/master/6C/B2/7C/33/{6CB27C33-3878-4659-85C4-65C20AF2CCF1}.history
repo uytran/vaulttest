@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6CB27C33-3878-4659-85C4-65C20AF2CCF1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:31:40.9539213Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Channel maps",
+    "itemPath": "/sitecore/templates/Branches/System/Path Analyzer/Site map group/$name/Channel maps",
+    "template": "MapGroup",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "itemName": "Bucketing",
+  "templateId": "{DDA66314-03F3-4C89-84A9-39DFFB235B06}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{1057C235-C5C0-4EB7-8F77-EA51EB9E20EE}",
+  "childIds": [
+    "{5B1FBFF7-FB4F-4577-8BE4-6801E9E68C4B}"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "itemName": "Small Check Button",
+  "templateId": "{AB86861A-6030-46C5-B394-E8F99E8B87DB}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{B37C44BB-AB02-4DB1-AC5B-E0A28D47184F}",
+  "childIds": [
+    "{1DDA0D1C-45C1-4547-A0A0-392AA6388985}"
+  ]
+}

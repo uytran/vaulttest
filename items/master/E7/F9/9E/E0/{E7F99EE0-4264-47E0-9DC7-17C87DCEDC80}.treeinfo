@@ -1,0 +1,9 @@
+{
+  "itemName": "Presets",
+  "templateId": "{AB86861A-6030-46C5-B394-E8F99E8B87DB}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{5B503229-440D-4A36-A1F1-677992DDBEE7}",
+  "childIds": [
+    "{39B3EDD0-FB75-438C-A816-112DE786640C}"
+  ]
+}

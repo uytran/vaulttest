@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7DE5CC49-D985-49E1-AC61-663A1411AE42}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:29:52.0774362Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Goal facet 2",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Goal facet 2",
+    "template": "Custom taxonomy",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

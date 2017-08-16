@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7D552777-C923-4C51-8B84-C482BFC140B1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:30:30.1928021Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Morocco",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Morocco",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

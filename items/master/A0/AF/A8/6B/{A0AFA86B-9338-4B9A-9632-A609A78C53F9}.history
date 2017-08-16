@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A0AFA86B-9338-4B9A-9632-A609A78C53F9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:29:48.6100799Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Register Failed",
+    "itemPath": "/sitecore/media library/System/Page Event Images/Register Failed",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

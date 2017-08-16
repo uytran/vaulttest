@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3D6658D8-A0BF-4E75-B3E2-D050FABCF4E1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:29:38.7518015Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "media library",
+    "itemPath": "/sitecore/media library",
+    "template": "Main section",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

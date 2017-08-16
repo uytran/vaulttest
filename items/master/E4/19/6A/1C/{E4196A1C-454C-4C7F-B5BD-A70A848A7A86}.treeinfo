@@ -1,0 +1,9 @@
+{
+  "itemName": "Configuration",
+  "templateId": "{E269FBB5-3750-427A-9149-7AA950B49301}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{012EAA1C-E080-4701-81D2-739821D6A5D9}",
+  "childIds": [
+    "{90AA2CCB-C6A2-4879-BBB5-72062B81C031}"
+  ]
+}

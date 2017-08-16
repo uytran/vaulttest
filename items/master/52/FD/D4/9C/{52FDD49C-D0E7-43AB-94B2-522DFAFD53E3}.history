@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{52FDD49C-D0E7-43AB-94B2-522DFAFD53E3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:32:01.3996053Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "End Date",
+    "itemPath": "/sitecore/templates/System/Content Testing/Historical Test Data/Data/End Date",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

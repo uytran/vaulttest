@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6D500553-DDCA-44B4-839D-ED6EE733C6FC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:31:31.4813978Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Rich Text Image Size",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Field Rules/System/Rich Text Image Size",
+    "template": "Validation Rule",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

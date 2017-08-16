@@ -1,0 +1,9 @@
+{
+  "itemName": "Venue type",
+  "templateId": "{AB86861A-6030-46C5-B394-E8F99E8B87DB}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{54A807A5-D977-4E41-BCA2-5A1447F9C0A8}",
+  "childIds": [
+    "{DFCDB420-74F0-4121-A128-29872F7C6E52}"
+  ]
+}

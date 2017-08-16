@@ -1,0 +1,9 @@
+{
+  "itemName": "Rules",
+  "templateId": "{E269FBB5-3750-427A-9149-7AA950B49301}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{059CFBDF-49FC-4F14-A4E5-B63E1E1AFB1E}",
+  "childIds": [
+    "{71EBDEBD-9560-48C6-A66F-E17FC018232C}"
+  ]
+}

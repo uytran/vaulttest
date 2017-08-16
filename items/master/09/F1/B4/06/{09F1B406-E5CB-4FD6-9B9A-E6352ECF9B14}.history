@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{09F1B406-E5CB-4FD6-9B9A-E6352ECF9B14}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:31:37.9450526Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Request a Post",
+    "itemPath": "/sitecore/system/Workflows/Social Marketer Message Workflow/Draft/Request a Post",
+    "template": "Command",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

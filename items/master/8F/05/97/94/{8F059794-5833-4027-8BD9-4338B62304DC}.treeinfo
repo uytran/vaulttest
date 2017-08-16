@@ -1,0 +1,10 @@
+{
+  "itemName": "Version Removed",
+  "templateId": "{DDA66314-03F3-4C89-84A9-39DFFB235B06}",
+  "branchId": "{BDC41FDD-A3AC-4B69-A0BA-471C425CB083}",
+  "parentId": "{1057C235-C5C0-4EB7-8F77-EA51EB9E20EE}",
+  "childIds": [
+    "{EBA96A18-EE50-49F7-B114-8EB515BE6C30}",
+    "{6D7EE9F1-E492-4042-84E5-D3F5442199B1}"
+  ]
+}

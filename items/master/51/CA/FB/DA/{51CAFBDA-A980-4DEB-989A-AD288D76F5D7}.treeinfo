@@ -1,0 +1,9 @@
+{
+  "itemName": "Experience",
+  "templateId": "{00A60C7A-2373-4E30-8197-920B8374509E}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{7941D7D1-24AE-4478-BEAB-0227E14A1CF9}",
+  "childIds": [
+    "{03FAF4B1-CAB7-4306-BEEF-64E2E366931C}"
+  ]
+}

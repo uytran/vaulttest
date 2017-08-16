@@ -1,0 +1,10 @@
+{
+  "itemName": "Federated Experience Manager - Domain Matching",
+  "templateId": "{DDA66314-03F3-4C89-84A9-39DFFB235B06}",
+  "branchId": "{BDC41FDD-A3AC-4B69-A0BA-471C425CB083}",
+  "parentId": "{1057C235-C5C0-4EB7-8F77-EA51EB9E20EE}",
+  "childIds": [
+    "{62B51248-E0E6-483E-9405-45E72A4B8584}",
+    "{A2654535-B863-4DAB-A209-DFEE669F0A9F}"
+  ]
+}

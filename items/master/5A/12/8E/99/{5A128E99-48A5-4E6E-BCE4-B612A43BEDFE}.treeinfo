@@ -1,0 +1,9 @@
+{
+  "itemName": "Notification",
+  "templateId": "{AB86861A-6030-46C5-B394-E8F99E8B87DB}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{C14B0CE1-9995-4196-BBA9-E7481873A90C}",
+  "childIds": [
+    "{CDC2129C-FF21-4014-8C6F-2C6809FD2F50}"
+  ]
+}

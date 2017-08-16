@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C437E416-8948-427D-A982-8ED37AE3F553}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:32:18.3897813Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Iso",
+    "itemPath": "/sitecore/templates/System/Language/Data/Iso",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

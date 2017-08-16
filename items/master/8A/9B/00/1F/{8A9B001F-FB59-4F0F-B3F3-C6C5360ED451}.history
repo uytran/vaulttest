@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8A9B001F-FB59-4F0F-B3F3-C6C5360ED451}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:31:00.0899717Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Date-Time Has Passed",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Date/Date-Time Has Passed",
+    "template": "Condition",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

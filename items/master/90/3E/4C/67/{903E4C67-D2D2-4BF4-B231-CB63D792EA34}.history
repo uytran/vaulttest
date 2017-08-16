@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{903E4C67-D2D2-4BF4-B231-CB63D792EA34}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:29:46.3029108Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ch-marketing-intelligence",
+    "itemPath": "/sitecore/media library/System/Channel Images/ch-marketing-intelligence",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

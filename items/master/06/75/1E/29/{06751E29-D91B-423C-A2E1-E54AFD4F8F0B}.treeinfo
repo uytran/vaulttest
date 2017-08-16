@@ -1,0 +1,10 @@
+{
+  "itemName": "Social Marketer Message",
+  "templateId": "{AB86861A-6030-46C5-B394-E8F99E8B87DB}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{D28022BC-8F46-4FC2-B167-D46742CE4B8F}",
+  "childIds": [
+    "{CAC232D1-C955-4C1C-B4F2-0142B0600D39}",
+    "{763A4A9F-DA95-497F-AA74-20C68D0AFD3E}"
+  ]
+}

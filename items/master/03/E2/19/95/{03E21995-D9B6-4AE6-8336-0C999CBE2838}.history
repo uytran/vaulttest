@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{03E21995-D9B6-4AE6-8336-0C999CBE2838}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:31:01.7448895Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Device Operating System Model",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Device/Device Operating System Model",
+    "template": "Condition",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A87A00B1-E6DB-45AB-8B54-636FEC3B5523}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:31:42.5842574Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Folder",
+    "itemPath": "/sitecore/templates/Common/Folder",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

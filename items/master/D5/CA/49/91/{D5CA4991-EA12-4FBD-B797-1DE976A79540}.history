@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D5CA4991-EA12-4FBD-B797-1DE976A79540}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:32:16.7760345Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Client Side Hook",
+    "itemPath": "/sitecore/templates/System/Item Buckets/Field Search Type/Search Type/Client Side Hook",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

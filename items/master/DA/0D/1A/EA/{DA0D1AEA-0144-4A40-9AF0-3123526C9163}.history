@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DA0D1AEA-0144-4A40-9AF0-3123526C9163}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:31:04.2957707Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Field is Empty",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Fields/Field is Empty",
+    "template": "Condition",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,10 @@
+{
+  "itemName": "Goal Posting Configuration",
+  "templateId": "{AB86861A-6030-46C5-B394-E8F99E8B87DB}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{A0A04AF2-4090-4481-A7FB-BA9EED686370}",
+  "childIds": [
+    "{9FF799D1-22EF-452A-AA14-2581E3783C7E}",
+    "{14271D5D-F718-4F51-BD56-FEEABD2B1EEB}"
+  ]
+}

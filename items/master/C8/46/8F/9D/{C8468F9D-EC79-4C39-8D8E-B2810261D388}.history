@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C8468F9D-EC79-4C39-8D8E-B2810261D388}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:31:10.1340422Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Interested In",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Social/Interested In",
+    "template": "Condition",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

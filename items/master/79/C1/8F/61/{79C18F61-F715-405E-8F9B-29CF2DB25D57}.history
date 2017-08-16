@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{79C18F61-F715-405E-8F9B-29CF2DB25D57}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:29:47.9880455Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "No Search Hits Found",
+    "itemPath": "/sitecore/media library/System/Page Event Images/No Search Hits Found",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

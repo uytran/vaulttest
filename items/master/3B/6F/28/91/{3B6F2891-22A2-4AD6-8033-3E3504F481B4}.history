@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3B6F2891-22A2-4AD6-8033-3E3504F481B4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:29:58.7935490Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
+    "workflowStateName": "Deployed",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Tweet",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Goals/Tweet",
+    "template": "Goal",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

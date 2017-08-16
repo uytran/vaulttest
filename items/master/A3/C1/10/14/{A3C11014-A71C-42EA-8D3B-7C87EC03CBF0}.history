@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A3C11014-A71C-42EA-8D3B-7C87EC03CBF0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:32:35.5196924Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Users",
+    "itemPath": "/sitecore/templates/System/Navigation/Notification/Data/Users",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

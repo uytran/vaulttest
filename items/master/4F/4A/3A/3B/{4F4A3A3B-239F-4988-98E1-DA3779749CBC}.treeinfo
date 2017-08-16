@@ -1,0 +1,9 @@
+{
+  "itemName": "Zip",
+  "templateId": "{AB86861A-6030-46C5-B394-E8F99E8B87DB}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{00373F71-5D08-4E9A-840F-9BB3C8193518}",
+  "childIds": [
+    "{CD7BA37C-ECAE-4D9C-9A30-3FCEB377E058}"
+  ]
+}

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0EE943DC-6FFD-4786-8175-F66C2FF9E20E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:30:12.4839207Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Ian",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Experience Explorer/Presets/Ian",
+    "template": "Preset Persona",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

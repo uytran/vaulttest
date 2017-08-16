@@ -1,0 +1,10 @@
+{
+  "itemName": "Account Posting Configuration",
+  "templateId": "{AB86861A-6030-46C5-B394-E8F99E8B87DB}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{A0A04AF2-4090-4481-A7FB-BA9EED686370}",
+  "childIds": [
+    "{37C0AD59-945B-4729-B7B1-4A3253C59972}",
+    "{F565AAD1-D33A-416F-847C-16071B7574A1}"
+  ]
+}

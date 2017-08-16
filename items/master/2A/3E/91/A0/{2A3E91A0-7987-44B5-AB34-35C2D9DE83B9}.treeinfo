@@ -1,0 +1,10 @@
+{
+  "itemName": "Controller rendering",
+  "templateId": "{AB86861A-6030-46C5-B394-E8F99E8B87DB}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{531BF4A2-C3B2-4EB9-89D0-FA30C82AB33B}",
+  "childIds": [
+    "{3B00DDE4-9810-474E-8D18-ADEE5207C5D3}",
+    "{6C33A367-3DA3-465E-B0F5-60C415A2A8F0}"
+  ]
+}

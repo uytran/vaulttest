@@ -1,0 +1,10 @@
+{
+  "itemName": "Dashboard Report",
+  "templateId": "{AB86861A-6030-46C5-B394-E8F99E8B87DB}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{CFBD4E92-0FCF-40E9-9499-7E433720342E}",
+  "childIds": [
+    "{9D14B001-9FDD-4B30-926E-73F3C5F774B1}",
+    "{556876E9-EDA9-49F1-B399-C3CACEBEF7A1}"
+  ]
+}

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BECD2136-596F-4405-9D70-92EAFC70A349}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:32:18.8333821Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Layout Preset",
+    "itemPath": "/sitecore/templates/System/Layout/Layout Preset",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

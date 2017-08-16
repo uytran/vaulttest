@@ -1,0 +1,10 @@
+{
+  "itemName": "Referral Information",
+  "templateId": "{00A60C7A-2373-4E30-8197-920B8374509E}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{7941D7D1-24AE-4478-BEAB-0227E14A1CF9}",
+  "childIds": [
+    "{89C93B33-BAFF-4F03-950E-D3031A85CB9B}",
+    "{B5FA229A-67D3-43BB-AFC6-1A1118C9CEC0}"
+  ]
+}

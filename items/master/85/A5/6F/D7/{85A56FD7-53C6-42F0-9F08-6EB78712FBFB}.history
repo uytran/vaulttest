@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{85A56FD7-53C6-42F0-9F08-6EB78712FBFB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:31:58.7469611Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Mapping",
+    "itemPath": "/sitecore/templates/System/Analytics/Vendor Specific Filter/Mapping",
+    "template": "Template section",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

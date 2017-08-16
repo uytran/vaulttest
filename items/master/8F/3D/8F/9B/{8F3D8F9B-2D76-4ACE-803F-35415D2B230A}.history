@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8F3D8F9B-2D76-4ACE-803F-35415D2B230A}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-08-16T16:32:40.3224910Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Chunk",
+    "itemPath": "/sitecore/templates/System/Ribbon/Chunk",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

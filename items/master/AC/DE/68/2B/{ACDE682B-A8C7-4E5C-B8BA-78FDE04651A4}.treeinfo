@@ -1,0 +1,9 @@
+{
+  "itemName": "Snippet",
+  "templateId": "{AB86861A-6030-46C5-B394-E8F99E8B87DB}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{4BF98EF5-1D09-4DD1-9AFE-795F9829FD44}",
+  "childIds": [
+    "{E448E8C3-AB3A-4F20-949B-FE337FC51B60}"
+  ]
+}

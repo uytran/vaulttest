@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E037642C-CE8E-437F-8A61-8D32D0CE54E1}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-08-16T16:32:40.8521840Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Small Input Box",
+    "itemPath": "/sitecore/templates/System/Ribbon/Small Input Box",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

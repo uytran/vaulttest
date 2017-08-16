@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A71A0840-3107-4F31-9360-4C235142D1C1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:30:39.1312037Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
+    "workflowStateName": "Deployed",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Referred - Wiki",
+    "itemPath": "/sitecore/system/Settings/Analytics/Traffic Type/Referred - Wiki",
+    "template": "Traffic Type",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{33AE0E84-74A0-437F-AB2B-859DFA96F6C9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:31:55.5230158Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Points",
+    "itemPath": "/sitecore/templates/System/Analytics/Page Event/Data/Points",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

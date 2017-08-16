@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{AC90A0F0-6618-485B-B03D-64D3E7500D01}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:31:39.6002814Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "New Branch",
+    "itemPath": "/sitecore/templates/Branches/System/Branch/New Branch",
+    "template": "Command Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

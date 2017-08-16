@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E07B7B4F-989F-4AF0-A577-B41D94BA183A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:31:32.5384827Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Rich Text",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Field Types/Rich Text",
+    "template": "Field Type Validation Rules",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

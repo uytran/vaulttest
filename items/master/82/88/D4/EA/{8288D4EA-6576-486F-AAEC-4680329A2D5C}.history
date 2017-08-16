@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8288D4EA-6576-486F-AAEC-4680329A2D5C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:31:42.6464912Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Contact List",
+    "itemPath": "/sitecore/templates/List Manager/Contact List",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1C15E081-9842-4DA2-ACF3-E7ED7D5B0651}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:30:53.5763700Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Sample Layout",
+    "itemPath": "/sitecore/system/Settings/Layouts/Presets/Sample Layout",
+    "template": "Layout Preset",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

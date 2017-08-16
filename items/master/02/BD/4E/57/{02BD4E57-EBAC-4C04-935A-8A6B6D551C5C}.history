@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{02BD4E57-EBAC-4C04-935A-8A6B6D551C5C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:32:40.0325987Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Source database",
+    "itemPath": "/sitecore/templates/System/Proxy/Data/Source database",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

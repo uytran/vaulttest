@@ -1,0 +1,9 @@
+{
+  "itemName": "Template Folder",
+  "templateId": "{AB86861A-6030-46C5-B394-E8F99E8B87DB}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{633549D3-4B7D-40EB-B58F-EDA50BA5F7F0}",
+  "childIds": [
+    "{76CCA2F7-8C00-4C5E-A0F7-1B272A4D654B}"
+  ]
+}

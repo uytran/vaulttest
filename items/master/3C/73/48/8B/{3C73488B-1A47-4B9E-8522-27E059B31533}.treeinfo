@@ -1,0 +1,9 @@
+{
+  "itemName": "Search Folder",
+  "templateId": "{AB86861A-6030-46C5-B394-E8F99E8B87DB}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{E7BCEDA5-1DC2-4EFF-89A1-485D39E01D3E}",
+  "childIds": [
+    "{0BA072D8-EF65-4B84-B38A-3AEF731DDF93}"
+  ]
+}

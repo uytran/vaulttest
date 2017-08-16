@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BA8DAE30-1C7E-4254-8B0C-6D25708562B7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:32:07.5648870Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "accordion",
+    "itemPath": "/sitecore/templates/System/Experience Explorer/Accordion/accordion",
+    "template": "Template section",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

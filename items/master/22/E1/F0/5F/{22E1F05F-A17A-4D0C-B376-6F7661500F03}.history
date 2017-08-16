@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{22E1F05F-A17A-4D0C-B376-6F7661500F03}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:31:21.0832579Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ends with",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/String Operators/ends with",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

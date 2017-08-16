@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{344E2E36-AC7E-43D2-9365-059DA866F6D1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:30:22.0875789Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "American Samoa",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/American Samoa",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

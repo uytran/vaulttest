@@ -1,0 +1,10 @@
+{
+  "itemName": "Network Account",
+  "templateId": "{AB86861A-6030-46C5-B394-E8F99E8B87DB}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{35DBDCF5-0849-4FDA-B8C5-172F69BFE98B}",
+  "childIds": [
+    "{581E894D-FB2B-464B-A17B-F7EE4C322F92}",
+    "{103ADFCC-9E69-4D38-9971-3582DB6CA89E}"
+  ]
+}

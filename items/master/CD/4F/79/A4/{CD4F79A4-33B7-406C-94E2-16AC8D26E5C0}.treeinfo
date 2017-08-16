@@ -1,0 +1,10 @@
+{
+  "itemName": "Login with LinkedIn Button Parameters",
+  "templateId": "{AB86861A-6030-46C5-B394-E8F99E8B87DB}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{57B5B065-493A-4303-997E-DC8D1277A72E}",
+  "childIds": [
+    "{083EAC06-67E9-42E6-9B57-C7E36E7AF38B}",
+    "{E0C1F72F-16D3-4BAD-B039-70AC72D154CA}"
+  ]
+}

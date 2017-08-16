@@ -1,0 +1,9 @@
+{
+  "itemName": "__Sublayout",
+  "templateId": "{35E75C72-4985-4E09-88C3-0EAC6CD1E64F}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{91A8DBFE-54CF-40EF-A18F-401947B48237}",
+  "childIds": [
+    "{85C0C0F6-C3E1-4B57-81F7-1C86369E7988}"
+  ]
+}

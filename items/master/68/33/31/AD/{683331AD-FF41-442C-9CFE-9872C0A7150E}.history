@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{683331AD-FF41-442C-9CFE-9872C0A7150E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:29:40.3596512Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "WebEdit Content Editor",
+    "itemPath": "/sitecore/layout/Renderings/System/WebEdit/WebEdit Content Editor",
+    "template": "Webcontrol",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

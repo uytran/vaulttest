@@ -1,0 +1,9 @@
+{
+  "itemName": "Path Analyzer",
+  "templateId": "{85ADBF5B-E836-4932-A333-FE0F9FA1ED1E}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{C93C0945-607B-4916-B8D9-FE9F9BA783CA}",
+  "childIds": [
+    "{31C40412-8AE7-44BF-868D-D3721B4D123D}"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "itemName": "Properties",
+  "templateId": "{E269FBB5-3750-427A-9149-7AA950B49301}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{2E16714D-8406-4445-98B7-CD70F658611B}",
+  "childIds": [
+    "{417D95A5-AC69-4FBF-89A5-1223DB1A4A22}"
+  ]
+}

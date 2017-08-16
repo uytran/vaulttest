@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{09927E9F-375D-4651-918B-0783B20F8971}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:31:15.6013015Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Integer",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Macros/Integer",
+    "template": "Macro",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

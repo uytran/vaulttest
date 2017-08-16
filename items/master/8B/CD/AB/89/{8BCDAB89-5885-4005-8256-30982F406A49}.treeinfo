@@ -1,0 +1,9 @@
+{
+  "itemName": "MapGroupFolder",
+  "templateId": "{AB86861A-6030-46C5-B394-E8F99E8B87DB}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{BAF82751-06EC-4FFC-A74F-4E6FBD7A03E2}",
+  "childIds": [
+    "{AA0C4D03-AEC4-4EC9-9718-43569FA33A34}"
+  ]
+}

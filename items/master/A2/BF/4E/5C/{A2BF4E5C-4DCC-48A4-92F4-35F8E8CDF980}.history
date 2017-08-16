@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A2BF4E5C-4DCC-48A4-92F4-35F8E8CDF980}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:30:33.0653530Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Thailand",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Thailand",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

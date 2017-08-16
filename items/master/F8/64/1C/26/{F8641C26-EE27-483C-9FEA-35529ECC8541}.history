@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F8641C26-EE27-483C-9FEA-35529ECC8541}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:31:21.0501439Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "matches the regular expression",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/String Operators/matches the regular expression",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{17394C5A-35A3-45A3-BF2C-F1AC607D1476}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:32:40.1634897Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Preview publishing target",
+    "itemPath": "/sitecore/templates/System/Publishing target/Data/Preview publishing target",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

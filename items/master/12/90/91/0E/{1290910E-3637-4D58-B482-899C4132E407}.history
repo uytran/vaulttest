@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1290910E-3637-4D58-B482-899C4132E407}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:30:38.8705632Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
+    "workflowStateName": "Deployed",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Search Engine - Organic",
+    "itemPath": "/sitecore/system/Settings/Analytics/Traffic Type/Search Engine - Organic",
+    "template": "Traffic Type",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

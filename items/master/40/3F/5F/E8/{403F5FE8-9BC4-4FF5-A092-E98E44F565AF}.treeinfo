@@ -1,0 +1,10 @@
+{
+  "itemName": "Rules Validation Rule",
+  "templateId": "{AB86861A-6030-46C5-B394-E8F99E8B87DB}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{2884A16D-6C99-40C4-ADF9-064A6B8066E2}",
+  "childIds": [
+    "{E9613FEF-5FAD-45FD-9652-3B550F1B487F}",
+    "{B4AE16A9-EA2F-4D5B-905E-7299975316A2}"
+  ]
+}

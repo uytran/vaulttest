@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E5807574-D79C-4D27-B259-90539F665837}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:30:25.0837748Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Cook Islands",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Cook Islands",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

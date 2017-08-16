@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{78B37637-706F-46FD-B190-5170ED81B4B0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:31:14.0532290Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Interaction Start Date",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Visit/Interaction Start Date",
+    "template": "Condition",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

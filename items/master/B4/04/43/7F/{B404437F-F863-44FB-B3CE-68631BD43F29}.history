@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B404437F-F863-44FB-B3CE-68631BD43F29}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:30:31.6204709Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Russian Federation",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Russian Federation",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

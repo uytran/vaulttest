@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1163DA83-B2EF-4381-BF09-B2FF714B1B3F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:32:19.2146979Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Xml layout",
+    "itemPath": "/sitecore/templates/System/Layout/Xml layout",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

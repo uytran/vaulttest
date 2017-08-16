@@ -1,0 +1,10 @@
+{
+  "itemName": "Content Editor Warnings",
+  "templateId": "{DDA66314-03F3-4C89-84A9-39DFFB235B06}",
+  "branchId": "{BDC41FDD-A3AC-4B69-A0BA-471C425CB083}",
+  "parentId": "{1057C235-C5C0-4EB7-8F77-EA51EB9E20EE}",
+  "childIds": [
+    "{2F33CE60-C3D9-45C3-A391-3C22F2F63FB5}",
+    "{58322CDC-85C8-4812-B20A-BF0B6ED91A2C}"
+  ]
+}

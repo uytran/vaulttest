@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6E6DB71F-31CB-4245-A737-0882173B988D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:31:16.2178450Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "SocialNetwork",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Macros/Social/SocialNetwork",
+    "template": "Macro",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{EEE0B246-76A8-4EA1-9CA7-BC0962BD12CD}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:31:50.4410943Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Duration",
+    "itemPath": "/sitecore/templates/System/Analytics/Campaign/Duration",
+    "template": "Template section",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

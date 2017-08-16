@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0CF2654B-6E8B-44EB-9555-D2458B8092A5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:31:55.9113145Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Event Image",
+    "itemPath": "/sitecore/templates/System/Analytics/Page Event/Experience Profile Options/Event Image",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

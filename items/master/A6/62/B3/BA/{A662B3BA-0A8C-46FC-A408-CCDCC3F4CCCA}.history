@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A662B3BA-0A8C-46FC-A408-CCDCC3F4CCCA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:30:22.5578594Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Antigua and Barbuda",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Antigua and Barbuda",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

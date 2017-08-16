@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{61370693-189D-44A0-ABC5-2592DBD579ED}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:31:14.2194296Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Global Visit No",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Visitor/Global Visit No",
+    "template": "Condition",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

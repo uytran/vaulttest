@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{35951900-2D33-479B-9FC0-ED12B05E2E78}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:31:14.0211397Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Exit Page",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Visit/Exit Page",
+    "template": "Condition",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

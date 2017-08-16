@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{CF007357-FEA7-4E2E-82F2-B3B239C496A8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:31:06.9608301Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Publishable",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Item Version CM/Publishable",
+    "template": "Condition",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

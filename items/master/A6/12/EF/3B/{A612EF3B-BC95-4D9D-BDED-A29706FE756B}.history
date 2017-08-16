@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A612EF3B-BC95-4D9D-BDED-A29706FE756B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:31:08.7999740Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "User Profile",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Security/User Profile",
+    "template": "Condition",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

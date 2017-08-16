@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8A63ABCF-1CA6-4FD2-ABEE-5DFC2D7B0C75}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-08-16T16:32:40.4862988Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Large Combo Button",
+    "itemPath": "/sitecore/templates/System/Ribbon/Large Combo Button",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

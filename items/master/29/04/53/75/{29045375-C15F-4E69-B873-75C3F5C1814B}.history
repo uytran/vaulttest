@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{29045375-C15F-4E69-B873-75C3F5C1814B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:32:45.8926102Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Validation Result",
+    "itemPath": "/sitecore/templates/System/Rules/Validation Result",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

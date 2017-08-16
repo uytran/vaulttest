@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{CFD44297-445E-4311-BC9A-2589DD7512D1}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-08-16T16:30:53.0507049Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "MV Test Visits by Test Id And Test Values",
+    "itemPath": "/sitecore/system/Settings/Content Testing/Report Queries/Deprecated/MV Test Visits by Test Id And Test Values",
+    "template": "ReportQuery",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

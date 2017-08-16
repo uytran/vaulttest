@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6D00D695-0CAB-47D7-8929-A03EA002EB19}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:32:00.5939843Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Multivariate Test Value",
+    "itemPath": "/sitecore/templates/System/Content Testing/Multivariate Test Value",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

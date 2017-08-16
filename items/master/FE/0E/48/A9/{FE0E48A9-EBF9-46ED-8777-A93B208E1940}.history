@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FE0E48A9-EBF9-46ED-8777-A93B208E1940}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:30:17.9247584Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Bing",
+    "itemPath": "/sitecore/system/Modules/Experience Explorer/Map Settings/Bing",
+    "template": "Map Provider",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

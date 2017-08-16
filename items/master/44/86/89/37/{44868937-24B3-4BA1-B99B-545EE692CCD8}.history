@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{44868937-24B3-4BA1-B99B-545EE692CCD8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:30:52.4953625Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "VisitorCount By TestId And TestCombination",
+    "itemPath": "/sitecore/system/Settings/Content Testing/Report Queries/VisitorCount By TestId And TestCombination",
+    "template": "ReportQuery",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

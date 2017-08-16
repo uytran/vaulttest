@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{50D60671-6D34-456C-823B-5F5B6B147EC3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:31:58.2928609Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Daily",
+    "itemPath": "/sitecore/templates/System/Analytics/Report/Data/Daily",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

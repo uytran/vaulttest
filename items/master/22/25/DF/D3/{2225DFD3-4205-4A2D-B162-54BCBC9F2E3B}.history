@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2225DFD3-4205-4A2D-B162-54BCBC9F2E3B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:32:04.5904744Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "WinnerCombination",
+    "itemPath": "/sitecore/templates/System/Content Testing/Test Definition/Data/WinnerCombination",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

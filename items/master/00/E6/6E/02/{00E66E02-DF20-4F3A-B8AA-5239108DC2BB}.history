@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{00E66E02-DF20-4F3A-B8AA-5239108DC2BB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:31:40.2283639Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Webcontrol",
+    "itemPath": "/sitecore/templates/Branches/System/Layouts/Renderings/__Webcontrol",
+    "template": "Branch",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

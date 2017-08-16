@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5B04FEB9-FF85-4078-A577-A8830D1C7F44}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:29:44.2325650Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Sandra 128x128",
+    "itemPath": "/sitecore/media library/Experience Explorer/Presets/Sandra 128x128",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "itemName": "Twitter Share Button Parameters",
+  "templateId": "{AB86861A-6030-46C5-B394-E8F99E8B87DB}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{A2462AE3-D233-45F3-A749-FDD03ECFA568}",
+  "childIds": [
+    "{326F9D07-DB35-4EA5-8EEE-CC87510CC033}"
+  ]
+}

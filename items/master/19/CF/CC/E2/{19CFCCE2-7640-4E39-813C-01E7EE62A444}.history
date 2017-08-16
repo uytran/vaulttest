@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{19CFCCE2-7640-4E39-813C-01E7EE62A444}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:31:15.8373395Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ProfileKey",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Macros/ProfileKey",
+    "template": "Macro",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

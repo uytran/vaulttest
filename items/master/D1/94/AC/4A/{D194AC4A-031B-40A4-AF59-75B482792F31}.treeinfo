@@ -1,0 +1,9 @@
+{
+  "itemName": "Campaign Search Keywords",
+  "templateId": "{F960E028-5373-48BF-B3B3-9B23FE13C0C4}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{5EDD5CDF-B339-4B7C-95A2-B436402F385E}",
+  "childIds": [
+    "{29D1F26E-DCA2-4ABD-A0FD-6F9C8CB475BC}"
+  ]
+}

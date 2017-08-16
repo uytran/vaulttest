@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0B7037D2-EFED-4BE1-8233-522A68409E30}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:30:20.1304194Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Campaign Efficiency",
+    "itemPath": "/sitecore/system/Settings/Analytics/Dashboard Reports/Overview/Campaign Efficiency",
+    "template": "Dashboard Report",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

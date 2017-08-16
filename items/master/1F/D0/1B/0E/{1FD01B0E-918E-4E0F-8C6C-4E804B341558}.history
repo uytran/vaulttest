@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1FD01B0E-918E-4E0F-8C6C-4E804B341558}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:30:30.4203748Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Nepal",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Nepal",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

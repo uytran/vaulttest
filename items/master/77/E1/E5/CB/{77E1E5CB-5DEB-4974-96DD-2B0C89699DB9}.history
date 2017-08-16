@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{77E1E5CB-5DEB-4974-96DD-2B0C89699DB9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:32:03.8700307Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/System/Content Testing/Tasks/Try Finish Tests/__Standard Values",
+    "template": "Try Finish Tests",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

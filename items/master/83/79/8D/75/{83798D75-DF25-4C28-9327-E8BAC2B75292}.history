@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{83798D75-DF25-4C28-9327-E8BAC2B75292}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:32:59.0107012Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Insert Rules",
+    "itemPath": "/sitecore/templates/System/Templates/Sections/Insert Options/Insert Options/__Insert Rules",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

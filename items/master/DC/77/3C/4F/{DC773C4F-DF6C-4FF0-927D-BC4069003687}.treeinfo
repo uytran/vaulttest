@@ -1,0 +1,10 @@
+{
+  "itemName": "Launch Create Test Dialog Action",
+  "templateId": "{AB86861A-6030-46C5-B394-E8F99E8B87DB}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{44E8128F-E77E-4A15-8E30-21060D00D9AD}",
+  "childIds": [
+    "{51260A09-98C0-42FC-B579-BFEA89F1A84C}",
+    "{7F37A576-12E9-460D-BCE7-4EA47DA9EC6E}"
+  ]
+}

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D13A9619-BABE-4440-AA40-3A6339469CA5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:29:48.0581282Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Page Error",
+    "itemPath": "/sitecore/media library/System/Page Event Images/Page Error",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

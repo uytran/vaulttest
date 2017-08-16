@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{83B1A316-F9FE-4B9C-9B13-A562F176E8ED}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:32:07.9777882Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Scripts",
+    "itemPath": "/sitecore/templates/System/Experience Explorer/Map Provider/Data/Scripts",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

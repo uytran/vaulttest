@@ -1,0 +1,9 @@
+{
+  "itemName": "Segment",
+  "templateId": "{AB86861A-6030-46C5-B394-E8F99E8B87DB}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{75077028-25D4-47B5-B3F0-8C65407C4DF9}",
+  "childIds": [
+    "{80D663E0-9281-45FC-A9A0-7E5190CADE23}"
+  ]
+}

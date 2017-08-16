@@ -1,0 +1,10 @@
+{
+  "itemName": "Not Enough Versions Execute Command Action",
+  "templateId": "{AB86861A-6030-46C5-B394-E8F99E8B87DB}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{44E8128F-E77E-4A15-8E30-21060D00D9AD}",
+  "childIds": [
+    "{70E336A9-C902-4809-A110-8AF77F5D70E1}",
+    "{B5ECE3B5-0C94-4C32-B597-A4AE782321DD}"
+  ]
+}

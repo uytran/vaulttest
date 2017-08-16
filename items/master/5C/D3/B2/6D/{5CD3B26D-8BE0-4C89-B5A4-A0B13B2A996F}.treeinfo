@@ -1,0 +1,10 @@
+{
+  "itemName": "SharingControlParameters",
+  "templateId": "{AB86861A-6030-46C5-B394-E8F99E8B87DB}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{A2462AE3-D233-45F3-A749-FDD03ECFA568}",
+  "childIds": [
+    "{B48F0E68-5A00-4CF3-9F86-837C11D0CE41}",
+    "{6D70E60B-AB46-45CF-9A6A-158272E4B8F6}"
+  ]
+}

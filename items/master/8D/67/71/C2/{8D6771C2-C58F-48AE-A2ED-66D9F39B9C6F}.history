@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8D6771C2-C58F-48AE-A2ED-66D9F39B9C6F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:30:25.6009506Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Dominican Republic",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Dominican Republic",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

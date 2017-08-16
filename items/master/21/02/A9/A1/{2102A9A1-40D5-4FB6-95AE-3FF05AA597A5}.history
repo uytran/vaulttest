@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2102A9A1-40D5-4FB6-95AE-3FF05AA597A5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:30:29.2752846Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Liberia",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Liberia",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

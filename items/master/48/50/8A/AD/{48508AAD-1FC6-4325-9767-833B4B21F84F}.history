@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{48508AAD-1FC6-4325-9767-833B4B21F84F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:30:31.3786735Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Pitcairn",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Pitcairn",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

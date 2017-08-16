@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{36E3E51C-5E13-4938-A07A-0DBD877A5640}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:32:26.0486153Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Form Controller Name",
+    "itemPath": "/sitecore/templates/System/Layout/Renderings/View rendering/Data/Form Controller Name",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

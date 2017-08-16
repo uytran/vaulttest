@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6954B7C7-2487-423F-8600-436CB3B6DC0E}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-08-16T16:32:30.2275067Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Size",
+    "itemPath": "/sitecore/templates/System/Media/Unversioned/File/Information/Size",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

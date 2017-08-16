@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0D925563-3CE0-491F-B982-B99D9CCB5EB1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:30:40.6908350Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
+    "workflowStateName": "Deployed",
+    "activeUser": "sitecore\\admin",
+    "itemName": "930 - Bot - Malicious",
+    "itemPath": "/sitecore/system/Settings/Analytics/Visitor Identifications/930 - Bot - Malicious",
+    "template": "Visitor Identification",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

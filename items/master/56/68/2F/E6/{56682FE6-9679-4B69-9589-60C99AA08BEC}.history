@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{56682FE6-9679-4B69-9589-60C99AA08BEC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:31:45.8297663Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Campaign Category",
+    "itemPath": "/sitecore/templates/System/Analytics/Campaign Category",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

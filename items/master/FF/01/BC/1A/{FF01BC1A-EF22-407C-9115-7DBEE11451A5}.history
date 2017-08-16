@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FF01BC1A-EF22-407C-9115-7DBEE11451A5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:32:30.2951737Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "CountryCode",
+    "itemPath": "/sitecore/templates/System/Media/Unversioned/File/Location/CountryCode",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

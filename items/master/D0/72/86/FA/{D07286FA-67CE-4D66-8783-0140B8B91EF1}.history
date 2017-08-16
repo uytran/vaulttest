@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D07286FA-67CE-4D66-8783-0140B8B91EF1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:29:52.4985671Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Online",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Channel/Online",
+    "template": "Channel type",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

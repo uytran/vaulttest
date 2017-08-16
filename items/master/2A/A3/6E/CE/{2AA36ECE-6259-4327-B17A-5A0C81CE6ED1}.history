@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2AA36ECE-6259-4327-B17A-5A0C81CE6ED1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:30:55.6920170Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Device Detection",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Device Detection",
+    "template": "Element Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

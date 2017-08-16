@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E38E8794-4F70-4906-A62A-B7D018E07FA9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:30:51.9348612Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Reach For Rule",
+    "itemPath": "/sitecore/system/Settings/Content Testing/Report Queries/Reach For Rule",
+    "template": "ReportQuery",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

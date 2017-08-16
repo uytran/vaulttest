@@ -1,0 +1,9 @@
+{
+  "itemName": "Application",
+  "templateId": "{AB86861A-6030-46C5-B394-E8F99E8B87DB}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{AB5F3466-AFBC-4EAE-A4AB-7E292B888CA0}",
+  "childIds": [
+    "{8B356FC7-A0BE-442F-8D47-4894ED5DA6A0}"
+  ]
+}

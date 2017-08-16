@@ -1,0 +1,9 @@
+{
+  "itemName": "Custom taxonomy",
+  "templateId": "{AB86861A-6030-46C5-B394-E8F99E8B87DB}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{25748DB3-7E26-4620-96AF-176697737D9F}",
+  "childIds": [
+    "{12B83F38-C28E-4E70-B6C1-87B46065F6A4}"
+  ]
+}

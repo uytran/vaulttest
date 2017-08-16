@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E2E60CB8-AFAE-4465-8443-40D3A95EEF0F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:32:19.5786349Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Agent",
+    "itemPath": "/sitecore/templates/System/Layout/Device/Detection/Agent",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

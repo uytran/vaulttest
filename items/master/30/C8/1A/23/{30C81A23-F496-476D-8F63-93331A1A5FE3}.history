@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{30C81A23-F496-476D-8F63-93331A1A5FE3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:30:32.0189986Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Satellite Provider",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Satellite Provider",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

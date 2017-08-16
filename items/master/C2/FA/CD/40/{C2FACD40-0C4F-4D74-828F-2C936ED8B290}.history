@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C2FACD40-0C4F-4D74-828F-2C936ED8B290}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:31:35.8224404Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Completed",
+    "itemPath": "/sitecore/system/Workflows/Analytics Testing Workflow/Completed",
+    "template": "State",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{45AEE966-4535-4D22-ADFA-0B12F0AE7683}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:30:24.9642646Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Congo",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Congo",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

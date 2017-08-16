@@ -1,0 +1,10 @@
+{
+  "itemName": "Path Analyzer Map Groups",
+  "templateId": "{DDA66314-03F3-4C89-84A9-39DFFB235B06}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{1057C235-C5C0-4EB7-8F77-EA51EB9E20EE}",
+  "childIds": [
+    "{D7AD6858-3F1D-45C2-B85F-7A6F3F91B9E0}",
+    "{3A899737-EA3C-4374-9E5A-B50D6F33B69D}"
+  ]
+}

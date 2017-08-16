@@ -1,0 +1,9 @@
+{
+  "itemName": "Outcome maps",
+  "templateId": "{98360C58-F51F-43A4-B057-9EF459C0FF10}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{9AFA5614-47E6-487D-B93E-7C6F4356AF6C}",
+  "childIds": [
+    "{304F4BD1-E7C2-43FC-9AA2-F09E96BAABC1}"
+  ]
+}

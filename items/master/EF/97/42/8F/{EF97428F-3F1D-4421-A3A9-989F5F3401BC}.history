@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{EF97428F-3F1D-4421-A3A9-989F5F3401BC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:30:53.2096290Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Round Robin Sticky",
+    "itemPath": "/sitecore/system/Settings/Content Testing/Test Strategies/Round Robin Sticky",
+    "template": "Multivariate Test Strategy",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

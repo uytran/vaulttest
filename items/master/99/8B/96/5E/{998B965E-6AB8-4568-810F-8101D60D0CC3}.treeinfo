@@ -1,0 +1,9 @@
+{
+  "itemName": "Menu item",
+  "templateId": "{AB86861A-6030-46C5-B394-E8F99E8B87DB}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{0183133E-9E5D-47A4-8B50-8D0A3880F962}",
+  "childIds": [
+    "{4C5A0AED-46C9-43EB-AE72-FDAFA36F5928}"
+  ]
+}

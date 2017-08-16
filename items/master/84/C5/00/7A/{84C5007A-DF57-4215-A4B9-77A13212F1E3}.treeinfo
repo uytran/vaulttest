@@ -1,0 +1,10 @@
+{
+  "itemName": "Top Leads by Activity",
+  "templateId": "{A87A00B1-E6DB-45AB-8B54-636FEC3B5523}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{2198A77E-9677-454C-B2BF-AAB563FB8C35}",
+  "childIds": [
+    "{3ACC5C05-E417-4DA4-B74A-B936144C9270}",
+    "{A9C29033-EEBC-463F-8305-50D331CBC347}"
+  ]
+}

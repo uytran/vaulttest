@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{89776A46-3319-43F2-9D80-4FEB8A8E069E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:31:55.6719826Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "IsAuthorFeedback",
+    "itemPath": "/sitecore/templates/System/Analytics/Page Event/Options/IsAuthorFeedback",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "itemName": "Search Filter Control Details",
+  "templateId": "{E269FBB5-3750-427A-9149-7AA950B49301}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{73452E69-1DA0-4738-B0F6-7C078EA4EF1B}",
+  "childIds": [
+    "{98ACD4D7-0DDE-4CAA-8F73-CB1DB5438884}"
+  ]
+}

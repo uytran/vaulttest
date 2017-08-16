@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7B03900C-AFCF-42E0-9E1E-6857730E93CA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:30:31.6510157Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Rwanda",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Rwanda",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

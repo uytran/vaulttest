@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6FDBF936-0180-4CCD-9893-985DF171AB68}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:32:01.3268500Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Experiences",
+    "itemPath": "/sitecore/templates/System/Content Testing/Historical Test Data/Data/Experiences",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

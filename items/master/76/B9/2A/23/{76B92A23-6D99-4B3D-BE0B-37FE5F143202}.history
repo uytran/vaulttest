@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{76B92A23-6D99-4B3D-BE0B-37FE5F143202}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:29:46.6325762Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ch-productdisplay",
+    "itemPath": "/sitecore/media library/System/Channel Images/ch-productdisplay",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

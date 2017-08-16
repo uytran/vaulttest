@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{798C6E3E-2A43-4859-83AD-D0DA41C7BF22}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:32:03.9233140Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Update Test Statistics",
+    "itemPath": "/sitecore/templates/System/Content Testing/Tasks/Try Finish Tests/Data/Update Test Statistics",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

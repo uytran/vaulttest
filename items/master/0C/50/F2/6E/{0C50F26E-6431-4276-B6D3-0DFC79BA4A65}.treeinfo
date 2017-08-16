@@ -1,0 +1,9 @@
+{
+  "itemName": "Campaign List",
+  "templateId": "{F960E028-5373-48BF-B3B3-9B23FE13C0C4}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{5EDD5CDF-B339-4B7C-95A2-B436402F385E}",
+  "childIds": [
+    "{D9CDA4B0-3487-4413-A331-288164A89D48}"
+  ]
+}

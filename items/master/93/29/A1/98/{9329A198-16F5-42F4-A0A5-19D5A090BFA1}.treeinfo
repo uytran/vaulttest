@@ -1,0 +1,9 @@
+{
+  "itemName": "Google Plus",
+  "templateId": "{56682FE6-9679-4B69-9589-60C99AA08BEC}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{3A481829-C0A0-4DDE-9C79-90EF97FB561F}",
+  "childIds": [
+    "{19563CBA-D45D-4314-968E-A05C039671D5}"
+  ]
+}

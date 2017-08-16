@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{49E5E8F3-ED4A-4A06-ABE1-B9408951DEE9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:32:18.0853426Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Charset",
+    "itemPath": "/sitecore/templates/System/Language/Data/Charset",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "itemName": "Experience Explorer",
+  "templateId": "{239F9CF4-E5A0-44E0-B342-0F32CD4C6D8B}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{3D6658D8-A0BF-4E75-B3E2-D050FABCF4E1}",
+  "childIds": [
+    "{A227A241-3E6C-4841-BB1D-2770FBA46621}"
+  ]
+}

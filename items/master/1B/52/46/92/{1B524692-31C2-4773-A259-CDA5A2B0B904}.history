@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1B524692-31C2-4773-A259-CDA5A2B0B904}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:30:37.6533549Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Slow Pages Visits",
+    "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Slow Pages Visits",
+    "template": "ReportQuery",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

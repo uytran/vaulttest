@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D8E619C3-2D16-47F4-AD3B-C68103DF86C2}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-08-16T16:32:33.7977458Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Width",
+    "itemPath": "/sitecore/templates/System/Media/Versioned/Image/Image/Width",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

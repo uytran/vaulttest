@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1C254664-602F-4C94-BCDE-2FB0E135E51C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:30:40.4533579Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
+    "workflowStateName": "Deployed",
+    "activeUser": "sitecore\\admin",
+    "itemName": "500 - Competitor",
+    "itemPath": "/sitecore/system/Settings/Analytics/Visitor Identifications/500 - Competitor",
+    "template": "Visitor Identification",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

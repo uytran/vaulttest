@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A3A3A1C1-A73E-48D4-867F-060C434678A6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:30:22.3773241Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Anonymous Proxy",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Anonymous Proxy",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

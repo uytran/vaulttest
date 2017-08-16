@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{69017F4A-7C6C-4FE5-9B25-A627E806FD8A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:30:32.9783376Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Tajikistan",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Tajikistan",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

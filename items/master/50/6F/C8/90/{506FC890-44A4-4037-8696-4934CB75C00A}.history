@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{506FC890-44A4-4037-8696-4934CB75C00A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:31:29.2408737Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Require Login",
+    "itemPath": "/sitecore/system/Settings/Security/Presets/Require Login",
+    "template": "Security Preset",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

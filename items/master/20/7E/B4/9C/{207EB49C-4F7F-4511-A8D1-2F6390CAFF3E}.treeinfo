@@ -1,0 +1,10 @@
+{
+  "itemName": "Rebuild Index Command",
+  "templateId": "{AB86861A-6030-46C5-B394-E8F99E8B87DB}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{3F89BC53-5DE1-4A01-A3FE-F775F26C7A84}",
+  "childIds": [
+    "{4821E43A-D235-48C3-BCC1-936A29265481}",
+    "{BF506F4C-DDC2-4E4F-97DA-FF8F551E4D01}"
+  ]
+}

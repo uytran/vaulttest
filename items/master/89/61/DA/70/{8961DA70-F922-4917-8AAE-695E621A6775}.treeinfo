@@ -1,0 +1,9 @@
+{
+  "itemName": "Item section",
+  "templateId": "{AB86861A-6030-46C5-B394-E8F99E8B87DB}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{4BF98EF5-1D09-4DD1-9AFE-795F9829FD44}",
+  "childIds": [
+    "{8E9F51C8-6772-4A04-AAA0-ACC0DC1695A2}"
+  ]
+}

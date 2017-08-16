@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B2500C95-A7C3-4AB3-AFF5-192563358F03}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:32:49.3482437Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ContentLanguage",
+    "itemPath": "/sitecore/templates/System/Security/User/Data/ContentLanguage",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E269FBB5-3750-427A-9149-7AA950B49301}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:32:56.8475637Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Template section",
+    "itemPath": "/sitecore/templates/System/Templates/Template section",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

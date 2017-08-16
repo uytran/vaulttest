@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B5B27AF1-25EF-405C-87CE-369B3A004016}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:32:28.6038968Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Datasource Location",
+    "itemPath": "/sitecore/templates/System/Layout/Sections/Rendering Options/Editor Options/Datasource Location",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

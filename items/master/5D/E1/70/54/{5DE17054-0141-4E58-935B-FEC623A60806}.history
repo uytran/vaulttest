@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5DE17054-0141-4E58-935B-FEC623A60806}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:32:15.8185915Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "DisplayName",
+    "itemPath": "/sitecore/templates/System/Item Buckets/Facet/Facet/DisplayName",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

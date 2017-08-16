@@ -1,0 +1,9 @@
+{
+  "itemName": "Simulators",
+  "templateId": "{A87A00B1-E6DB-45AB-8B54-636FEC3B5523}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{087E1EA5-6280-4575-9E70-85B588DB91B2}",
+  "childIds": [
+    "{CCC9FA4C-C03E-4F68-B576-B423BEF01CB8}"
+  ]
+}

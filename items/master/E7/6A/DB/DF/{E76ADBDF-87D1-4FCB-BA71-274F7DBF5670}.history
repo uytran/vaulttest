@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E76ADBDF-87D1-4FCB-BA71-274F7DBF5670}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:32:29.3153050Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Movie",
+    "itemPath": "/sitecore/templates/System/Media/Unversioned/Movie",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

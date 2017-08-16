@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F5652C06-676B-4E12-A9D0-06D000E5F1C8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:30:10.9829054Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Process",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Profiles/Focus/Process",
+    "template": "Profile Key",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{97A56179-BF96-4F7F-880D-08611F0CE0D2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:31:09.5572120Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "PreferredEmail",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Segment Builder/PreferredEmail",
+    "template": "Condition",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

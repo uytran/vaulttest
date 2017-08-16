@@ -1,0 +1,9 @@
+{
+  "itemName": "Tagging",
+  "templateId": "{E269FBB5-3750-427A-9149-7AA950B49301}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{0AA6D3F8-C9D0-401F-83AA-A41433C24767}",
+  "childIds": [
+    "{A14F1B0C-4384-49EC-8790-28A440F3670C}"
+  ]
+}

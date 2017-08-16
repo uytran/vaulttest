@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{CDD3F213-81BB-4770-8FEC-4E1DD65EAA66}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:29:40.2088793Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ItemRenderer",
+    "itemPath": "/sitecore/layout/Renderings/System/ItemRenderer",
+    "template": "Item rendering",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

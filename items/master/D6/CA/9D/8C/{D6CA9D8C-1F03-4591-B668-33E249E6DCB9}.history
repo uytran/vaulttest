@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D6CA9D8C-1F03-4591-B668-33E249E6DCB9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:30:35.9609993Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
+    "workflowStateName": "Deployed",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Submit success",
+    "itemPath": "/sitecore/system/Settings/Analytics/Page Events/Submit success",
+    "template": "Page Event",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

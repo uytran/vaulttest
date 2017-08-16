@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C621DA42-0F6C-4D86-B47C-B164E7148D9B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:30:38.1122392Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Visits Filtered by Traffic Type",
+    "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Visits Filtered by Traffic Type",
+    "template": "ReportQuery",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

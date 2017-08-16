@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F73D7D39-84C6-4BAC-8928-347AB8E4D91C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:30:23.1563471Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Bangladesh",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Bangladesh",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

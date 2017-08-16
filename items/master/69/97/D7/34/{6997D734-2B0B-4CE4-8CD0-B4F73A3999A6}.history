@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6997D734-2B0B-4CE4-8CD0-B4F73A3999A6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:32:04.2844389Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Test Strategy",
+    "itemPath": "/sitecore/templates/System/Content Testing/Test Definition/Data/Test Strategy",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

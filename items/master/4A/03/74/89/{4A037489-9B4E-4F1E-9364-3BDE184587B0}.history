@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4A037489-9B4E-4F1E-9364-3BDE184587B0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:31:51.3680199Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Designer",
+    "itemPath": "/sitecore/templates/System/Analytics/Engagement Automation/Designer",
+    "template": "Template Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

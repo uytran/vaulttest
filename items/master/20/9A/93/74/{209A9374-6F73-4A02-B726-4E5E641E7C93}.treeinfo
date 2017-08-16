@@ -1,0 +1,9 @@
+{
+  "itemName": "Devices",
+  "templateId": "{A87A00B1-E6DB-45AB-8B54-636FEC3B5523}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{D0D4FDE3-45C1-471D-B01E-D379E6070990}",
+  "childIds": [
+    "{C6EB62E8-7DE3-4F87-9EC3-050137A05DEF}"
+  ]
+}

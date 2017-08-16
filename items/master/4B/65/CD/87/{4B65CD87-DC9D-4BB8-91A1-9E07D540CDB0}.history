@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4B65CD87-DC9D-4BB8-91A1-9E07D540CDB0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:30:36.5571538Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Average",
+    "itemPath": "/sitecore/system/Settings/Analytics/Profile Types/Average",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

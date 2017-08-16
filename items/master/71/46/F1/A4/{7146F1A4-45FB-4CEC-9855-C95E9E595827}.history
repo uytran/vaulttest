@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7146F1A4-45FB-4CEC-9855-C95E9E595827}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:30:43.7127160Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Date Range",
+    "itemPath": "/sitecore/system/Settings/Buckets/Facets/Date Range",
+    "template": "Facet",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

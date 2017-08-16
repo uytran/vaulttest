@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{47676986-AB20-4A03-AE67-56BDF3491581}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:30:32.4436959Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Slovenia",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Slovenia",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

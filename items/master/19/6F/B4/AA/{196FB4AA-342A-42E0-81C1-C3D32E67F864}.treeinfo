@@ -1,0 +1,10 @@
+{
+  "itemName": "Login with Google Button Parameters",
+  "templateId": "{AB86861A-6030-46C5-B394-E8F99E8B87DB}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{57B5B065-493A-4303-997E-DC8D1277A72E}",
+  "childIds": [
+    "{A1B16D90-259A-44A7-8160-ECCA8DE04B97}",
+    "{A52DCDD0-128C-4803-94C9-8BD096290241}"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "itemName": "Macro",
+  "templateId": "{AB86861A-6030-46C5-B394-E8F99E8B87DB}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{4258E45A-087A-4C63-A8F5-65DD58B80FFA}",
+  "childIds": [
+    "{6F349FAF-5BEA-44D7-92BE-458613AA0ED1}"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "itemName": "Fragment Action",
+  "templateId": "{AB86861A-6030-46C5-B394-E8F99E8B87DB}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{70BC649F-B5F0-459E-8B3B-0FE3E4FE184F}",
+  "childIds": [
+    "{F29E3A3B-A604-43A5-B3A9-62D988789B62}"
+  ]
+}

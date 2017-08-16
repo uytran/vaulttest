@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{858D1EC2-0558-4CD6-A7BF-23DED3F7E330}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:31:15.2597613Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Xdb Enabled",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Xdb/Xdb Enabled",
+    "template": "Condition",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

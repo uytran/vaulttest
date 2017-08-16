@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E4D0FAF3-61E7-44D4-A921-CE5C606A8DA8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:31:55.7923402Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "IsSystem",
+    "itemPath": "/sitecore/templates/System/Analytics/Page Event/Options/IsSystem",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,10 @@
+{
+  "itemName": "Container Posting Configuration",
+  "templateId": "{AB86861A-6030-46C5-B394-E8F99E8B87DB}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{A0A04AF2-4090-4481-A7FB-BA9EED686370}",
+  "childIds": [
+    "{079344C8-3CCF-43D6-96DF-F4FF5D9DD709}",
+    "{062F23E0-EA6A-4FF6-A403-D2B0A0D1D680}"
+  ]
+}

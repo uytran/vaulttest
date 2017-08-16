@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8FEBD913-CEC8-43EE-9911-4B2CEC124646}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:30:33.4222507Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Tuvalu",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Tuvalu",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

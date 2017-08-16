@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F3E7E552-D7C8-469B-A150-69E4E14AB35C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:32:28.2592857Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ClearOnIndexUpdate",
+    "itemPath": "/sitecore/templates/System/Layout/Sections/Caching/Caching/ClearOnIndexUpdate",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

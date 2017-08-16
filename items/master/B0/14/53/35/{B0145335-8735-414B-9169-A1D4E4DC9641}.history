@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B0145335-8735-414B-9169-A1D4E4DC9641}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-08-16T16:32:31.4055881Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Software",
+    "itemPath": "/sitecore/templates/System/Media/Unversioned/Jpeg/Exif/Software",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

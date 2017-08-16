@@ -1,0 +1,9 @@
+{
+  "itemName": "Model",
+  "templateId": "{AB86861A-6030-46C5-B394-E8F99E8B87DB}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{FB6B721E-D64D-4392-A1F0-A15194CBFAD9}",
+  "childIds": [
+    "{D3B67E7A-27F2-4CED-9F9B-F5B73A553E5A}"
+  ]
+}

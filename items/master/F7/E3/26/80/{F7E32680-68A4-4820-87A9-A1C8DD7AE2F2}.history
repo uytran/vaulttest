@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F7E32680-68A4-4820-87A9-A1C8DD7AE2F2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:32:08.9291093Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Geo Latitude",
+    "itemPath": "/sitecore/templates/System/Experience Explorer/Preset/Location/Geo Latitude",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

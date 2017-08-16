@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1A0C1FE0-7956-4020-981B-4CEA3C4F114A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:32:36.4749893Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Map",
+    "itemPath": "/sitecore/templates/System/Path Analyzer/Map",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0CA0E16B-2E9A-4860-AFFB-90D00D92A2B4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:32:14.5265526Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/System/Indexing and Search/Boosting Rule/__Standard Values",
+    "template": "Boosting Rule",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B879D176-4226-4C74-9ED4-6E61E813CBF7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:31:35.5365013Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Path Analyzer Maps",
+    "itemPath": "/sitecore/system/Workflows/Path Analyzer Maps",
+    "template": "Workflow",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

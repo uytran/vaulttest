@@ -1,0 +1,9 @@
+{
+  "itemName": "Twitter Message",
+  "templateId": "{AB86861A-6030-46C5-B394-E8F99E8B87DB}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{D28022BC-8F46-4FC2-B167-D46742CE4B8F}",
+  "childIds": [
+    "{8B585E1E-EF1A-4209-B7BA-F8A332B0471F}"
+  ]
+}

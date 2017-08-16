@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{33A4181C-6FF1-4A4E-9B42-8F7A54F70699}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:30:51.6702358Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Page Views By Item Id",
+    "itemPath": "/sitecore/system/Settings/Content Testing/Report Queries/Page Views By Item Id",
+    "template": "ReportQuery",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

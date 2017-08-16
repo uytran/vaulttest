@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{358F79AF-649F-4C04-93F7-47F72757E9DE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:32:09.8995899Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "BodyField",
+    "itemPath": "/sitecore/templates/System/Feeds/Feed Rendering Parameters/Data/BodyField",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

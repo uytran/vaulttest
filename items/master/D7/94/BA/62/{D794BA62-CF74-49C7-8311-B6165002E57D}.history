@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D794BA62-CF74-49C7-8311-B6165002E57D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:30:31.8795366Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Saint Vincent and the Grenadines",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Saint Vincent and the Grenadines",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

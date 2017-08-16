@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F9CB72D5-5399-4B86-AC51-402B81D5D43C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:32:55.1104877Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Posting Configuration",
+    "itemPath": "/sitecore/templates/System/Social/Posting Configuration/Posting Configuration",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

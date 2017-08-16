@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{968897F1-328A-489D-88E8-BE78F4370958}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:29:58.4676256Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
+    "workflowStateName": "Deployed",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Brochures Request",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Goals/Brochures Request",
+    "template": "Goal",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

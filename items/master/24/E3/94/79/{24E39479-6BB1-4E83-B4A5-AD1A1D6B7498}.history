@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{24E39479-6BB1-4E83-B4A5-AD1A1D6B7498}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:29:47.0976010Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ch-twitter-post",
+    "itemPath": "/sitecore/media library/System/Channel Images/ch-twitter-post",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

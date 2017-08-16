@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{001DD393-96C5-490B-924A-B0F25CD9EFD8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:33:01.9199564Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Lock",
+    "itemPath": "/sitecore/templates/System/Templates/Sections/Workflow/Workflow/__Lock",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{62B79128-155C-4210-A4D2-EEC62BB51603}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:31:36.9974124Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__OnSave",
+    "itemPath": "/sitecore/system/Workflows/Sample Workflow/Draft/__OnSave",
+    "template": "Command",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

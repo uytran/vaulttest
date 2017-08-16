@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3C4269AD-19FE-4378-A51D-2690396B85C4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:29:49.0924072Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Android Phablet Landscape",
+    "itemPath": "/sitecore/media library/System/Simulator Backgrounds/Android Phablet Landscape",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

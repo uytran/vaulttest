@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5A9FAE1C-A68A-4310-B3B1-1D364F65E197}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:31:50.8105878Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "EndDate",
+    "itemPath": "/sitecore/templates/System/Analytics/Campaign/Duration/EndDate",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

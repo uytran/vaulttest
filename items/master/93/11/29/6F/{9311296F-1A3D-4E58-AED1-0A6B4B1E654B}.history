@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9311296F-1A3D-4E58-AED1-0A6B4B1E654B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:30:10.8589437Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Score",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Profiles/Score",
+    "template": "Profile",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

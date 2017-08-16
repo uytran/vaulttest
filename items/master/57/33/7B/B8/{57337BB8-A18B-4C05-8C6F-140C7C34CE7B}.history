@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{57337BB8-A18B-4C05-8C6F-140C7C34CE7B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:30:33.6453977Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "United States Minor Outlying Islands",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/United States Minor Outlying Islands",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

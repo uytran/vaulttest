@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8942F925-7DCF-48C1-BBBE-A0388947864E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:30:24.5662943Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "China",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/China",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

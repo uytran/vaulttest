@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{80285931-AB73-4CC8-8DA2-9A7DEC79F4CA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:30:53.0220459Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Last Test Id For Rule",
+    "itemPath": "/sitecore/system/Settings/Content Testing/Report Queries/Deprecated/Last Test Id For Rule",
+    "template": "ReportQuery",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

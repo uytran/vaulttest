@@ -1,0 +1,9 @@
+{
+  "itemName": "Report Schedule",
+  "templateId": "{AB86861A-6030-46C5-B394-E8F99E8B87DB}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{645DF3D7-28AF-4984-90A2-AEA8913DF75A}",
+  "childIds": [
+    "{3083CA78-DAE1-4DD9-9893-68AAF89BF4AF}"
+  ]
+}

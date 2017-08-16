@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{97FFCE5D-A80F-470B-B26A-A7861AC39CA6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:32:12.7732340Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Tidy on button",
+    "itemPath": "/sitecore/templates/System/Html editor/HTML Tidy/Data/Tidy on button",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

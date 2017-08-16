@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{220E8575-DA98-4F87-97A6-34940BEA0109}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:30:19.4227895Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Visitor Identification Types",
+    "itemPath": "/sitecore/system/Settings/Analytics/Visitor Identification Types",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

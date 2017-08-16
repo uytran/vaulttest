@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{CBCF6772-419B-4D98-AC62-3B9E1AE39A7B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:30:22.2440166Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Angola",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Angola",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

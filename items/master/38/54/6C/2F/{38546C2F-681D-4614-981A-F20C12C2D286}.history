@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{38546C2F-681D-4614-981A-F20C12C2D286}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:32:00.8096428Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Suggested Test",
+    "itemPath": "/sitecore/templates/System/Content Testing/Suggested Test",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

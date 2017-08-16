@@ -1,0 +1,10 @@
+{
+  "itemName": "Conditional Rendering Rule",
+  "templateId": "{AB86861A-6030-46C5-B394-E8F99E8B87DB}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{4258E45A-087A-4C63-A8F5-65DD58B80FFA}",
+  "childIds": [
+    "{0FB3069F-24B1-43FF-9D3B-17D09F52C28B}",
+    "{A971ACEA-98D5-499D-9CD1-2716818DA34F}"
+  ]
+}

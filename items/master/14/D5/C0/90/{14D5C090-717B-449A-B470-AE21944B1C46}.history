@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{14D5C090-717B-449A-B470-AE21944B1C46}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:29:48.6954405Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Register for Event",
+    "itemPath": "/sitecore/media library/System/Page Event Images/Register for Event",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

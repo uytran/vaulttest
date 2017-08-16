@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B7CB66A8-F6E6-44DC-B048-88BAB0DC37C9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:32:03.4976802Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Try Finish Tests",
+    "itemPath": "/sitecore/templates/System/Content Testing/Tasks/Try Finish Tests",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

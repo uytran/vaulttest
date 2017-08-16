@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A98A4834-8FED-42EB-B773-0553C5A392E7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:31:41.0596730Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "All visits",
+    "itemPath": "/sitecore/templates/Branches/System/Path Analyzer/Site map group/$name/Page maps/All visits",
+    "template": "Map",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

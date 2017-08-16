@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{43F1E538-5661-4E28-B8BE-D93B0F6C1715}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:31:50.9100034Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Cost per Click",
+    "itemPath": "/sitecore/templates/System/Analytics/Campaign/Cost/Cost per Click",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

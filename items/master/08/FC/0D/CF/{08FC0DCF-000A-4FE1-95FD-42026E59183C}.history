@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{08FC0DCF-000A-4FE1-95FD-42026E59183C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:31:41.7288764Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Contact acquisition",
+    "itemPath": "/sitecore/templates/Branches/System/Path Analyzer/Site map group/$name/Outcome maps/Contact acquisition",
+    "template": "OutcomeMap",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

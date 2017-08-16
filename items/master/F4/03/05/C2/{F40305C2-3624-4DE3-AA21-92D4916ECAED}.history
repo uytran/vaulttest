@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F40305C2-3624-4DE3-AA21-92D4916ECAED}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:31:09.5963158Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "StateProvince",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Segment Builder/StateProvince",
+    "template": "Condition",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

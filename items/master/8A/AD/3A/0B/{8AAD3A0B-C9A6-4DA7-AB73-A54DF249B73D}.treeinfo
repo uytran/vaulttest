@@ -1,0 +1,10 @@
+{
+  "itemName": "Visitor Identification",
+  "templateId": "{AB86861A-6030-46C5-B394-E8F99E8B87DB}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{645DF3D7-28AF-4984-90A2-AEA8913DF75A}",
+  "childIds": [
+    "{AA31EEA8-5650-4E61-9567-54ADE5F5C36C}",
+    "{8273FA5D-090A-439C-A1E3-E0F787DDE5C0}"
+  ]
+}

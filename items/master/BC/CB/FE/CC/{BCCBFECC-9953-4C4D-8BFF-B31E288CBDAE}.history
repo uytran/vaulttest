@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BCCBFECC-9953-4C4D-8BFF-B31E288CBDAE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:30:48.4797196Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Information Architecture",
+    "itemPath": "/sitecore/system/Settings/Buckets/Settings/Search Operations/Information Architecture",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

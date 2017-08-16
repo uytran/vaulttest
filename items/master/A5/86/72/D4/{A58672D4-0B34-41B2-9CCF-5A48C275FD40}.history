@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A58672D4-0B34-41B2-9CCF-5A48C275FD40}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:29:40.5980747Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Login with Facebook",
+    "itemPath": "/sitecore/layout/Renderings/Social MVC/Connector/Login with Facebook",
+    "template": "Controller rendering",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "itemName": "Editor",
+  "templateId": "{E269FBB5-3750-427A-9149-7AA950B49301}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{8C5EAD00-5F68-4310-AB0C-84F283B5EE0A}",
+  "childIds": [
+    "{8728A037-47D3-4180-B754-87926EDA7AE8}"
+  ]
+}

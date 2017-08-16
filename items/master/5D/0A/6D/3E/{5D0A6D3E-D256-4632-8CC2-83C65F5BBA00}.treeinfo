@@ -1,0 +1,9 @@
+{
+  "itemName": "__Layout Preset",
+  "templateId": "{35E75C72-4985-4E09-88C3-0EAC6CD1E64F}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{BCD8EB24-4D10-4A47-ACF8-64F93A0F3740}",
+  "childIds": [
+    "{4A28CAE0-6AAA-4549-AE88-CF4C84725D93}"
+  ]
+}

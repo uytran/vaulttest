@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F3A13DAD-BFC7-410C-9287-0F00065EAC57}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:31:41.1907759Z",
+    "label": "Snapshot - testing snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Login goal map",
+    "itemPath": "/sitecore/templates/Branches/System/Path Analyzer/Site map group/$name/Goal maps/Login goal map",
+    "template": "GoalMap",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]
