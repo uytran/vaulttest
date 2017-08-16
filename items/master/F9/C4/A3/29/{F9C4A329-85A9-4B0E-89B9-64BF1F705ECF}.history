@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{F9C4A329-85A9-4B0E-89B9-64BF1F705ECF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:25:43.2743960Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "sectioname",
+    "itemPath": "/sitecore/templates/User Defined/testing temp/sectioname",
+    "template": "Template section",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

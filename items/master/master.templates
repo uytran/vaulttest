@@ -20948,7 +20948,38 @@
       "name": "testing temp",
       "id": "{2BEED9B3-AE52-4B8A-836F-03F783DEB651}",
       "icon": "Applications/16x16/form_blue.png",
-      "sections": []
+      "sections": [
+        {
+          "name": "sectioname",
+          "id": "{F9C4A329-85A9-4B0E-89B9-64BF1F705ECF}",
+          "sortOrder": 100,
+          "icon": "Applications/16x16/form_blue.png",
+          "fields": [
+            {
+              "name": "Potato",
+              "id": "{61F57E43-D0CB-4163-933A-E514F3CE48BE}",
+              "defaultValue": null,
+              "type": "Single-Line Text",
+              "unversioned": false,
+              "description": "",
+              "excludeFromTextSearch": false,
+              "helpLink": "",
+              "icon": "/sitecore/shell/themes/Standard/Applications/32x32/Document.png",
+              "ignoreDictionaryTranslations": false,
+              "isBlob": false,
+              "resetBlank": false,
+              "shared": false,
+              "sortorder": 100,
+              "source": "",
+              "style": "",
+              "title": "",
+              "toolTip": "",
+              "validation": "",
+              "validationText": ""
+            }
+          ]
+        }
+      ]
     },
     {
       "name": "OutcomeMap",
