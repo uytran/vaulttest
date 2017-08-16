@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{2BEED9B3-AE52-4B8A-836F-03F783DEB651}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T16:25:32.2956039Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "testing temp",
+    "itemPath": "/sitecore/templates/User Defined/testing temp",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]
