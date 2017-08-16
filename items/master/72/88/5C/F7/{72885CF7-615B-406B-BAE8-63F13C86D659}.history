@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{72885CF7-615B-406B-BAE8-63F13C86D659}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-16T23:39:15.2611489Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "after move",
+    "itemPath": "/sitecore/content/Home/after move",
+    "template": "Sample Item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]
