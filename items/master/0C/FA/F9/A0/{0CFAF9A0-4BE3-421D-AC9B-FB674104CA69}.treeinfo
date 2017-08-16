@@ -2,8 +2,6 @@
   "itemName": "potato",
   "templateId": "{76036F5E-CBCE-46D1-AF0A-4143F9B557AA}",
   "branchId": "{00000000-0000-0000-0000-000000000000}",
-  "parentId": "{110D559F-DEA5-42EA-9C1C-8A5DF7E70EF9}",
-  "childIds": [
-    "{1B790E6C-2696-4FF6-8A53-56A7E210651F}"
-  ]
+  "parentId": "{00000000-0000-0000-0000-000000000000}",
+  "childIds": []
 }
