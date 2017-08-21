@@ -1,0 +1,19 @@
+{
+  "id": "974d88ab-4952-4bcd-b37f-6f578540f808",
+  "releaseName": "new dpo",
+  "lastModified": "2017-08-21T20:48:01.6184347Z",
+  "lastDeployed": "0001-01-01T00:00:00",
+  "lastRollback": "0001-01-01T00:00:00",
+  "releaseItems": [
+    {
+      "database": "master",
+      "recursive": true,
+      "installMode": 0,
+      "sitecoreItemId": "{110D559F-DEA5-42EA-9C1C-8A5DF7E70EF9}",
+      "rolledback": null,
+      "languages": [],
+      "autoPublish": false
+    }
+  ],
+  "serverDeployments": null
+}
