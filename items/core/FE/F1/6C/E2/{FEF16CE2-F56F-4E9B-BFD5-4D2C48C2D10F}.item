@@ -1,0 +1,59 @@
+----item----
+version: 1
+id: {FEF16CE2-F56F-4E9B-BFD5-4D2C48C2D10F}
+database: core
+path: /sitecore/system/Packages/Installation history/Unnamed Package/20170821T211603Z
+parent: {29EE89A5-16E7-4C99-9443-B490DFE973E3}
+name: 20170821T211603Z
+master: {00000000-0000-0000-0000-000000000000}
+template: {22A11D20-5F1D-4216-BF3F-18C016F1F98E}
+templatekey: Package registration
+created: 20170821T211603:636389469638030000
+
+----version----
+language: en
+version: 1
+revision: 99f6ee92-0bab-4a93-b888-c6b1b9610236
+
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170821T211603Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+99f6ee92-0bab-4a93-b888-c6b1b9610236
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170821T211603Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
