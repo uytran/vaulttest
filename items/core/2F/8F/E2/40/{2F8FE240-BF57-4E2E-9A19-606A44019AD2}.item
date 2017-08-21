@@ -20,15 +20,22 @@ content-length: 158
 ----version----
 language: en
 version: 1
-revision: 60a66178-e500-4004-8047-3c6d8583ae6f
+revision: 31b03031-e734-4969-8f6d-79619aaa5753
 
 ----field----
 field: {96E43D34-70FC-4AF9-B84A-F3926DDD6718}
 name: Query
 key: query
-content-length: 56
+content-length: 86
 
-Timestamp BETWEEN "2017-07-10T07:00:00.000Z" AND {today}
+Timestamp BETWEEN "2017-07-10T07:00:00.000Z" AND {today} AND (EventType != 'Snapshot')
+----field----
+field: {EFA0B7F3-1879-46E2-85EF-E399A53CD3A9}
+name: Filters
+key: filters
+content-length: 23
+
+EventType != 'Snapshot'
 ----field----
 field: {0FF8D388-BF06-418D-9EAE-4890C9DA9BD6}
 name: Start Date
@@ -84,14 +91,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-60a66178-e500-4004-8047-3c6d8583ae6f
+31b03031-e734-4969-8f6d-79619aaa5753
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170809T154118Z
+20170821T210419Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
