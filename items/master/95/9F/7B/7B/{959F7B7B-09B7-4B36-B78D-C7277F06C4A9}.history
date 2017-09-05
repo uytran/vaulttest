@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{959F7B7B-09B7-4B36-B78D-C7277F06C4A9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-09-05T22:21:55.1111135Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "temp field",
+    "itemPath": "/sitecore/templates/User Defined/masterTest/section here/temp field",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]
