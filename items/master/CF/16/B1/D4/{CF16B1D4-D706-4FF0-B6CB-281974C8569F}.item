@@ -10,10 +10,17 @@ template: {AB86861A-6030-46C5-B394-E8F99E8B87DB}
 templatekey: Template
 created: 20170905T221858:636402467383670000
 
+----field----
+field: {12C33F3F-86C5-43A5-AEB4-5598CEC45116}
+name: __Base template
+key: __base template
+content-length: 38
+
+{1930BBEB-7805-471A-A3BE-4858AC7CF696}
 ----version----
 language: en
 version: 1
-revision: 7c59f991-a182-4998-b46e-89ba6c098e9f
+revision: 8327a3f5-d23f-4cb4-ace9-6ee0e8346449
 
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
@@ -35,7 +42,7 @@ name: __Revision
 key: __revision
 content-length: 36
 
-7c59f991-a182-4998-b46e-89ba6c098e9f
+8327a3f5-d23f-4cb4-ace9-6ee0e8346449
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
