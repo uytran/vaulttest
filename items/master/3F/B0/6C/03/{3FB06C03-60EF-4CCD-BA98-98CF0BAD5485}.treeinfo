@@ -1,0 +1,9 @@
+{
+  "itemName": "masterTest",
+  "templateId": "{AB86861A-6030-46C5-B394-E8F99E8B87DB}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{B29EE504-861C-492F-95A3-0D890B6FCA09}",
+  "childIds": [
+    "{42F08C38-36E9-498A-BE2B-41737CA6E87C}"
+  ]
+}
